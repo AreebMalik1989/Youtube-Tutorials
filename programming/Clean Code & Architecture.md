@@ -5,3 +5,6 @@
 * [Clean Code - Uncle Bob / Lesson 4](https://www.youtube.com/watch?v=58jGpV2Cg50)
 * [Clean Code - Uncle Bob / Lesson 5](https://www.youtube.com/watch?v=sn0aFEMVTpA)
 * [Clean Code - Uncle Bob / Lesson 6](https://www.youtube.com/watch?v=l-gF0vDhJVI)
+
+### Functional Programming
+* [JSConf/Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
