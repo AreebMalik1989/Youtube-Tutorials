@@ -8,3 +8,6 @@
 
 ### Functional Programming
 * [JSConf/Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
+
+### Clean Architecture
+* [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
