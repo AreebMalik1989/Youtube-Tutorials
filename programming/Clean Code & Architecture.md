@@ -1,3 +1,7 @@
+### Software Craftsmanship
+* [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
+* [DevTernity / Beyond Software Craftsmanship by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE)
+
 ### Clean Code
 * [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
 * [Clean Code - Uncle Bob / Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8)
