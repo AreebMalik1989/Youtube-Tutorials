@@ -3,3 +3,6 @@
 
 ## Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
+
+## Playlists
+* [Next Day Video / PyTexas 2019](https://www.youtube.com/playlist?list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ)
