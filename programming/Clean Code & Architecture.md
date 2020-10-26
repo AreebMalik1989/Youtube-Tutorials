@@ -16,6 +16,7 @@
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [GOTO Conferences / GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [NDC Conferences / Refactoring to Immutability - Kevlin Henney](https://www.youtube.com/watch?v=APUCMSPiNh4)
 * [ChariotSolutions / Richard Feldman — The Next Paradigm Shift in Programming](https://www.youtube.com/watch?v=6YbK8o9rZfI)
 
 ### Clean Architecture
