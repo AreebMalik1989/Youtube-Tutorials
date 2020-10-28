@@ -6,3 +6,6 @@
 
 ### Node
 * [freeCodeCamp.org / Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+
+### BDD
+* [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
