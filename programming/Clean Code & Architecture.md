@@ -15,10 +15,13 @@
 * [cpponsea / The Forgotten Art of Structured Programming - Kevlin Henney \[C++ on Sea 2019\]](https://www.youtube.com/watch?v=SFv8Wm2HdNM)
 * [NDC Conferences / Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
 * [NDC Conferences / Refactoring to Immutability - Kevlin Henney](https://www.youtube.com/watch?v=APUCMSPiNh4)
+* [NDC Conferences / Thinking Outside the Synchronisation Quadrant - Kevlin Henney](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
+* [GOTO Conferences / GOTO 2017 • Code as Risk • Kevlin Henney](https://www.youtube.com/watch?v=YyhfK-aBo-Y)
 
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [GOTO Conferences / GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [DevWeek Events / If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 * [ChariotSolutions / Richard Feldman — The Next Paradigm Shift in Programming](https://www.youtube.com/watch?v=6YbK8o9rZfI)
 
 ### Clean Architecture
