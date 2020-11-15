@@ -26,6 +26,7 @@
 
 ### Clean Architecture
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
+* [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 
 ### TDD
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
