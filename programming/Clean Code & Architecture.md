@@ -17,6 +17,13 @@
 * [NDC Conferences / Refactoring to Immutability - Kevlin Henney](https://www.youtube.com/watch?v=APUCMSPiNh4)
 * [NDC Conferences / Thinking Outside the Synchronisation Quadrant - Kevlin Henney](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
 * [GOTO Conferences / GOTO 2017 • Code as Risk • Kevlin Henney](https://www.youtube.com/watch?v=YyhfK-aBo-Y)
+* [Build Stuff / Kevlin Henney - Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=otAcmD6XEEE)
+* [BrewingAgile / Agility ≠ Speed - Kevlin Henney](https://www.youtube.com/watch?v=kmFcNyZrUNM)
+* [ACCU Conference / What Do You Mean? - Kevlin Henney [ACCU 2019]](https://www.youtube.com/watch?v=ndnvOElnyUg)
+* [DevTernity / DevTernity 2019: Kevlin Henney - Lean Code](https://www.youtube.com/watch?v=-nWhH-4wWBU)
+* [GOTO Conferences / GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o)
+* [Build Stuff / Kevlin Henney - Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk)
+* [ACCU Conference / 'Declarative Thinking, Declarative Practice' - Kevlin Henney [ ACCU 2016 ]](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
 
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
