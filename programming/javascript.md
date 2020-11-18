@@ -10,3 +10,6 @@
 
 ### BDD
 * [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
+
+### Games
+* [Code Explained / Code The Snake Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=9TcU2C1AACw&list=WL&index=141)
