@@ -1,3 +1,4 @@
+* [NeuralNine / Coding A DDOS Script in Python](https://www.youtube.com/watch?v=DD1j8SG3Sh0)
 * [NeuralNine / Coding A Simple Virus in Python](https://www.youtube.com/watch?v=qNy_amMuVZQ)
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
@@ -6,6 +7,7 @@
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 
 ## Sockets
+* [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 * [sentdex / Sockets with Python 3](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
 
 ## Playlists
