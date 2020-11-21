@@ -10,5 +10,8 @@
 * [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 * [sentdex / Sockets with Python 3](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
 
+## Database
+* [freeCodeCamp.org / SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4)
+
 ## Playlists
 * [Next Day Video / PyTexas 2019](https://www.youtube.com/playlist?list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ)
