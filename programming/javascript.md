@@ -7,6 +7,7 @@
 * [Traversy Media / JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 
 ### Node
+* [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [freeCodeCamp.org / Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
 ### BDD
