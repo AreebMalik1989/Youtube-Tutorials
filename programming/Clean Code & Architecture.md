@@ -32,6 +32,7 @@
 * [ChariotSolutions / Richard Feldman — The Next Paradigm Shift in Programming](https://www.youtube.com/watch?v=6YbK8o9rZfI)
 
 ### Clean Architecture
+* [Paulovich DotNet / Clean Architecture Essentials - Stockholm Software Craftsmanship](https://www.youtube.com/watch?v=hZGF6RHrr8o)
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 
