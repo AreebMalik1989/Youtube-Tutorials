@@ -2,13 +2,15 @@
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
 * [DevTernity / Beyond Software Craftsmanship by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE)
 
-### Clean Code
+### Uncle Bob
 * [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
 * [Clean Code - Uncle Bob / Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8)
 * [Clean Code - Uncle Bob / Lesson 3](https://www.youtube.com/watch?v=Qjywrq2gM8o)
 * [Clean Code - Uncle Bob / Lesson 4](https://www.youtube.com/watch?v=58jGpV2Cg50)
 * [Clean Code - Uncle Bob / Lesson 5](https://www.youtube.com/watch?v=sn0aFEMVTpA)
 * [Clean Code - Uncle Bob / Lesson 6](https://www.youtube.com/watch?v=l-gF0vDhJVI)
+* [gnbitcom / Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+* [YOW! Conferences / YOW! 2016 Robert C. Martin - Effective Estimation (or: How not to Lie)](https://www.youtube.com/watch?v=eisuQefYw_o)
 
 ### Kevlin Henney
 * [GOTO Conferences / GOTO 2016 • Small Is Beautiful • Kevlin Henney](https://www.youtube.com/watch?v=B3b4tremI5o)
@@ -24,6 +26,9 @@
 * [GOTO Conferences / GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o)
 * [Build Stuff / Kevlin Henney - Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk)
 * [ACCU Conference / 'Declarative Thinking, Declarative Practice' - Kevlin Henney [ ACCU 2016 ]](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
+* [Devoxx / Move Slow and Mend Things by Kevlin Henney](https://www.youtube.com/watch?v=1kklyq4XYpw)
+* [YOW! Conferences / YOW! 2013 Kevlin Henney - The SOLID Design Principles Deconstructed #YOW](https://www.youtube.com/watch?v=tMW08JkFrBA)
+* [DevWeek Events / A system is not a tree - Kevlin Henney](https://www.youtube.com/watch?v=ARkLVvtxUZI)
 
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
