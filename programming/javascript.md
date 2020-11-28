@@ -10,6 +10,9 @@
 * [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [freeCodeCamp.org / Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
+### Express
+* [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+
 ### BDD
 * [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
 
