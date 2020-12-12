@@ -1,3 +1,6 @@
+### Concepts
+* [All Things JavaScript, LLC / JavaScript Fundamentals: Checking for null and undefined](https://www.youtube.com/watch?v=9T1EnuqLzxk)
+
 ### Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
 * [freeCodeCamp.org / Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
