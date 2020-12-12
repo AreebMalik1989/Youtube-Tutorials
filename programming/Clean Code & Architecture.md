@@ -30,6 +30,7 @@
 * [Devoxx / Move Slow and Mend Things by Kevlin Henney](https://www.youtube.com/watch?v=1kklyq4XYpw)
 * [YOW! Conferences / YOW! 2013 Kevlin Henney - The SOLID Design Principles Deconstructed #YOW](https://www.youtube.com/watch?v=tMW08JkFrBA)
 * [DevWeek Events / A system is not a tree - Kevlin Henney](https://www.youtube.com/watch?v=ARkLVvtxUZI)
+* [GOTO Conferences / GOTO 2020 • Software Is Details • Kevlin Henney](https://www.youtube.com/watch?v=kX0prJklhUE)
 
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
