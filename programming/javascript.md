@@ -1,5 +1,6 @@
 ### Concepts
 * [All Things JavaScript, LLC / JavaScript Fundamentals: Checking for null and undefined](https://www.youtube.com/watch?v=9T1EnuqLzxk)
+* [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 
 ### Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
