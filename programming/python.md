@@ -1,8 +1,11 @@
 * [NeuralNine / Coding A DDOS Script in Python](https://www.youtube.com/watch?v=DD1j8SG3Sh0)
 * [NeuralNine / Coding A Simple Virus in Python](https://www.youtube.com/watch?v=qNy_amMuVZQ)
 * [David Bombal / Python keylogger](https://www.youtube.com/watch?v=XKoTwepEzPI)
-* [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+
+## Testing
+* [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
+* [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 
 ## Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
