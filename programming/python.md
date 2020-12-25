@@ -23,5 +23,8 @@
 * [Sebastiaan Mathôt / 7 Simple Tricks to Write Better Python Code](https://www.youtube.com/watch?v=VBokjWj_cEA)
 * [Sebastiaan Mathôt / 7 More Tricks to Write Better Python Code](https://www.youtube.com/watch?v=SNTZpy0oDB8)
 
-## Playlists
+### Playlists
 * [Next Day Video / PyTexas 2019](https://www.youtube.com/playlist?list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ)
+
+### Metaprogramming
+* [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
