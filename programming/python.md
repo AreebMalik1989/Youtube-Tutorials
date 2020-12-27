@@ -19,6 +19,9 @@
 ## Database
 * [freeCodeCamp.org / SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4)
 
+## Flask
+* [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+
 ## Misc
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
