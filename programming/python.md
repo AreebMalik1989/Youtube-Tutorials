@@ -1,5 +1,6 @@
 * [NeuralNine / Coding A DDOS Script in Python](https://www.youtube.com/watch?v=DD1j8SG3Sh0)
 * [NeuralNine / Coding A Simple Virus in Python](https://www.youtube.com/watch?v=qNy_amMuVZQ)
+* [NeuralNine / Coding A Trojan Horse in Python](https://www.youtube.com/watch?v=ETnjWwx2V8o)
 * [David Bombal / Python keylogger](https://www.youtube.com/watch?v=XKoTwepEzPI)
 
 ## Tutorials
