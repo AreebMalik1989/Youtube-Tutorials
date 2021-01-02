@@ -7,6 +7,11 @@
 * [freeCodeCamp.org / Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI)
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 
+## Concurrent
+* [JetBrainsTV / Demystifying Python's Async and Await Keywords](https://www.youtube.com/watch?v=F19R_M4Nay4)
+* [Andy Balaam / Python Async basics video (100 million HTTP requests)](https://www.youtube.com/watch?v=Mj-Pyg4gsPs)
+* [Arun Ravindran ArunRocks / Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
+
 ## Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [EuroPython Conference / Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA)
