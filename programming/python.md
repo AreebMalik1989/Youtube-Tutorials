@@ -9,6 +9,7 @@
 
 ## Concurrent
 * [JetBrainsTV / Demystifying Python's Async and Await Keywords](https://www.youtube.com/watch?v=F19R_M4Nay4)
+* [SF Python / asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
 * [Andy Balaam / Python Async basics video (100 million HTTP requests)](https://www.youtube.com/watch?v=Mj-Pyg4gsPs)
 * [Arun Ravindran ArunRocks / Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
 
@@ -28,6 +29,9 @@
 ## Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 
+## Django
+* [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
+
 ## Sockets
 * [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 * [sentdex / Sockets with Python 3](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
@@ -41,9 +45,9 @@
 ## Misc
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
 
+## Metaprogramming
+* [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
+
 ## Playlists
 * [Sebastiaan Mathôt / Python lectures](https://www.youtube.com/playlist?list=PLR-r0edywujd8D-R2Kue1C_wYEK_4Ii71)
 * [Next Day Video / PyTexas 2019](https://www.youtube.com/playlist?list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ)
-
-## Metaprogramming
-* [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
