@@ -10,6 +10,7 @@
 ## Concurrent
 * [NDC Conferences / Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
 * [JetBrainsTV / Demystifying Python's Async and Await Keywords](https://www.youtube.com/watch?v=F19R_M4Nay4)
+* [PyCon 2018 / John Reese - Thinking Outside the GIL with AsyncIO and Multiprocessing - PyCon 2018](https://www.youtube.com/watch?v=0kXaLh8Fz3k)
 * [SF Python / asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
 * [PyTexas / Why should I care about asyncio](https://www.youtube.com/watch?v=b6z2VB1JU3U)
 * [Andy Balaam / Python Async basics video (100 million HTTP requests)](https://www.youtube.com/watch?v=Mj-Pyg4gsPs)
