@@ -8,10 +8,13 @@
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 
 ## Concurrent
+* [NDC Conferences / Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
 * [JetBrainsTV / Demystifying Python's Async and Await Keywords](https://www.youtube.com/watch?v=F19R_M4Nay4)
 * [SF Python / asyncio: what's next | Yury Selivanov @ PyBay2018](https://www.youtube.com/watch?v=vem5GHboRNM)
+* [PyTexas / Why should I care about asyncio](https://www.youtube.com/watch?v=b6z2VB1JU3U)
 * [Andy Balaam / Python Async basics video (100 million HTTP requests)](https://www.youtube.com/watch?v=Mj-Pyg4gsPs)
 * [Arun Ravindran ArunRocks / Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
+* [PyCon 2018 / Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
 
 ## Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
