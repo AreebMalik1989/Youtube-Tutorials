@@ -33,6 +33,7 @@
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 
 ## Testing
+* [Next Day Video / Egad! How Do We Start Writing (Better) Tests?](https://www.youtube.com/watch?v=vGn4ydtRpCU)
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 
@@ -53,6 +54,7 @@
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 
 ## Misc
+* [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
 
 ## Metaprogramming
