@@ -18,6 +18,10 @@
 * [Arun Ravindran ArunRocks / Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
 * [PyCon 2018 / Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
 * [PyCon AU / A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
+* [PyCon Taiwan / What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)
+
+## Multithreading / Multiprocessing
+* [New Zealand Python User Group / Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
 
 ## Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
