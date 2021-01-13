@@ -39,6 +39,7 @@
 
 ## Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
+* [Next Day Video / Monoids in Python](https://www.youtube.com/watch?v=50qhv8C3s9I)
 
 ## Django
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
