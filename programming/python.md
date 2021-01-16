@@ -21,7 +21,14 @@
 * [PyCon Taiwan / What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)
 
 ## Multithreading / Multiprocessing
+* [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 * [New Zealand Python User Group / Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
+* [LucidProgramming / Multiprocessing in Python: Introduction (Part 1)](https://www.youtube.com/watch?v=RR4SoktDQAw)
+* [LucidProgramming / Multiprocessing in Python: Introduction (Part 2)](https://www.youtube.com/watch?v=itbx_hDX7z8)
+* [LucidProgramming / Multiprocessing in Python: Locks](https://www.youtube.com/watch?v=iYJNmuD4McE)
+* [LucidProgramming / Multiprocessing in Python: Logging](https://www.youtube.com/watch?v=KpDKpgzvmrY)
+* [LucidProgramming / Multiprocessing in Python: Pool](https://www.youtube.com/watch?v=u2jTn-Gj2Xw)
+* [LucidProgramming / Multiprocessing in Python: Process Communication](https://www.youtube.com/watch?v=TQx3IfCVvQ0)
 
 ## Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
