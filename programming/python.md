@@ -34,10 +34,15 @@
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [EuroPython Conference / Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA)
 
+## Performance
+* [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
+* [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
+
 ## Pythonic code
 * [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
-* [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
+* [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
+* [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 
 ## Testing
 * [Next Day Video / Egad! How Do We Start Writing (Better) Tests?](https://www.youtube.com/watch?v=vGn4ydtRpCU)
@@ -62,7 +67,6 @@
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 
 ## Misc
-* [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
 
 ## Metaprogramming
