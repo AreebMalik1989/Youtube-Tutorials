@@ -4,6 +4,7 @@
 * [David Bombal / Python keylogger](https://www.youtube.com/watch?v=XKoTwepEzPI)
 
 ## Tutorials
+* [Tech With Tim / Python As Fast as Possible - Learn Python in ~75 Minutes](https://www.youtube.com/watch?v=VchuKL44s6E)
 * [freeCodeCamp.org / Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI)
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 
