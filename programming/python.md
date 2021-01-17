@@ -43,6 +43,7 @@
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
+* [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 
 ## Testing
 * [Next Day Video / Egad! How Do We Start Writing (Better) Tests?](https://www.youtube.com/watch?v=vGn4ydtRpCU)
