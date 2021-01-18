@@ -77,3 +77,6 @@
 ## Playlists
 * [Sebastiaan Mathôt / Python lectures](https://www.youtube.com/playlist?list=PLR-r0edywujd8D-R2Kue1C_wYEK_4Ii71)
 * [Next Day Video / PyTexas 2019](https://www.youtube.com/playlist?list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ)
+
+## GIL
+* [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
