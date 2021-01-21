@@ -82,3 +82,6 @@
 
 ## GIL
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
+
+## Micropython
+* [PyCon AU / Asyncio in (Micro)Python](https://www.youtube.com/watch?v=tIgu7q38bUw)
