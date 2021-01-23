@@ -24,6 +24,8 @@
 ## Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 * [New Zealand Python User Group / Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
+* [SF Python / Raymond Hettinger, Keynote on Concurrency, PyBay 2017](https://www.youtube.com/watch?v=9zinZmE3Ogk)
+* [EuroPython Conference / David Beazley - Die Threads](https://www.youtube.com/watch?v=xOyJiN3yGfU)
 * [LucidProgramming / Multiprocessing in Python: Introduction (Part 1)](https://www.youtube.com/watch?v=RR4SoktDQAw)
 * [LucidProgramming / Multiprocessing in Python: Introduction (Part 2)](https://www.youtube.com/watch?v=itbx_hDX7z8)
 * [LucidProgramming / Multiprocessing in Python: Locks](https://www.youtube.com/watch?v=iYJNmuD4McE)
@@ -45,6 +47,7 @@
 * [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
+* [PyCon 2017 / David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 
@@ -85,3 +88,6 @@
 
 ## Micropython
 * [PyCon AU / Asyncio in (Micro)Python](https://www.youtube.com/watch?v=tIgu7q38bUw)
+
+## Raspberry Pi
+* [Kalle Hallden / Creating A Raspberry Pi Web Server For My Home!](https://www.youtube.com/watch?v=6gkoDQUQSLc)
