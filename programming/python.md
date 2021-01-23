@@ -45,10 +45,11 @@
 ## Pythonic code
 * [Caleb Curry / 50 Python Tips and Tricks for Beginners](https://www.youtube.com/watch?v=F3T8tg2tVKM)
 * [Caleb Curry / 25 Pythonic Tips + Tricks](https://www.youtube.com/watch?v=y4I3VI1N_ts)
-* [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
-* [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [PyCon 2018 / Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
 * [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [PyCon 2017 / David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
+* [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
+* [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 
@@ -70,6 +71,7 @@
 
 ## Database
 * [freeCodeCamp.org / SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4)
+* [Next Day Video / SQL for Python Developers](https://www.youtube.com/watch?v=Thd8yoBou7k)
 
 ## Flask
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
