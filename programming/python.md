@@ -36,6 +36,7 @@
 ## Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [EuroPython Conference / Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA)
+* [SF Python / The Mental Game of Python - Raymond Hettinger](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
 
 ## Performance
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
