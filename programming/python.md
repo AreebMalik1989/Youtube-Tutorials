@@ -10,6 +10,29 @@
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 * [Amigoscode / Python Tutorial | Python for Absolute Beginners [2021]](https://www.youtube.com/watch?v=LzYNWme1W6Q)
 
+## Pythonic code
+* [Caleb Curry / 50 Python Tips and Tricks for Beginners](https://www.youtube.com/watch?v=F3T8tg2tVKM)
+* [Caleb Curry / 25 Pythonic Tips + Tricks](https://www.youtube.com/watch?v=y4I3VI1N_ts)
+* [PyCon 2018 / Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
+* [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
+* [PyCon 2017 / David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
+* [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
+* [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+* [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
+* [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
+* [code::dive conference / When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019](https://www.youtube.com/watch?v=S0No2zSJmks)
+* [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
+
+## Testing
+* [Next Day Video / Egad! How Do We Start Writing (Better) Tests?](https://www.youtube.com/watch?v=vGn4ydtRpCU)
+* [SF Python / Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget | Raymond Hettinger @ PyBay2018](https://www.youtube.com/watch?v=ARKbfWk4Xyw)
+* [Next Day Video / Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=hM_ex4-xu4E)
+* [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
+* [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
+* [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
+* [SF Python / An Intro to Load Testing with Locust and Python - Gabriel Boorse](https://www.youtube.com/watch?v=uvs4cq6JCeU)
+* [SF Python / Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
+
 ## Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
 * [NDC Conferences / Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
@@ -40,36 +63,13 @@
 * [EuroPython Conference / Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA)
 * [SF Python / The Mental Game of Python - Raymond Hettinger](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
 
-## Performance
-* [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
-* [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
-
-## Pythonic code
-* [Caleb Curry / 50 Python Tips and Tricks for Beginners](https://www.youtube.com/watch?v=F3T8tg2tVKM)
-* [Caleb Curry / 25 Pythonic Tips + Tricks](https://www.youtube.com/watch?v=y4I3VI1N_ts)
-* [PyCon 2018 / Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
-* [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
-* [PyCon 2017 / David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
-* [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
-* [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
-* [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
-* [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
-* [code::dive conference / When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019](https://www.youtube.com/watch?v=S0No2zSJmks)
-* [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
-
-## Testing
-* [Next Day Video / Egad! How Do We Start Writing (Better) Tests?](https://www.youtube.com/watch?v=vGn4ydtRpCU)
-* [SF Python / Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget | Raymond Hettinger @ PyBay2018](https://www.youtube.com/watch?v=ARKbfWk4Xyw)
-* [Next Day Video / Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=hM_ex4-xu4E)
-* [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
-* [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
-* [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
-* [SF Python / An Intro to Load Testing with Locust and Python - Gabriel Boorse](https://www.youtube.com/watch?v=uvs4cq6JCeU)
-* [SF Python / Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
-
 ## Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 * [Next Day Video / Monoids in Python](https://www.youtube.com/watch?v=50qhv8C3s9I)
+
+## Performance
+* [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
+* [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
 
 ## Django
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
