@@ -8,6 +8,7 @@
 * [Tech With Tim / Python As Fast as Possible - Learn Python in ~75 Minutes](https://www.youtube.com/watch?v=VchuKL44s6E)
 * [freeCodeCamp.org / Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI)
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+* [Amigoscode / Python Tutorial | Python for Absolute Beginners [2021]](https://www.youtube.com/watch?v=LzYNWme1W6Q)
 
 ## Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
