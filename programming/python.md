@@ -30,6 +30,7 @@
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
+* [Next Day Video / Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 * [SF Python / An Intro to Load Testing with Locust and Python - Gabriel Boorse](https://www.youtube.com/watch?v=uvs4cq6JCeU)
 * [SF Python / Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
 
