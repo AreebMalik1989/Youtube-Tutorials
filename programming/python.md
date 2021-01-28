@@ -30,6 +30,7 @@
 * [Next Day Video / Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=hM_ex4-xu4E)
 * [Next Day Video / Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 ### Pytest
+* [PyGotham 2017 / Automated testing with pytest and fixtures](https://www.youtube.com/watch?v=8mp_1Jt-xHQ)
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
 ### unittest
