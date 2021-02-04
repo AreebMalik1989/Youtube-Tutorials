@@ -13,6 +13,7 @@
 ## Pythonic code
 * [Caleb Curry / 50 Python Tips and Tricks for Beginners](https://www.youtube.com/watch?v=F3T8tg2tVKM)
 * [Caleb Curry / 25 Pythonic Tips + Tricks](https://www.youtube.com/watch?v=y4I3VI1N_ts)
+* [PyGotham 2019 / The magic of Python](https://www.youtube.com/watch?v=ZlLzcUBQZyI)
 * [PyCon 2018 / Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://www.youtube.com/watch?v=WiQqqB9MlkA)
 * [Next Day Video / Iteration & Generators: the Python Way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [PyCon 2017 / David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
