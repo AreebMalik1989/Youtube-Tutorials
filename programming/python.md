@@ -32,6 +32,9 @@
 * [Next Day Video / Stop Mocking, Start Testing](https://www.youtube.com/watch?v=Xu5EhKVZdV8)
 * [Next Day Video / Speedily Practical Large-Scale Tests](https://www.youtube.com/watch?v=1VZfL9JVgFg)
 ### Pytest
+* [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
+* [Mark Vousden / Python testing with pytest! Part 2: Pytest examples, fixtures, and parameterisation.](https://www.youtube.com/watch?v=61qlPRhTPLY)
+* [Mark Vousden / Python testing with pytest! Part 3: Parallelising tests and isolating software.](https://www.youtube.com/watch?v=IW_rR7Y6dbM)
 * [PyGotham 2017 / Automated testing with pytest and fixtures](https://www.youtube.com/watch?v=8mp_1Jt-xHQ)
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
