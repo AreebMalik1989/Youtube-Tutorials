@@ -4,3 +4,6 @@
 
 ## CSS
 * [freeCodeCamp.org / CSS Full Course - Includes Flexbox and CSS Grid Tutorials](https://www.youtube.com/watch?v=ieTHC78giGQ)
+
+## HTML-CSS
+* [freeCodeCamp.org / Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
