@@ -39,6 +39,8 @@
 * [PyGotham 2017 / Automated testing with pytest and fixtures](https://www.youtube.com/watch?v=8mp_1Jt-xHQ)
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
+* [Matt Layman / Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
+* [Matt Layman / Python Testing 201 with pytest](https://www.youtube.com/watch?v=fv259R38gqc)
 * [PyGotham 2018 / Database Testing with pytest](https://www.youtube.com/watch?v=c9oeoN1AnUM)
 * [PyGotham 2019 / Beyond Unit Tests: End to End Web UI Testing](https://www.youtube.com/watch?v=Z9ghRBEgnps)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
