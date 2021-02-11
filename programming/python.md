@@ -36,11 +36,11 @@
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
 * [Mark Vousden / Python testing with pytest! Part 2: Pytest examples, fixtures, and parameterisation.](https://www.youtube.com/watch?v=61qlPRhTPLY)
 * [Mark Vousden / Python testing with pytest! Part 3: Parallelising tests and isolating software.](https://www.youtube.com/watch?v=IW_rR7Y6dbM)
+* [Matt Layman / Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
+* [Matt Layman / Python Testing 201 with pytest](https://www.youtube.com/watch?v=fv259R38gqc)
 * [PyGotham 2017 / Automated testing with pytest and fixtures](https://www.youtube.com/watch?v=8mp_1Jt-xHQ)
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
-* [Matt Layman / Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
-* [Matt Layman / Python Testing 201 with pytest](https://www.youtube.com/watch?v=fv259R38gqc)
 * [PyGotham 2018 / Database Testing with pytest](https://www.youtube.com/watch?v=c9oeoN1AnUM)
 * [PyGotham 2019 / Beyond Unit Tests: End to End Web UI Testing](https://www.youtube.com/watch?v=Z9ghRBEgnps)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
@@ -51,6 +51,8 @@
 ### Logging / Debugging
 * [SF Python / Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
 * [PyCon 2018 / Mario Corchero - Effortless Logging: A deep dive into the logging module - PyCon 2018](https://www.youtube.com/watch?v=Pbz1fo7KlGg)
+### pylint
+* [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 
 ## Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
