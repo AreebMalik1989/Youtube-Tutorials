@@ -43,6 +43,7 @@
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
 * [PyGotham 2018 / Database Testing with pytest](https://www.youtube.com/watch?v=c9oeoN1AnUM)
 * [PyGotham 2019 / Beyond Unit Tests: End to End Web UI Testing](https://www.youtube.com/watch?v=Z9ghRBEgnps)
+* [Engineers.SG / Getting started with testing using Pytest and Mock - PythonSG Meetup](https://www.youtube.com/watch?v=k99HSHQDsi4)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
 ### unittest
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
@@ -51,8 +52,10 @@
 ### Logging / Debugging
 * [SF Python / Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
 * [PyCon 2018 / Mario Corchero - Effortless Logging: A deep dive into the logging module - PyCon 2018](https://www.youtube.com/watch?v=Pbz1fo7KlGg)
-### pylint
+### Automated Code Quality
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
+* [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
+* [SF Python / Flavio Juvenal, "Preventing headaches with linters and automated checks", PyBay2017](https://www.youtube.com/watch?v=mXqKaM8Ddac)
 
 ## Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
