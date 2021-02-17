@@ -30,7 +30,6 @@
 * [SF Python / Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget | Raymond Hettinger @ PyBay2018](https://www.youtube.com/watch?v=ARKbfWk4Xyw)
 * [Next Day Video / Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=hM_ex4-xu4E)
 * [Next Day Video / Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
-* [Next Day Video / Stop Mocking, Start Testing](https://www.youtube.com/watch?v=Xu5EhKVZdV8)
 * [Next Day Video / Speedily Practical Large-Scale Tests](https://www.youtube.com/watch?v=1VZfL9JVgFg)
 ### Pytest
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
@@ -42,11 +41,14 @@
 * [ProgrammingKnowledge / Learn Pytest in 60 Minutes : Python Unit Testing Framework](https://www.youtube.com/watch?v=bbp_849-RZ4)
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
 * [PyGotham 2018 / Database Testing with pytest](https://www.youtube.com/watch?v=c9oeoN1AnUM)
-* [PyGotham 2019 / Beyond Unit Tests: End to End Web UI Testing](https://www.youtube.com/watch?v=Z9ghRBEgnps)
+* [PyCon 2020 / Tutorial: Andrew Knight - Hands-On Web App Test Automation](https://www.youtube.com/watch?v=XMMHpv54xxM)
+* [PyCon 2020 / Talk: Brian K Okken - Multiply your Testing Effectiveness with Parameterized Testing](https://www.youtube.com/watch?v=2R1HELARjUk)
+* [PyCon 2020 / Talk: Igor T. Ghisi - Write Less and Test More with Data Regression Testing](https://www.youtube.com/watch?v=YBuVGx3EYSY)
+### mocking
+* [PyCon 2020 / Talk: Harry Percival - Stop Using Mocks (for a while)](https://www.youtube.com/watch?v=rk-f3B-eMkI)
+* [Next Day Video / Stop Mocking, Start Testing](https://www.youtube.com/watch?v=Xu5EhKVZdV8)
 * [Engineers.SG / Getting started with testing using Pytest and Mock - PythonSG Meetup](https://www.youtube.com/watch?v=k99HSHQDsi4)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
-* [PyCon 2020 / Multiply your Testing Effectiveness with Parameterized Testing](https://www.youtube.com/watch?v=2R1HELARjUk)
-* [PyCon 2020 / Write Less and Test More with Data Regression Testing](https://www.youtube.com/watch?v=YBuVGx3EYSY)
 ### unittest
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 ### Locust
