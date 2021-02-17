@@ -45,6 +45,8 @@
 * [PyGotham 2019 / Beyond Unit Tests: End to End Web UI Testing](https://www.youtube.com/watch?v=Z9ghRBEgnps)
 * [Engineers.SG / Getting started with testing using Pytest and Mock - PythonSG Meetup](https://www.youtube.com/watch?v=k99HSHQDsi4)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
+* [PyCon 2020 / Multiply your Testing Effectiveness with Parameterized Testing](https://www.youtube.com/watch?v=2R1HELARjUk)
+* [PyCon 2020 / Write Less and Test More with Data Regression Testing](https://www.youtube.com/watch?v=YBuVGx3EYSY)
 ### unittest
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 ### Locust
