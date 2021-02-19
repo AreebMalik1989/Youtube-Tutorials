@@ -101,6 +101,7 @@
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 
 ## Django
+* [Dennis Ivy / Django Interview Questions (Junior Developer)](https://www.youtube.com/watch?v=9ai0b1LRMQM)
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 
 ## Sockets
