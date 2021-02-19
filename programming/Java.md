@@ -7,4 +7,5 @@
 * [Amigoscode / Java Full Course | Java Tutorial for Beginners [2021] [NEW]](https://www.youtube.com/watch?v=Qgl81fPcLc8)
 
 ## Springboot
+* [Amigoscode / Java Lombok Tutorial [2021]](https://www.youtube.com/watch?v=z7bsNF2Dtf0)
 * [Amigoscode / Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)
