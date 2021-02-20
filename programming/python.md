@@ -48,6 +48,7 @@
 * [PyCon 2020 / Talk: Harry Percival - Stop Using Mocks (for a while)](https://www.youtube.com/watch?v=rk-f3B-eMkI)
 * [Next Day Video / Stop Mocking, Start Testing](https://www.youtube.com/watch?v=Xu5EhKVZdV8)
 * [Engineers.SG / Getting started with testing using Pytest and Mock - PythonSG Meetup](https://www.youtube.com/watch?v=k99HSHQDsi4)
+* [PyCon 2018 / Lisa Roach - Demystifying the Patch Function - PyCon 2018](https://www.youtube.com/watch?v=ww1UsGZV8fQ)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
 ### unittest
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
@@ -56,6 +57,8 @@
 ### Logging / Debugging
 * [SF Python / Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
 * [PyCon 2018 / Mario Corchero - Effortless Logging: A deep dive into the logging module - PyCon 2018](https://www.youtube.com/watch?v=Pbz1fo7KlGg)
+* [Next Day Video / Become a logging expert in 30 minutes](https://www.youtube.com/watch?v=24_4WWkSmNo)
+* [PyCon 2017 / Elizaveta Shashkova Debugging in Python 3 6 Better, Faster, Stronger PyCon 2017](https://www.youtube.com/watch?v=NdObDUbLjdg)
 ### Automated Code Quality
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
