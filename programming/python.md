@@ -32,6 +32,7 @@
 * [Next Day Video / Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 * [Next Day Video / Speedily Practical Large-Scale Tests](https://www.youtube.com/watch?v=1VZfL9JVgFg)
 ### Pytest
+* [Indian Pythonista / Unit Testing in Python with pytest](https://www.youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
 * [Mark Vousden / Python testing with pytest! Part 2: Pytest examples, fixtures, and parameterisation.](https://www.youtube.com/watch?v=61qlPRhTPLY)
 * [Mark Vousden / Python testing with pytest! Part 3: Parallelising tests and isolating software.](https://www.youtube.com/watch?v=IW_rR7Y6dbM)
