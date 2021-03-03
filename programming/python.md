@@ -105,6 +105,7 @@
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 
 ## Django
+* [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
 * [Dennis Ivy / Django Interview Questions (Junior Developer)](https://www.youtube.com/watch?v=9ai0b1LRMQM)
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 
@@ -113,6 +114,7 @@
 * [sentdex / Sockets with Python 3](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
 
 ## Database
+* [Six Feet Up Corp / "Introduction to SQLAlchemy 2020 (Tutorial)" by: Mike Bayer](https://www.youtube.com/watch?v=sO7FFPNvX2s)
 * [freeCodeCamp.org / SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4)
 * [Next Day Video / SQL for Python Developers](https://www.youtube.com/watch?v=Thd8yoBou7k)
 
@@ -133,6 +135,7 @@
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
 
 ## Numpy
+* [freeCodeCamp.org / Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 * [Keith Galli / Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 
 ## Micropython
