@@ -134,9 +134,13 @@
 ## GIL
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
 
-## Numpy
+## Data Science
+### Numpy
 * [freeCodeCamp.org / Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 * [Keith Galli / Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+
+### Matplotlib
+* [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 
 ## Micropython
 * [PyCon AU / Asyncio in (Micro)Python](https://www.youtube.com/watch?v=tIgu7q38bUw)
