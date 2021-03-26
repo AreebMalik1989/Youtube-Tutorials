@@ -16,6 +16,12 @@
 ## Typescript
 * [Academind / TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
+## BDD
+* [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
+
+## React
+* [freeCodeCamp.org / Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44)
+
 ## Node
 * [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [freeCodeCamp.org / Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
@@ -23,11 +29,12 @@
 ## Express
 * [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
-## BDD
-* [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
-
 ## Redux
 * [Programming with Mosh / Redux Tutorial - Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
+
+## Angular
+* [freeCodeCamp.org / Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+* [freeCodeCamp.org / Learn Angular Material - Full Tutorial](https://www.youtube.com/watch?v=jUfEn032IL8)
 
 ## Games
 * [Code Explained / Code The Snake Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=9TcU2C1AACw)
