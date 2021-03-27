@@ -19,6 +19,9 @@
 ## BDD
 * [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
 
+## Vue
+* [freeCodeCamp.org / Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc)
+
 ## React
 * [freeCodeCamp.org / Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44)
 
