@@ -21,6 +21,7 @@
 
 ## Vue
 * [freeCodeCamp.org / Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc)
+* [The Earth Is Square / Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
 
 ## React
 * [freeCodeCamp.org / Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44)
