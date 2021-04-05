@@ -16,9 +16,6 @@
 ## Typescript
 * [Academind / TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
-## BDD
-* [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
-
 ## Vue
 * [freeCodeCamp.org / Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc)
 * [The Earth Is Square / Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
@@ -26,6 +23,7 @@
 ## React
 * [freeCodeCamp.org / Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44)
 * [Codevolution / ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+* [Coding Tech / Intro to React Hooks](https://www.youtube.com/watch?v=rSiE2Bfj6T8)
 
 ## Node
 * [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
@@ -40,6 +38,12 @@
 ## Angular
 * [freeCodeCamp.org / Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 * [freeCodeCamp.org / Learn Angular Material - Full Tutorial](https://www.youtube.com/watch?v=jUfEn032IL8)
+
+## Testing
+* [freeCodeCamp.org / Web App Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so)
+
+## BDD
+* [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
 
 ## Games
 * [Code Explained / Code The Snake Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=9TcU2C1AACw)
