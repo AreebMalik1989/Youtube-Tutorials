@@ -25,6 +25,7 @@
 * [ACCU Conference / What Do You Mean? - Kevlin Henney [ACCU 2019]](https://www.youtube.com/watch?v=ndnvOElnyUg)
 * [DevTernity / DevTernity 2019: Kevlin Henney - Lean Code](https://www.youtube.com/watch?v=-nWhH-4wWBU)
 * [GOTO Conferences / GOTO 2016 • The Error of Our Ways • Kevlin Henney](https://www.youtube.com/watch?v=IiGXq3yY70o)
+* [DevTernity / 🚀 DevTernity 2017: Kevlin Henney - The Error of Our Ways](https://www.youtube.com/watch?v=odlWJEfTGNc)
 * [Build Stuff / Kevlin Henney - Functional C++](https://www.youtube.com/watch?v=CIg6eyJv4dk)
 * [ACCU Conference / 'Declarative Thinking, Declarative Practice' - Kevlin Henney [ ACCU 2016 ]](https://www.youtube.com/watch?v=nrVIlhtoE3Y)
 * [Devoxx / Move Slow and Mend Things by Kevlin Henney](https://www.youtube.com/watch?v=1kklyq4XYpw)
