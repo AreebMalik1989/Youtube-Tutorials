@@ -3,6 +3,7 @@
 * [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 * [Programming with Mosh / ES6 Tutorial: Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 * [Parwiz Forogh / Modern JavaScript [ ES6, ES7, ES8 ] Crash Course In 2 Hours](https://www.youtube.com/watch?v=1lFXj5h8IMA)
+* [Codevolution / JavaScript Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
 
 ## Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
