@@ -152,3 +152,6 @@
 
 ## Raspberry Pi
 * [Kalle Hallden / Creating A Raspberry Pi Web Server For My Home!](https://www.youtube.com/watch?v=6gkoDQUQSLc)
+
+## Guido van Rossum
+* [PyCon 2016 / Guido van Rossum - Python Language - PyCon 2016](https://www.youtube.com/watch?v=YgtL4S7Hrwo)
