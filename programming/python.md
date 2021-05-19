@@ -77,6 +77,8 @@
 * [PyCon 2018 / Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
 * [PyCon AU / A Really Gentle Introduction to Asyncio](https://www.youtube.com/watch?v=3mb9jFAHRfw)
 * [PyCon Taiwan / What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)
+* [Coding Tech / Asyncio: Understanding Async / Await in Python](https://www.youtube.com/watch?v=bs9tlDFWWdQ)
+* [Coding Tech / Trio: Structured Concurrency for Python (Alternative to Asyncio)](https://www.youtube.com/watch?v=DwSwYLn5ye4)
 
 ## Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
