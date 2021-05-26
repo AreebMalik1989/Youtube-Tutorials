@@ -110,6 +110,7 @@
 * [Conf42 / Intro to FastAPI | Sebastian Ramirez | Conf42: Open Source Showcase](https://www.youtube.com/watch?v=syf6ZSiRSbw)
 * [Bitfumes / FastAPI - A python framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I)
 * [PyCharm by JetBrains / Let's Build a Fast, Modern Python API with FastAPI](https://www.youtube.com/watch?v=sBVb4IB3O_U)
+* [Docker / Docker Build: Dockerizing a Python App with FastAPI](https://www.youtube.com/watch?v=qQNGw_m8t0Y)
 
 ## Django
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
