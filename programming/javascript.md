@@ -27,6 +27,7 @@
 ## React
 * [freeCodeCamp.org / Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44)
 * [Codevolution / ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+* [Academind / React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 * [Coding Tech / Intro to React Hooks](https://www.youtube.com/watch?v=rSiE2Bfj6T8)
 
 ## Node
