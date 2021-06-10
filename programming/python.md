@@ -21,7 +21,7 @@
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
-* [code::dive conference / When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019](https://www.youtube.com/watch?v=S0No2zSJmks)
+* [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
 
 ## Testing
