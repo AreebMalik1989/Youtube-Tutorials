@@ -52,6 +52,7 @@
 
 ### TDD
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+* [Continuous Delivery / Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
 
 ### Reactive Programming
 * [Coding Tech / Reactive Programming: Why It Matters](https://www.youtube.com/watch?v=49dMGC1hM1o)
