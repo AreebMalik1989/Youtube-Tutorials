@@ -4,6 +4,7 @@
 
 ## Concurrent Programming
 * [Jake Wright / Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
+* [Coding Tech / Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
 
 ## Functional Programming
 * [Forge Utah / Functional Programming with Go](https://www.youtube.com/watch?v=SSO78QkmMLs)
