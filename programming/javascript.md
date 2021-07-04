@@ -6,6 +6,7 @@
 * [Parwiz Forogh / Modern JavaScript [ ES6, ES7, ES8 ] Crash Course In 2 Hours](https://www.youtube.com/watch?v=1lFXj5h8IMA)
 * [Codevolution / JavaScript Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
 * [freeCodeCamp.org / Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+* [node.js / The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
 
 ## Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
@@ -19,6 +20,14 @@
 ## Typescript
 * [Academind / TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [Coding Tech / Building Strongly Typed REST Clients with TypeScript](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
+* [Coding Tech / Design Patterns in TypeScript](https://www.youtube.com/watch?v=D40olxrDw38)
+
+## Multithreading
+### Worker Threads
+* [LogRocket / Multithreading in Node.js](https://www.youtube.com/watch?v=7WxrqOwvnrM)
+* [JSConf / A Crash Course on Worker Threads - Rich Trott | JSConf Hawaii 2020](https://www.youtube.com/watch?v=GRb-XQ5JRA8)
+### Web Workers
+* [Steve Griffith - Prof3ssorSt3v3 / Intro to Web Workers](https://www.youtube.com/watch?v=EiPytIxrZtU)
 
 ## Webpack
 * [freeCodeCamp.org / Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
