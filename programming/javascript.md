@@ -1,9 +1,11 @@
 ## Concepts
+* [Coding Tech / JavaScript the Grumpy Parts](https://www.youtube.com/watch?v=y0UklBZzjR4)
 * [All Things JavaScript, LLC / JavaScript Fundamentals: Checking for null and undefined](https://www.youtube.com/watch?v=9T1EnuqLzxk)
 * [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 * [Programming with Mosh / ES6 Tutorial: Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 * [Parwiz Forogh / Modern JavaScript [ ES6, ES7, ES8 ] Crash Course In 2 Hours](https://www.youtube.com/watch?v=1lFXj5h8IMA)
 * [Codevolution / JavaScript Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
+* [freeCodeCamp.org / Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 
 ## Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
@@ -16,6 +18,7 @@
 
 ## Typescript
 * [Academind / TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+* [Coding Tech / Building Strongly Typed REST Clients with TypeScript](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 
 ## Webpack
 * [freeCodeCamp.org / Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
