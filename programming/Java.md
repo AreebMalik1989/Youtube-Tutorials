@@ -1,4 +1,5 @@
 ### Concepts Playlists
+* [Java Brains / Java Concurrency - Full Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY8JY-DwAfoMiIZWHt2FKVX)
 * [Defog Tech / Java Concurrency](https://www.youtube.com/playlist?list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6)
 
 ### Tutorials
