@@ -1,4 +1,5 @@
 ## Concepts
+* [JSConf / What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [Coding Tech / JavaScript the Grumpy Parts](https://www.youtube.com/watch?v=y0UklBZzjR4)
 * [All Things JavaScript, LLC / JavaScript Fundamentals: Checking for null and undefined](https://www.youtube.com/watch?v=9T1EnuqLzxk)
 * [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
