@@ -64,6 +64,10 @@
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
 * [SF Python / Flavio Juvenal, "Preventing headaches with linters and automated checks", PyBay2017](https://www.youtube.com/watch?v=mXqKaM8Ddac)
+### Distribution
+* [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
+* [anthonywritescode / python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057](https://www.youtube.com/watch?v=GaWs-LenLYE)
+* [NeuralNine / Publish Your Own Python Package](https://www.youtube.com/watch?v=tEFkHEKypLI)
 
 ## Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
