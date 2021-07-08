@@ -12,3 +12,6 @@
 ## Concepts
 * [Coding Tech / How Do You Structure Your Go Apps?](https://www.youtube.com/watch?v=1rxDzs0zgcE)
 * [Coding Tech / Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
+
+## Web
+* [Learn To Code / Build Web Apps with Go Language (golang)](https://www.youtube.com/watch?v=Vlie-srOU8c)
