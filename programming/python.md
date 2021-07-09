@@ -64,15 +64,6 @@
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
 * [SF Python / Flavio Juvenal, "Preventing headaches with linters and automated checks", PyBay2017](https://www.youtube.com/watch?v=mXqKaM8Ddac)
-### Distribution
-* [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
-* [PyCon 2018 / Dustin Ingram - Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE)
-* [anthonywritescode / python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057](https://www.youtube.com/watch?v=GaWs-LenLYE)
-* [NeuralNine / Publish Your Own Python Package](https://www.youtube.com/watch?v=tEFkHEKypLI)
-* [Kiwi PyCon / Demystefying Setuptools Entry Points](https://www.youtube.com/watch?v=0W0k6zP_Lto)
-* [Sigma Coding / Distributing Python Packages: Setup.py File](https://www.youtube.com/watch?v=-hENwoex93g)
-* [Kiwi PyCon / Making sense of setup.py](https://www.youtube.com/watch?v=S-Le3PWHqZA)
-* [Coding Tech / Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 
 ## Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
@@ -114,6 +105,17 @@
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
+
+
+## Distribution
+* [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
+* [PyCon 2018 / Dustin Ingram - Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE)
+* [anthonywritescode / python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057](https://www.youtube.com/watch?v=GaWs-LenLYE)
+* [NeuralNine / Publish Your Own Python Package](https://www.youtube.com/watch?v=tEFkHEKypLI)
+* [Kiwi PyCon / Demystefying Setuptools Entry Points](https://www.youtube.com/watch?v=0W0k6zP_Lto)
+* [Sigma Coding / Distributing Python Packages: Setup.py File](https://www.youtube.com/watch?v=-hENwoex93g)
+* [Kiwi PyCon / Making sense of setup.py](https://www.youtube.com/watch?v=S-Le3PWHqZA)
+* [Coding Tech / Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 
 ## Fastapi
 * [Conf42 / Intro to FastAPI | Sebastian Ramirez | Conf42: Open Source Showcase](https://www.youtube.com/watch?v=syf6ZSiRSbw)
