@@ -23,6 +23,7 @@
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
+* [Coding Tech / Pythonic Code, By Example](https://www.youtube.com/watch?v=2-Ha3QXqfss)
 
 ## Testing
 ### Concepts
