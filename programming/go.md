@@ -15,3 +15,4 @@
 
 ## Web
 * [Learn To Code / Build Web Apps with Go Language (golang)](https://www.youtube.com/watch?v=Vlie-srOU8c)
+* [TutorialEdge / Building a Go REST API using Gorm and Fiber!](https://www.youtube.com/watch?v=Iq2qT0fRhAA)
