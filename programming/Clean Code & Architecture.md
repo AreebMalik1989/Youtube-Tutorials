@@ -36,6 +36,7 @@
 * [DevWeek Events / A system is not a tree - Kevlin Henney](https://www.youtube.com/watch?v=ARkLVvtxUZI)
 * [GOTO Conferences / GOTO 2020 • Software Is Details • Kevlin Henney](https://www.youtube.com/watch?v=kX0prJklhUE)
 * [DevTernity / 🚀 DevTernity 2016: Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=SUIUZ09mnwM)
+* [GOTO Conferences / Old Is the New New • Kevlin Henney • GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
