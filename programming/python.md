@@ -107,7 +107,6 @@
 * [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 
-
 ## Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
 * [PyCon 2018 / Dustin Ingram - Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE)
@@ -123,6 +122,7 @@
 * [Bitfumes / FastAPI - A python framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I)
 * [PyCharm by JetBrains / Let's Build a Fast, Modern Python API with FastAPI](https://www.youtube.com/watch?v=sBVb4IB3O_U)
 * [Docker / Docker Build: Dockerizing a Python App with FastAPI](https://www.youtube.com/watch?v=qQNGw_m8t0Y)
+* [freeCodeCamp.org / FARM Stack Course - FastAPI, React, MongoDB](https://www.youtube.com/watch?v=OzUzrs8uJl8)
 
 ## Django
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
