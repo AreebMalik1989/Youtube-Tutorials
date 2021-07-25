@@ -29,6 +29,8 @@
 * [JSConf / A Crash Course on Worker Threads - Rich Trott | JSConf Hawaii 2020](https://www.youtube.com/watch?v=GRb-XQ5JRA8)
 ### Web Workers
 * [Steve Griffith - Prof3ssorSt3v3 / Intro to Web Workers](https://www.youtube.com/watch?v=EiPytIxrZtU)
+* [freeCodeCamp.org / Web Workers —  Outsource your JavaScript](https://www.youtube.com/watch?v=qTE48ByxZX4)
+* [Abinav Seelan / Using WebWorkers with Webpack](https://www.youtube.com/watch?v=k79a5A4Drqo)
 
 ## Webpack
 * [freeCodeCamp.org / Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
