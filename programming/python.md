@@ -128,6 +128,7 @@
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
 * [Dennis Ivy / Django Interview Questions (Junior Developer)](https://www.youtube.com/watch?v=9ai0b1LRMQM)
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
+* [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
 
 ## Sockets
 * [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
