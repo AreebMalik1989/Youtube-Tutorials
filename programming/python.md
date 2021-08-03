@@ -106,9 +106,11 @@
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
+* [PyCon US / TALK / Emery Berger / Scalene: A high-performance, high-precision CPU+GPU+memory profiler for Python](https://www.youtube.com/watch?v=nrQPqy3YY5A)
 
 ## Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
+* [PyCon US / TALK / Jeremy Paige / Packaging Python in 2021](https://www.youtube.com/watch?v=j8iXO5VErjw)
 * [PyCon 2018 / Dustin Ingram - Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE)
 * [anthonywritescode / python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057](https://www.youtube.com/watch?v=GaWs-LenLYE)
 * [NeuralNine / Publish Your Own Python Package](https://www.youtube.com/watch?v=tEFkHEKypLI)
