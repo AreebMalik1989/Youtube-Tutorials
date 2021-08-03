@@ -1,6 +1,9 @@
 ### Misc
+* [Coding Tech / How To Think Like A Programmer - Learn To Solve Problems!](https://www.youtube.com/watch?v=UiYXwUg23Yw)
 * [freeCodeCamp.org / UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 * [freeCodeCamp.org / Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+* [Coding Tech / Why Code with Code Smells is Harder to Understand](https://www.youtube.com/watch?v=gkjbWKp4VgM)
+* [Coding Tech / 10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
 
 ### Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
