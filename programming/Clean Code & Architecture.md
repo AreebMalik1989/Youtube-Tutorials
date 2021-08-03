@@ -4,6 +4,7 @@
 * [freeCodeCamp.org / Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
 * [Coding Tech / Why Code with Code Smells is Harder to Understand](https://www.youtube.com/watch?v=gkjbWKp4VgM)
 * [Coding Tech / 10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+* [PyCon US / TALK / Shemra Rizzo / Learning python during lockdown: a surprising bonding experience with my child](https://www.youtube.com/watch?v=Q58kwvICDwQ)
 
 ### Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
