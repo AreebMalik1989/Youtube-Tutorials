@@ -5,6 +5,9 @@
 * [Coding Tech / Why Code with Code Smells is Harder to Understand](https://www.youtube.com/watch?v=gkjbWKp4VgM)
 * [Coding Tech / 10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
 * [PyCon US / TALK / Shemra Rizzo / Learning python during lockdown: a surprising bonding experience with my child](https://www.youtube.com/watch?v=Q58kwvICDwQ)
+* [Coding Tech / What Makes Developers Unhappy](https://www.youtube.com/watch?v=1q7gKoNI9mY)
+* [Coding Tech / Why Software Engineers Disagree About Everything](https://www.youtube.com/watch?v=3ZI0QtP4OZo)
+* [Coding Tech / Things I Was Unprepared For As A Lead Developer](https://www.youtube.com/watch?v=AwuqJ1qORag)
 
 ### Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
