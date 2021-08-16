@@ -24,6 +24,9 @@
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
 * [Coding Tech / Pythonic Code, By Example](https://www.youtube.com/watch?v=2-Ha3QXqfss)
+* [PyCon US / TALK / Sebastiaan Zeeff / The magic of "self": How Python inserts "self" into methods.](https://www.youtube.com/watch?v=ANLjBsWHshc&list=PLVZAVZvYYrhycnAhbGeYMqtj2TpfVkA0q&index=11)
+* [PyCon US / TALK / Alexander Hultnér / Intro to Pydantic, run-time type checking for your dataclasses](https://www.youtube.com/watch?v=W7f52FhfYqQ&list=PLVZAVZvYYrhycnAhbGeYMqtj2TpfVkA0q&index=10)
+* [PyCon US / TALK / Reuven M. Lerner / When is an exception not an exception? Using warnings in Python](https://www.youtube.com/watch?v=X0AjcpicNOM&list=PLVZAVZvYYrhycnAhbGeYMqtj2TpfVkA0q&index=8)
 
 ## Testing
 ### Concepts
@@ -80,6 +83,7 @@
 * [PyCon Taiwan / What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)
 * [Coding Tech / Asyncio: Understanding Async / Await in Python](https://www.youtube.com/watch?v=bs9tlDFWWdQ)
 * [Coding Tech / Trio: Structured Concurrency for Python (Alternative to Asyncio)](https://www.youtube.com/watch?v=DwSwYLn5ye4)
+* [PyCon US / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE&list=PLVZAVZvYYrhycnAhbGeYMqtj2TpfVkA0q&index=9)
 
 ## Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -146,6 +150,8 @@
 
 ## Misc
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
+* [PyCon US / TALK / Dustin Ingram / Secure Software Supply Chains for Python](https://www.youtube.com/watch?v=VWWgkF-0cDQ&list=PLVZAVZvYYrhycnAhbGeYMqtj2TpfVkA0q&index=7)
+* [PyCon US / TALK / Paul Everitt / Static Sites with Sphinx and Markdown](https://www.youtube.com/watch?v=YclYtM56qjo&list=PLVZAVZvYYrhycnAhbGeYMqtj2TpfVkA0q&index=6)
 
 ## Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
