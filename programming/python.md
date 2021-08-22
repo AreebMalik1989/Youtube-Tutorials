@@ -21,6 +21,8 @@
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
+* [PyCon US / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
+* [PyCon US / TALK / Luciano Ramalho / Protocol: the keystone of type hints](https://www.youtube.com/watch?v=kDDCKwP7QgQ)
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
 * [Coding Tech / Pythonic Code, By Example](https://www.youtube.com/watch?v=2-Ha3QXqfss)
@@ -108,6 +110,7 @@
 ## Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 * [Next Day Video / Monoids in Python](https://www.youtube.com/watch?v=50qhv8C3s9I)
+* [PyCon US / TUTORIAL / Mike Müller / Functional Python](https://www.youtube.com/watch?v=8w1mqprAPaI)
 
 ## Performance
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
@@ -132,6 +135,8 @@
 * [PyCharm by JetBrains / Let's Build a Fast, Modern Python API with FastAPI](https://www.youtube.com/watch?v=sBVb4IB3O_U)
 * [Docker / Docker Build: Dockerizing a Python App with FastAPI](https://www.youtube.com/watch?v=qQNGw_m8t0Y)
 * [freeCodeCamp.org / FARM Stack Course - FastAPI, React, MongoDB](https://www.youtube.com/watch?v=OzUzrs8uJl8)
+* [freeCodeCamp.org / FastAPI Course for Beginners](https://www.youtube.com/watch?v=tLKKmouUams)
+* [PyCon US / TALK / Thomas Jewitt / An Introduction to FastAPI](https://www.youtube.com/watch?v=_jh4Wc3CE38)
 
 ## Django
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
@@ -170,6 +175,9 @@
 ### Numpy
 * [freeCodeCamp.org / Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 * [Keith Galli / Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+
+### Pandas
+* [Coding Tech / Effective Pandas](https://www.youtube.com/watch?v=UURvPeczxJI)
 
 ### Matplotlib
 * [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
