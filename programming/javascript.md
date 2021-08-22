@@ -22,6 +22,7 @@
 * [Academind / TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [Coding Tech / Building Strongly Typed REST Clients with TypeScript](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [Coding Tech / Design Patterns in TypeScript](https://www.youtube.com/watch?v=D40olxrDw38)
+* [freeCodeCamp.org/ Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 
 ## Multithreading
 ### Worker Threads
@@ -48,6 +49,9 @@
 ## Node
 * [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [freeCodeCamp.org / Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+
+## Deno
+* [freeCodeCamp.org / Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY)
 
 ## Express
 * [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
