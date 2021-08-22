@@ -52,6 +52,7 @@
 * [Computerphile / Tail Recursion Explained - Computerphile](https://www.youtube.com/watch?v=_JtPhF8MshA)
 * [DevWeek Events / If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 * [ChariotSolutions / Richard Feldman — The Next Paradigm Shift in Programming](https://www.youtube.com/watch?v=6YbK8o9rZfI)
+* [Coding Tech / How Functional Programming Can Make You A Better Developer](https://www.youtube.com/watch?v=EqO4TcNLjl0)
 
 ### Clean Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
