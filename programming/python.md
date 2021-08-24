@@ -177,6 +177,9 @@
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
 
 ## Data Science
+### Deep Learning
+* [Coding Tech / A Friendly Introduction To Deep Reinforcement Learning](https://www.youtube.com/watch?v=t73mEivrkAI)
+
 ### Numpy
 * [freeCodeCamp.org / Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 * [Keith Galli / Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://www.youtube.com/watch?v=GB9ByFAIAH4)
