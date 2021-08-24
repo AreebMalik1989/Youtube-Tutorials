@@ -31,6 +31,7 @@
 * [PyCon US / TALK / Reuven M. Lerner / When is an exception not an exception? Using warnings in Python](https://www.youtube.com/watch?v=X0AjcpicNOM)
 * [PyCon US / TALK / Tobias Kohn / The Road to Pattern Matching in Python](https://www.youtube.com/watch?v=NYUXNRswe6k)
 * [Coding Tech / Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo)
+* [PyCon US / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
 
 ## Testing
 ### Concepts
@@ -143,6 +144,7 @@
 * [Dennis Ivy / Django Interview Questions (Junior Developer)](https://www.youtube.com/watch?v=9ai0b1LRMQM)
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 * [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
+* [freeCodeCamp.org / Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw)
 
 ## Sockets
 * [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
@@ -155,6 +157,9 @@
 
 ## Flask
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+
+## Celery
+* [PyCon US / TALK / Jenna Conn, Hannah Cline / Optimizing Data Retrieval with Python Celery](https://www.youtube.com/watch?v=8wgR4oroeR0)
 
 ## Misc
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
