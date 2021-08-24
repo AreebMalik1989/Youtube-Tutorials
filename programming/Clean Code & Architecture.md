@@ -23,6 +23,7 @@
 * [Clean Coders / The Future of Programming Languages at the Confluence of Paradigms](https://www.youtube.com/watch?v=ya1xDCCMh7g)
 * [gnbitcom / Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [YOW! Conferences / YOW! 2016 Robert C. Martin - Effective Estimation (or: How not to Lie)](https://www.youtube.com/watch?v=eisuQefYw_o)
+* [Coding Tech / 10 Tips For Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg)
 
 ### Kevlin Henney
 * [GOTO Conferences / GOTO 2016 • Small Is Beautiful • Kevlin Henney](https://www.youtube.com/watch?v=B3b4tremI5o)
