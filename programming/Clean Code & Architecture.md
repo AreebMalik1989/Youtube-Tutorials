@@ -24,6 +24,7 @@
 * [gnbitcom / Robert C Martin - Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [YOW! Conferences / YOW! 2016 Robert C. Martin - Effective Estimation (or: How not to Lie)](https://www.youtube.com/watch?v=eisuQefYw_o)
 * [Coding Tech / 10 Tips For Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg)
+* [Coding Tech / Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
 
 ### Kevlin Henney
 * [GOTO Conferences / GOTO 2016 • Small Is Beautiful • Kevlin Henney](https://www.youtube.com/watch?v=B3b4tremI5o)
@@ -46,14 +47,24 @@
 * [GOTO Conferences / GOTO 2020 • Software Is Details • Kevlin Henney](https://www.youtube.com/watch?v=kX0prJklhUE)
 * [DevTernity / 🚀 DevTernity 2016: Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=SUIUZ09mnwM)
 * [GOTO Conferences / Old Is the New New • Kevlin Henney • GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E)
+* [Coding Tech / Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 
 ### Functional Programming
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [GOTO Conferences / GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [Coding Tech / What is Functional Programming?](https://www.youtube.com/watch?v=KHojnWHemO0)
+* [Computerphile / Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
 * [Computerphile / Tail Recursion Explained - Computerphile](https://www.youtube.com/watch?v=_JtPhF8MshA)
 * [DevWeek Events / If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 * [ChariotSolutions / Richard Feldman — The Next Paradigm Shift in Programming](https://www.youtube.com/watch?v=6YbK8o9rZfI)
 * [Coding Tech / How Functional Programming Can Make You A Better Developer](https://www.youtube.com/watch?v=EqO4TcNLjl0)
+* [Coding Tech / LAMBDA Functions: Powerful And Elegant Abstractions](https://www.youtube.com/watch?v=OLH3L285EiY)
+* [Coding Tech / Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
+* [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
+
+### Event Sourcing
+* [Coding Tech / Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
+* [fwdays / Why Event Sourced Systems Fail [eng] / Greg Young](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 
 ### Clean Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
