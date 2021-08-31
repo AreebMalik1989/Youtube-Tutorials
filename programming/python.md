@@ -165,6 +165,7 @@
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
 * [PyCon US / TALK / Dustin Ingram / Secure Software Supply Chains for Python](https://www.youtube.com/watch?v=VWWgkF-0cDQ)
 * [PyCon US / TALK / Paul Everitt / Static Sites with Sphinx and Markdown](https://www.youtube.com/watch?v=YclYtM56qjo)
+* [Coding Tech / Programming Language Tourism: Leave Python and See the World!](https://www.youtube.com/watch?v=O2ArH_MoeKQ)
 
 ## Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
