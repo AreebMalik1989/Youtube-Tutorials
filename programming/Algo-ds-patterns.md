@@ -1,4 +1,6 @@
 ### Programming basics
+* [freeCodeCamp.org / Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
+* [freeCodeCamp.org / Solve Coding Interview Backtracking Problems - Crash Course](https://www.youtube.com/watch?v=A80YzvNwqXA)
 * [freeCodeCamp.org / Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 * [freeCodeCamp.org / Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 * [MIT OpenCourseWare / 6.0001 Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
