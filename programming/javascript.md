@@ -3,13 +3,16 @@
 * [Coding Tech / JavaScript the Grumpy Parts](https://www.youtube.com/watch?v=y0UklBZzjR4)
 * [All Things JavaScript, LLC / JavaScript Fundamentals: Checking for null and undefined](https://www.youtube.com/watch?v=9T1EnuqLzxk)
 * [Coding Tech / A Brief History of JavaScript by the Creator of JavaScript](https://www.youtube.com/watch?v=3-9fnjzmXWA)
-* [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 * [Programming with Mosh / ES6 Tutorial: Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 * [Parwiz Forogh / Modern JavaScript [ ES6, ES7, ES8 ] Crash Course In 2 Hours](https://www.youtube.com/watch?v=1lFXj5h8IMA)
 * [Codevolution / JavaScript Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
 * [freeCodeCamp.org / Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 * [node.js / The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
+
+# Functional
+* [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
+* [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 
 # Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
