@@ -1,4 +1,4 @@
-### Misc
+# Misc
 * [Coding Tech / How To Think Like A Programmer - Learn To Solve Problems!](https://www.youtube.com/watch?v=UiYXwUg23Yw)
 * [freeCodeCamp.org / UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 * [freeCodeCamp.org / Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
@@ -8,12 +8,13 @@
 * [Coding Tech / What Makes Developers Unhappy](https://www.youtube.com/watch?v=1q7gKoNI9mY)
 * [Coding Tech / Why Software Engineers Disagree About Everything](https://www.youtube.com/watch?v=3ZI0QtP4OZo)
 * [Coding Tech / Things I Was Unprepared For As A Lead Developer](https://www.youtube.com/watch?v=AwuqJ1qORag)
+* [Computerphile / Computing Limit - Computerphile](https://www.youtube.com/watch?v=jv2H9fp9dT8)
 
-### Software Craftsmanship
+# Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
 * [DevTernity / Beyond Software Craftsmanship by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE)
 
-### Uncle Bob
+# Uncle Bob
 * [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
 * [Clean Code - Uncle Bob / Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8)
 * [Clean Code - Uncle Bob / Lesson 3](https://www.youtube.com/watch?v=Qjywrq2gM8o)
@@ -26,7 +27,7 @@
 * [Coding Tech / 10 Tips For Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg)
 * [Coding Tech / Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
 
-### Kevlin Henney
+# Kevlin Henney
 * [GOTO Conferences / GOTO 2016 • Small Is Beautiful • Kevlin Henney](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [cpponsea / The Forgotten Art of Structured Programming - Kevlin Henney \[C++ on Sea 2019\]](https://www.youtube.com/watch?v=SFv8Wm2HdNM)
 * [NDC Conferences / Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
@@ -49,7 +50,8 @@
 * [GOTO Conferences / Old Is the New New • Kevlin Henney • GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 * [Coding Tech / Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 
-### Functional Programming
+# Functional Programming
+* [GOTO Conferences / Object Oriented Programming vs Functional Programming • Dave Farley • GOTO 2021](https://www.youtube.com/watch?v=-VADIcicpcg)
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [GOTO Conferences / GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 * [Coding Tech / What is Functional Programming?](https://www.youtube.com/watch?v=KHojnWHemO0)
@@ -62,23 +64,27 @@
 * [Coding Tech / Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
 
-### Event Sourcing
+## Scott Wlaschin
+* [NDC Conferences / Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+* [NDC Conferences / The Functional Programmer's Toolkit - Scott Wlaschin](https://www.youtube.com/watch?v=Nrp_LZ-XGsY)
+
+# Event Sourcing
 * [Coding Tech / Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
 * [fwdays / Why Event Sourced Systems Fail [eng] / Greg Young](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 
-### Clean Architecture
+# Clean Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [Paulovich DotNet / Clean Architecture Essentials - Stockholm Software Craftsmanship](https://www.youtube.com/watch?v=hZGF6RHrr8o)
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 
-### TDD
+# TDD
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [Continuous Delivery / Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
 
-### Reactive Programming
+# Reactive Programming
 * [Coding Tech / Reactive Programming: Why It Matters](https://www.youtube.com/watch?v=49dMGC1hM1o)
 
-### Microservice
+# Microservice
 * [Coding Tech / Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * [Coding Tech / Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
