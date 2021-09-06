@@ -53,6 +53,7 @@
 # Functional Programming
 * [GOTO Conferences / Object Oriented Programming vs Functional Programming • Dave Farley • GOTO 2021](https://www.youtube.com/watch?v=-VADIcicpcg)
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
+* [NDC Conferences / Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
 * [GOTO Conferences / GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 * [Coding Tech / What is Functional Programming?](https://www.youtube.com/watch?v=KHojnWHemO0)
 * [Computerphile / Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
