@@ -6,6 +6,7 @@
 * [freeCodeCamp.org / CSS Full Course - Includes Flexbox and CSS Grid Tutorials](https://www.youtube.com/watch?v=ieTHC78giGQ)
 * [freeCodeCamp.org / CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 * [freeCodeCamp.org / CSS Grid Course](https://www.youtube.com/watch?v=t6CBKf8K_Ac)
+* [Coding Tech / CSS Grid Changes EVERYTHING - Amazing Presentation](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
 ## HTML-CSS
 * [freeCodeCamp.org / Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
