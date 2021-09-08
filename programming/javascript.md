@@ -8,6 +8,8 @@
 * [Codevolution / JavaScript Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
 * [freeCodeCamp.org / Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 * [node.js / The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
+* [Coding Tech / Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
+* [Coding Tech / The Reusable JavaScript REVOLUTION](https://www.youtube.com/watch?v=L-fx2xXSVso)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -51,6 +53,9 @@
 * [Codevolution / ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 * [Academind / React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 * [Coding Tech / Intro to React Hooks](https://www.youtube.com/watch?v=rSiE2Bfj6T8)
+
+# SolidJS
+* [Coding Tech / ReactJS vs SolidJS](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
 
 # Node
 * [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
