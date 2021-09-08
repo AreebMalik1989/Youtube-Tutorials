@@ -68,6 +68,7 @@
 ## Scott Wlaschin
 * [NDC Conferences / Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 * [NDC Conferences / The Functional Programmer's Toolkit - Scott Wlaschin](https://www.youtube.com/watch?v=Nrp_LZ-XGsY)
+* [NDC Conferences / The Power of Composition - Scott Wlaschin](https://www.youtube.com/watch?v=WhEkBCWpDas)
 
 # Event Sourcing
 * [Coding Tech / Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
