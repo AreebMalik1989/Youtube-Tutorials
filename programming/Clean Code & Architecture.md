@@ -66,9 +66,11 @@
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
 
 ## Scott Wlaschin
+* [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 * [NDC Conferences / Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 * [NDC Conferences / The Functional Programmer's Toolkit - Scott Wlaschin](https://www.youtube.com/watch?v=Nrp_LZ-XGsY)
 * [NDC Conferences / The Power of Composition - Scott Wlaschin](https://www.youtube.com/watch?v=WhEkBCWpDas)
+* [NDC Conferences / Understanding parser combinators: a deep dive - Scott Wlaschin](https://www.youtube.com/watch?v=RDalzi7mhdY)
 
 # Event Sourcing
 * [Coding Tech / Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
