@@ -12,6 +12,7 @@
 * [Coding Tech / Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
 * [Coding Tech / The Reusable JavaScript REVOLUTION](https://www.youtube.com/watch?v=L-fx2xXSVso)
 * [Coding Tech / The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
+* [Coding Tech / WebGL + GPU = Amazing Results!](https://www.youtube.com/watch?v=qkDg-Y9iHBA)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
