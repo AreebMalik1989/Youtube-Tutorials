@@ -64,6 +64,7 @@
 
 # Deno
 * [freeCodeCamp.org / Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY)
+* [Coding Tech / Deno: Will It Replace Node.JS?](https://www.youtube.com/watch?v=lcoU9jtsK24)
 
 # Express
 * [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
