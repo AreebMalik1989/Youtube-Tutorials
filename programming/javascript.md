@@ -8,6 +8,7 @@
 * [Codevolution / JavaScript Clean Code](https://www.youtube.com/watch?v=vPXzVNmCPg4)
 * [freeCodeCamp.org / Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 * [node.js / The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
+* [Coding Tech / Answering Tricky JS Interview Questions](https://www.youtube.com/watch?v=MY0UBGX2FtA)
 * [Coding Tech / Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
 * [Coding Tech / The Reusable JavaScript REVOLUTION](https://www.youtube.com/watch?v=L-fx2xXSVso)
 
