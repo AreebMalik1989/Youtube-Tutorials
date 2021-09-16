@@ -13,7 +13,6 @@
 * [Coding Tech / Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
 * [Coding Tech / The Reusable JavaScript REVOLUTION](https://www.youtube.com/watch?v=L-fx2xXSVso)
 * [Coding Tech / The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
-* [Coding Tech / WebGL + GPU = Amazing Results!](https://www.youtube.com/watch?v=qkDg-Y9iHBA)
 * [Coding Tech / Fast By Default: Algorithmic Performance Optimization in Practice](https://www.youtube.com/watch?v=owcvg2YZ7Y8)
 
 # Functional
@@ -89,6 +88,10 @@
 # Games
 * [Code Explained / Code The Snake Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=9TcU2C1AACw)
 * [Code Explained / Flappy Bird Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=L07i4g-zhDA)
+
+# WebGL
+* [Coding Tech / WebGL In Action!](https://www.youtube.com/watch?v=l2z3UvzXTf4)
+* [Coding Tech / WebGL + GPU = Amazing Results!](https://www.youtube.com/watch?v=qkDg-Y9iHBA)
 
 # ThreeJS
 * [Coding Tech / Build a 3D World in React with ThreeJS and React Three Fiber](https://www.youtube.com/watch?v=9ZEjSxDRIik)
