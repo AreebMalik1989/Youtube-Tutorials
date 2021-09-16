@@ -170,6 +170,7 @@
 * [PyCon US / TALK / Dustin Ingram / Secure Software Supply Chains for Python](https://www.youtube.com/watch?v=VWWgkF-0cDQ)
 * [PyCon US / TALK / Paul Everitt / Static Sites with Sphinx and Markdown](https://www.youtube.com/watch?v=YclYtM56qjo)
 * [Coding Tech / Programming Language Tourism: Leave Python and See the World!](https://www.youtube.com/watch?v=O2ArH_MoeKQ)
+* [Coding Tech / What is all the Fuss About Python?](https://www.youtube.com/watch?v=b7WxO4ipnh0)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
