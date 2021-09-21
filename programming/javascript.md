@@ -15,6 +15,7 @@
 * [Coding Tech / The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
 * [Coding Tech / Fast By Default: Algorithmic Performance Optimization in Practice](https://www.youtube.com/watch?v=owcvg2YZ7Y8)
 * [Coding Tech / "We are paid to write programs that work well and are free of error." - Douglas Crockford](https://www.youtube.com/watch?v=DePE0ffiMf4)
+* [Coding Tech / Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -36,6 +37,7 @@
 * [Coding Tech / Building Strongly Typed REST Clients with TypeScript](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [Coding Tech / Design Patterns in TypeScript](https://www.youtube.com/watch?v=D40olxrDw38)
 * [freeCodeCamp.org/ Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+* [Coding Tech / Write Safer JavaScript Applications with TypeScript!](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
 
 # Multithreading
 ## Worker Threads
