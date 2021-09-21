@@ -8,6 +8,7 @@
 * [Coding Tech / What Makes Developers Unhappy](https://www.youtube.com/watch?v=1q7gKoNI9mY)
 * [Coding Tech / Why Software Engineers Disagree About Everything](https://www.youtube.com/watch?v=3ZI0QtP4OZo)
 * [Coding Tech / Things I Was Unprepared For As A Lead Developer](https://www.youtube.com/watch?v=AwuqJ1qORag)
+* [Coding Tech / The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 * [Computerphile / Computing Limit - Computerphile](https://www.youtube.com/watch?v=jv2H9fp9dT8)
 
 # Software Craftsmanship
