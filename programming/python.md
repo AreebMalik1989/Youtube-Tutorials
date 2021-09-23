@@ -33,6 +33,7 @@
 * [PyCon US / TALK / Tobias Kohn / The Road to Pattern Matching in Python](https://www.youtube.com/watch?v=NYUXNRswe6k)
 * [Coding Tech / Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo)
 * [PyCon US / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
+* [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
 
 # Testing
 ## Concepts
