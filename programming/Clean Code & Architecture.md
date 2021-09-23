@@ -4,6 +4,7 @@
 * [freeCodeCamp.org / Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
 * [Coding Tech / Why Code with Code Smells is Harder to Understand](https://www.youtube.com/watch?v=gkjbWKp4VgM)
 * [Coding Tech / 10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+* [Coding Tech / Clear is Better Than Clever](https://www.youtube.com/watch?v=WkzGQ-Sm_50)
 * [PyCon US / TALK / Shemra Rizzo / Learning python during lockdown: a surprising bonding experience with my child](https://www.youtube.com/watch?v=Q58kwvICDwQ)
 * [Coding Tech / What Makes Developers Unhappy](https://www.youtube.com/watch?v=1q7gKoNI9mY)
 * [Coding Tech / Why Software Engineers Disagree About Everything](https://www.youtube.com/watch?v=3ZI0QtP4OZo)
