@@ -3,6 +3,7 @@
 * [Coding Tech / JavaScript the Grumpy Parts](https://www.youtube.com/watch?v=y0UklBZzjR4)
 * [All Things JavaScript, LLC / JavaScript Fundamentals: Checking for null and undefined](https://www.youtube.com/watch?v=9T1EnuqLzxk)
 * [Coding Tech / Discovering JavaScript](https://www.youtube.com/watch?v=ZUHyZHwZtUY)
+* [Coding Tech / JavaScript: Dirty Parts of the Language (aka Maneuvering JavaScript Errors)](https://www.youtube.com/watch?v=IcYRsNB3zD8)
 * [Coding Tech / A Brief History of JavaScript by the Creator of JavaScript](https://www.youtube.com/watch?v=3-9fnjzmXWA)
 * [Programming with Mosh / ES6 Tutorial: Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 * [Parwiz Forogh / Modern JavaScript [ ES6, ES7, ES8 ] Crash Course In 2 Hours](https://www.youtube.com/watch?v=1lFXj5h8IMA)
@@ -84,6 +85,7 @@
 
 # Testing
 * [freeCodeCamp.org / Web App Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so)
+* [Coding Tech / How To Test Your React App (unit / functional testing and CI pipeline tutorial)](https://www.youtube.com/watch?v=13HIqdtfxrM)
 
 # BDD
 * [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
