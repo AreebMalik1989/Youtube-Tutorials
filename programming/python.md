@@ -173,6 +173,7 @@
 * [Coding Tech / Programming Language Tourism: Leave Python and See the World!](https://www.youtube.com/watch?v=O2ArH_MoeKQ)
 * [Coding Tech / What is all the Fuss About Python?](https://www.youtube.com/watch?v=b7WxO4ipnh0)
 * [Coding Tech / How Thinking in Python Made Me a Better Software Engineer](https://www.youtube.com/watch?v=dGzc05Bz3l0)
+* [freeCodeCamp.org / Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
