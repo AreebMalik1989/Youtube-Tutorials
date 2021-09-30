@@ -67,6 +67,7 @@
 * [Coding Tech / LAMBDA Functions: Powerful And Elegant Abstractions](https://www.youtube.com/watch?v=OLH3L285EiY)
 * [Coding Tech / Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
+* [OpenTechSchool / Anouk Ruhaak – Get started with Functional Programming | otsconf 2015](https://www.youtube.com/watch?v=6f5dt923FmQ)
 
 ## Scott Wlaschin
 * [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
@@ -82,8 +83,11 @@
 # Clean Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [Paulovich DotNet / Clean Architecture Essentials - Stockholm Software Craftsmanship](https://www.youtube.com/watch?v=hZGF6RHrr8o)
-* [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
+
+# Hexagonal architecture
+* [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
+* [JitterTed / More Testable Code with the Hexagonal Architecture](https://www.youtube.com/watch?v=ujb_O6myknY)
 
 # TDD
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
