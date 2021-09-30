@@ -23,6 +23,7 @@
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
 * [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 * [Coding Tech / Functional Javascript: Reverse Engineering The Hype](https://www.youtube.com/watch?v=PKlojRYDQT0)
+* [Coding Tech / Reasonable JavaScript](https://www.youtube.com/watch?v=0cJqiO_Q0KA)
 
 # Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
