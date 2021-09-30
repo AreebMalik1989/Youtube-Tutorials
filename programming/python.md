@@ -1,6 +1,7 @@
 * [NeuralNine / Coding A DDOS Script in Python](https://www.youtube.com/watch?v=DD1j8SG3Sh0)
 * [NeuralNine / Coding A Simple Virus in Python](https://www.youtube.com/watch?v=qNy_amMuVZQ)
 * [NeuralNine / Coding A Trojan Horse in Python](https://www.youtube.com/watch?v=ETnjWwx2V8o)
+* [NeuralNine / Hide Information in JPEG Files](https://www.youtube.com/watch?v=r-7d3w5xerY)
 * [David Bombal / Python keylogger](https://www.youtube.com/watch?v=XKoTwepEzPI)
 
 # Tutorials
@@ -20,6 +21,7 @@
 * [Next Day Video / Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
+* [mCoding / __new__ vs __init__ in Python](https://www.youtube.com/watch?v=-zsV0_QrfTw)
 * [Coding Tech / What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 * [PyCon US / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
