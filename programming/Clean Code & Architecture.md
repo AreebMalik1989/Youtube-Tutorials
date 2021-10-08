@@ -68,6 +68,7 @@
 * [Coding Tech / Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
 * [OpenTechSchool / Anouk Ruhaak – Get started with Functional Programming | otsconf 2015](https://www.youtube.com/watch?v=6f5dt923FmQ)
+* [Coding Tech / Don’t Be Scared Of Functional Programming](https://www.youtube.com/watch?v=bThEbBcrfKE)
 
 ## Scott Wlaschin
 * [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
