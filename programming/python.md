@@ -44,6 +44,7 @@
 * [Next Day Video / Why Good Developers Write Bad Tests](https://www.youtube.com/watch?v=hM_ex4-xu4E)
 * [Next Day Video / Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 * [Next Day Video / Speedily Practical Large-Scale Tests](https://www.youtube.com/watch?v=1VZfL9JVgFg)
+* [Coding Tech / Autonomous Testing and the Future of Software Development](https://www.youtube.com/watch?v=Q8s8ENQLWfA)
 ## Pytest
 * [Indian Pythonista / Unit Testing in Python with pytest](https://www.youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
