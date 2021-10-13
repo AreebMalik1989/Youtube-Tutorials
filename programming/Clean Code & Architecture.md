@@ -89,6 +89,7 @@
 # Hexagonal architecture
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
 * [JitterTed / More Testable Code with the Hexagonal Architecture](https://www.youtube.com/watch?v=ujb_O6myknY)
+* [NewRedo / Ian Cooper on Hexagonal Architectures at Agile Yorkshire](https://www.youtube.com/watch?v=FJUevNLEtuU)
 * [DocPlanner Tech / Hexagonal Architecture: how, why and when](https://www.youtube.com/watch?v=22WUhddwkS8)
 
 # TDD
