@@ -36,6 +36,7 @@
 * [Coding Tech / Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo)
 * [PyCon US / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
 * [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
+* [Coding Tech / Pointers? In my Python? (It's More Likely Than You Think)](https://www.youtube.com/watch?v=xngMG5HDgUU)
 
 # Testing
 ## Concepts
@@ -45,6 +46,7 @@
 * [Next Day Video / Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 * [Next Day Video / Speedily Practical Large-Scale Tests](https://www.youtube.com/watch?v=1VZfL9JVgFg)
 * [Coding Tech / Autonomous Testing and the Future of Software Development](https://www.youtube.com/watch?v=Q8s8ENQLWfA)
+* [Coding Tech / Stop Writing Tests (Next Generation Tools To Automate Testing)](https://www.youtube.com/watch?v=XkpDwl5n7pg)
 ## Pytest
 * [Indian Pythonista / Unit Testing in Python with pytest](https://www.youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
@@ -177,6 +179,7 @@
 * [Coding Tech / What is all the Fuss About Python?](https://www.youtube.com/watch?v=b7WxO4ipnh0)
 * [Coding Tech / How Thinking in Python Made Me a Better Software Engineer](https://www.youtube.com/watch?v=dGzc05Bz3l0)
 * [freeCodeCamp.org / Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U)
+* [Coding Tech / Thoughts on the Future of Python](https://www.youtube.com/watch?v=UfMAiS6ndbs)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
