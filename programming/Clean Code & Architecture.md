@@ -91,6 +91,8 @@
 * [JitterTed / More Testable Code with the Hexagonal Architecture](https://www.youtube.com/watch?v=ujb_O6myknY)
 * [NewRedo / Ian Cooper on Hexagonal Architectures at Agile Yorkshire](https://www.youtube.com/watch?v=FJUevNLEtuU)
 * [DocPlanner Tech / Hexagonal Architecture: how, why and when](https://www.youtube.com/watch?v=22WUhddwkS8)
+* [Coding Tech / How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture)](https://www.youtube.com/watch?v=92ZJcxJgmmE)
+* [Coding Tech / Evolving a Pragmatic, Clean Architecture - A Craftsman's Guide](https://www.youtube.com/watch?v=47OdZ2gqPtU)
 
 # TDD
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
