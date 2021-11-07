@@ -37,6 +37,7 @@
 * [PyCon US / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
 * [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
 * [Coding Tech / Pointers? In my Python? (It's More Likely Than You Think)](https://www.youtube.com/watch?v=xngMG5HDgUU)
+* [Coding Tech / Python Monorepos: What, Why and How](https://www.youtube.com/watch?v=1qurVKSYVqY)
 
 # Testing
 ## Concepts
@@ -76,6 +77,7 @@
 * [PyCon 2018 / Mario Corchero - Effortless Logging: A deep dive into the logging module - PyCon 2018](https://www.youtube.com/watch?v=Pbz1fo7KlGg)
 * [Next Day Video / Become a logging expert in 30 minutes](https://www.youtube.com/watch?v=24_4WWkSmNo)
 * [PyCon 2017 / Elizaveta Shashkova Debugging in Python 3 6 Better, Faster, Stronger PyCon 2017](https://www.youtube.com/watch?v=NdObDUbLjdg)
+* [Coding Tech / Learn CPython by Breaking It](https://www.youtube.com/watch?v=CRuXP2jvJ8U)
 ## Automated Code Quality
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
@@ -204,6 +206,9 @@
 
 ## Matplotlib
 * [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+
+## NLP
+* [freeCodeCamp.org / Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ)
 
 # Micropython
 * [PyCon AU / Asyncio in (Micro)Python](https://www.youtube.com/watch?v=tIgu7q38bUw)
