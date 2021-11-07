@@ -69,6 +69,7 @@
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
 * [OpenTechSchool / Anouk Ruhaak – Get started with Functional Programming | otsconf 2015](https://www.youtube.com/watch?v=6f5dt923FmQ)
 * [Coding Tech / Don’t Be Scared Of Functional Programming](https://www.youtube.com/watch?v=bThEbBcrfKE)
+* [Coding Tech / Monoids, Monads, and Applicative Functors: Repeated Software Patterns](https://www.youtube.com/watch?v=woXnRQR8dQ4)
 
 ## Scott Wlaschin
 * [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
