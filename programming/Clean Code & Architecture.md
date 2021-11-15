@@ -10,6 +10,7 @@
 * [Coding Tech / Why Software Engineers Disagree About Everything](https://www.youtube.com/watch?v=3ZI0QtP4OZo)
 * [Coding Tech / Things I Was Unprepared For As A Lead Developer](https://www.youtube.com/watch?v=AwuqJ1qORag)
 * [Coding Tech / The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
+* [Coding Tech / Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices)](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 * [Computerphile / Computing Limit - Computerphile](https://www.youtube.com/watch?v=jv2H9fp9dT8)
 * [Coding Tech / Why use GPU with Neural Networks and How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=ylFWBxf2XxA)
 
@@ -70,6 +71,9 @@
 * [OpenTechSchool / Anouk Ruhaak – Get started with Functional Programming | otsconf 2015](https://www.youtube.com/watch?v=6f5dt923FmQ)
 * [Coding Tech / Don’t Be Scared Of Functional Programming](https://www.youtube.com/watch?v=bThEbBcrfKE)
 * [Coding Tech / Monoids, Monads, and Applicative Functors: Repeated Software Patterns](https://www.youtube.com/watch?v=woXnRQR8dQ4)
+
+## SOLID
+* [Coding Tech / Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
 
 ## Scott Wlaschin
 * [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
