@@ -169,6 +169,7 @@
 
 # Flask
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+* [freeCodeCamp.org / Data Structures For Python Developers (w/ Flask) - Course](https://www.youtube.com/watch?v=74NW-84BqbA)
 
 # Celery
 * [PyCon US / TALK / Jenna Conn, Hannah Cline / Optimizing Data Retrieval with Python Celery](https://www.youtube.com/watch?v=8wgR4oroeR0)
