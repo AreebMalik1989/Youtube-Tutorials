@@ -13,6 +13,7 @@
 * [Coding Tech / Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices)](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 * [Computerphile / Computing Limit - Computerphile](https://www.youtube.com/watch?v=jv2H9fp9dT8)
 * [Coding Tech / Why use GPU with Neural Networks and How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=ylFWBxf2XxA)
+* [Coding Tech / Structure and Interpretation of Computer Programs: SICP](https://www.youtube.com/watch?v=f7s8_PGpVT0)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
@@ -111,4 +112,5 @@
 
 # Microservice
 * [Coding Tech / Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
+* [Coding Tech / The Case Against Microservices](https://www.youtube.com/watch?v=r_vuXb9bIOM)
 * [Coding Tech / Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
