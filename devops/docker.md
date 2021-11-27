@@ -7,4 +7,4 @@
 
 # Kubernetes
 * [TechWorld with Nana / Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
-* 
+* [Coding Tech / Kubernetes Security 101 - Best Practices](https://www.youtube.com/watch?v=fsfEthTZgFw)
