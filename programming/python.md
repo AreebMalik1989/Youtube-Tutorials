@@ -22,6 +22,7 @@
 * [Next Day Video / Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [PyCon 2018 / Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 * [mCoding / __new__ vs __init__ in Python](https://www.youtube.com/watch?v=-zsV0_QrfTw)
+* [freeCodeCamp.org / Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 * [Coding Tech / What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 * [PyCon US / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
@@ -116,6 +117,7 @@
 * [EuroPython Conference / Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA)
 * [SF Python / The Mental Game of Python - Raymond Hettinger](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
 * [EuroPython Conference / Yenny Cheung - Washing away code smells](https://www.youtube.com/watch?v=-8ljgLLlyZw)
+* [Coding Tech / Domain Driven Design Patterns in Python](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 
 # Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
