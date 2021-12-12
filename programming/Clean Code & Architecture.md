@@ -14,6 +14,7 @@
 * [Computerphile / Computing Limit - Computerphile](https://www.youtube.com/watch?v=jv2H9fp9dT8)
 * [Coding Tech / Why use GPU with Neural Networks and How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=ylFWBxf2XxA)
 * [Coding Tech / Structure and Interpretation of Computer Programs: SICP](https://www.youtube.com/watch?v=f7s8_PGpVT0)
+* [GOTO Conferences / Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
