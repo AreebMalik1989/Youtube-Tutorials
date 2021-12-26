@@ -4,6 +4,7 @@
 * [Traversy Media / Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [Harvey Oberbrunner / Stanford Seminar The Rust Programming Language - The Best Documentary Ever](https://www.youtube.com/watch?v=SZvs15hC81U)
 * [hatchpad / The Rust Memory Model for Beginners | Hatchpad Huddle with Damien Stanton](https://www.youtube.com/watch?v=zO1a2986NHg)
+* [Coding Tech / The Rust Memory Safety Model Explained](https://www.youtube.com/watch?v=jDOWSbH3fuA)
 * [Coding Tech / What's Special About Rust](https://www.youtube.com/watch?v=YxzGp33K088)
 
 ### Playlist
