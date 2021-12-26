@@ -99,5 +99,11 @@
 * [Coding Tech / WebGL In Action!](https://www.youtube.com/watch?v=l2z3UvzXTf4)
 * [Coding Tech / WebGL + GPU = Amazing Results!](https://www.youtube.com/watch?v=qkDg-Y9iHBA)
 
+# Svelte
+* [freeCodeCamp.org / Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod](https://www.youtube.com/watch?v=OUzaUJ3gEug)
+
 # ThreeJS
 * [Coding Tech / Build a 3D World in React with ThreeJS and React Three Fiber](https://www.youtube.com/watch?v=9ZEjSxDRIik)
+
+# Purescript
+* [Coding Tech / JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
