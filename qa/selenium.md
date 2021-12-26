@@ -1,4 +1,6 @@
-## Playlists
+* [Coding Tech / Self-Healing Test Automation - The Next Big Thing?](https://www.youtube.com/watch?v=bUhuqgOTXYM)
+
+# Playlists
 * [Selenium Conference / SeConf 2015 - Portland](https://www.youtube.com/playlist?list=PLRdSclUtJDYXehIM7SyQyIghLDmE015Gc)
 * [Selenium Conference / SeConf 2017 - Austin](https://www.youtube.com/playlist?list=PLRdSclUtJDYXFVU37NEqh4KkT78BLqjcG)
 * [Selenium Conference / SeConf 2017 - Berlin](https://www.youtube.com/playlist?list=PLRdSclUtJDYV8I_B5rLkMI7jL_JMv7GRO)
