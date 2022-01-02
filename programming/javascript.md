@@ -76,6 +76,7 @@
 
 # Express
 * [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+* [freeCodeCamp.org / Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)
 
 # Redux
 * [Programming with Mosh / Redux Tutorial - Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
