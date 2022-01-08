@@ -79,6 +79,7 @@
 * [Next Day Video / Become a logging expert in 30 minutes](https://www.youtube.com/watch?v=24_4WWkSmNo)
 * [PyCon 2017 / Elizaveta Shashkova Debugging in Python 3 6 Better, Faster, Stronger PyCon 2017](https://www.youtube.com/watch?v=NdObDUbLjdg)
 * [Coding Tech / Learn CPython by Breaking It](https://www.youtube.com/watch?v=CRuXP2jvJ8U)
+* [PyCon US / SPONSOR WORKSHOP / Jérôme Vieilledent, Sümer Cip / Blackfire: Debugging Performance](https://www.youtube.com/watch?v=1EZ8oqjLun0)
 ## Automated Code Quality
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
