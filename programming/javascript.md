@@ -40,6 +40,7 @@
 * [Coding Tech / Design Patterns in TypeScript](https://www.youtube.com/watch?v=D40olxrDw38)
 * [freeCodeCamp.org/ Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 * [Coding Tech / Write Safer JavaScript Applications with TypeScript!](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
+* [Coding Tech / Why Program in Typescript](https://www.youtube.com/watch?v=x6Gtxb4PoUw)
 
 # Multithreading
 ## Worker Threads
