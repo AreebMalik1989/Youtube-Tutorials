@@ -17,6 +17,7 @@
 * [Coding Tech / Fast By Default: Algorithmic Performance Optimization in Practice](https://www.youtube.com/watch?v=owcvg2YZ7Y8)
 * [Coding Tech / "We are paid to write programs that work well and are free of error." - Douglas Crockford](https://www.youtube.com/watch?v=DePE0ffiMf4)
 * [Coding Tech / Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o)
+* [Coding Tech / Quines in JavaScript: Self-replicating Code that Prints Itself](https://www.youtube.com/watch?v=eY8-55tmAMk)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
