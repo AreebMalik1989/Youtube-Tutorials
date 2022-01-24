@@ -18,6 +18,9 @@
 * [Coding Tech / Feature Toggles - Why and How to Add to Your Software](https://www.youtube.com/watch?v=-yHZ9uLVSp4)
 * [Coding Tech / After CI/CD, there's now Continuous Configuration](https://www.youtube.com/watch?v=S50OFBgG0GM)
 * [GOTO Conferences / Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+* [Coding Tech / Six Impossible Things in Programming](https://www.youtube.com/watch?v=syIZI2rFtX8)
+* [GOTO Conferences / Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020](https://www.youtube.com/watch?v=9Az0q2XHtH8)
+* [uidotdev / Imperative vs Declarative Programming](https://www.youtube.com/watch?v=E7Fbf7R3x6I)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
@@ -76,6 +79,7 @@
 * [OpenTechSchool / Anouk Ruhaak – Get started with Functional Programming | otsconf 2015](https://www.youtube.com/watch?v=6f5dt923FmQ)
 * [Coding Tech / Don’t Be Scared Of Functional Programming](https://www.youtube.com/watch?v=bThEbBcrfKE)
 * [Coding Tech / Monoids, Monads, and Applicative Functors: Repeated Software Patterns](https://www.youtube.com/watch?v=woXnRQR8dQ4)
+* [GOTO Conferences / Functional Programming for Pragmatists • Richard Feldman • GOTO 2021](https://www.youtube.com/watch?v=3n17wHe5wEw)
 
 ## SOLID
 * [Coding Tech / Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
