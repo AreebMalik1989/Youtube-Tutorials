@@ -157,6 +157,7 @@
 # Django
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
 * [Dennis Ivy / Django Interview Questions (Junior Developer)](https://www.youtube.com/watch?v=9ai0b1LRMQM)
+* [PyCon US / SPONSOR WORKSHOP / Anthony Shaw / Microsoft](https://www.youtube.com/watch?v=wJNO6ZqlXkw)
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 * [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
 * [freeCodeCamp.org / Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw)
