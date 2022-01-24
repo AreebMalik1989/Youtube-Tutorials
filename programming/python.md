@@ -215,6 +215,9 @@
 ## NLP
 * [freeCodeCamp.org / Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ)
 
+# Quantum Computing
+* [Coding Tech / Introduction to Quantum Computing with Python and Qiskit](https://www.youtube.com/watch?v=dIcS0Yozq_U)
+
 # Micropython
 * [PyCon AU / Asyncio in (Micro)Python](https://www.youtube.com/watch?v=tIgu7q38bUw)
 
