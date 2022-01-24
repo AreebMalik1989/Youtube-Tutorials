@@ -161,6 +161,7 @@
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 * [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
 * [freeCodeCamp.org / Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw)
+* [Academind / Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!](https://www.youtube.com/watch?v=t7DrJqcUviA)
 
 # Sockets
 * [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
