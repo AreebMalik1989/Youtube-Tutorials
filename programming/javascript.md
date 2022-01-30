@@ -36,12 +36,14 @@
 * [Traversy Media / JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 
 # Typescript
+* [uidotdev / The Story of TypeScript](https://www.youtube.com/watch?v=EUlM3wx546o)
 * [Academind / TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [Coding Tech / Building Strongly Typed REST Clients with TypeScript](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [Coding Tech / Design Patterns in TypeScript](https://www.youtube.com/watch?v=D40olxrDw38)
 * [freeCodeCamp.org/ Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 * [Coding Tech / Write Safer JavaScript Applications with TypeScript!](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
 * [Coding Tech / Why Program in Typescript](https://www.youtube.com/watch?v=x6Gtxb4PoUw)
+* [freeCodeCamp.org / React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 
 # Multithreading
 ## Worker Threads
