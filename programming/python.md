@@ -25,17 +25,17 @@
 * [freeCodeCamp.org / Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 * [Coding Tech / What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
-* [PyCon US / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
-* [PyCon US / TALK / Luciano Ramalho / Protocol: the keystone of type hints](https://www.youtube.com/watch?v=kDDCKwP7QgQ)
+* [PyCon US 2021 / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
+* [PyCon US 2021 / TALK / Luciano Ramalho / Protocol: the keystone of type hints](https://www.youtube.com/watch?v=kDDCKwP7QgQ)
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [code::dive conference / Python as C++’s limiting case - Brandon Rhodes - code::dive 2018](https://www.youtube.com/watch?v=9ZxtaccqyWA)
 * [Coding Tech / Pythonic Code, By Example](https://www.youtube.com/watch?v=2-Ha3QXqfss)
-* [PyCon US / TALK / Sebastiaan Zeeff / The magic of "self": How Python inserts "self" into methods.](https://www.youtube.com/watch?v=ANLjBsWHshc)
-* [PyCon US / TALK / Alexander Hultnér / Intro to Pydantic, run-time type checking for your dataclasses](https://www.youtube.com/watch?v=W7f52FhfYqQ)
-* [PyCon US / TALK / Reuven M. Lerner / When is an exception not an exception? Using warnings in Python](https://www.youtube.com/watch?v=X0AjcpicNOM)
-* [PyCon US / TALK / Tobias Kohn / The Road to Pattern Matching in Python](https://www.youtube.com/watch?v=NYUXNRswe6k)
+* [PyCon US 2021 / TALK / Sebastiaan Zeeff / The magic of "self": How Python inserts "self" into methods.](https://www.youtube.com/watch?v=ANLjBsWHshc)
+* [PyCon US 2021 / TALK / Alexander Hultnér / Intro to Pydantic, run-time type checking for your dataclasses](https://www.youtube.com/watch?v=W7f52FhfYqQ)
+* [PyCon US 2021 / TALK / Reuven M. Lerner / When is an exception not an exception? Using warnings in Python](https://www.youtube.com/watch?v=X0AjcpicNOM)
+* [PyCon US 2021 / TALK / Tobias Kohn / The Road to Pattern Matching in Python](https://www.youtube.com/watch?v=NYUXNRswe6k)
 * [Coding Tech / Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo)
-* [PyCon US / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
+* [PyCon US 2021 / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
 * [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
 * [Coding Tech / Pointers? In my Python? (It's More Likely Than You Think)](https://www.youtube.com/watch?v=xngMG5HDgUU)
 * [Coding Tech / Python Monorepos: What, Why and How](https://www.youtube.com/watch?v=1qurVKSYVqY)
@@ -69,6 +69,7 @@
 * [Engineers.SG / Getting started with testing using Pytest and Mock - PythonSG Meetup](https://www.youtube.com/watch?v=k99HSHQDsi4)
 * [PyCon 2018 / Lisa Roach - Demystifying the Patch Function - PyCon 2018](https://www.youtube.com/watch?v=ww1UsGZV8fQ)
 * [Maurício Aniche / Mocking inputs and outputs with pytest](https://www.youtube.com/watch?v=tBAj2FqgIwg)
+* [PyCon US 2021 / SPONSOR WORKSHOP / Paul Prescod / SalesForce](https://www.youtube.com/watch?v=ghoCtWjTbII)
 ## unittest
 * [Corey Schafer / Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 ## Locust
@@ -79,7 +80,7 @@
 * [Next Day Video / Become a logging expert in 30 minutes](https://www.youtube.com/watch?v=24_4WWkSmNo)
 * [PyCon 2017 / Elizaveta Shashkova Debugging in Python 3 6 Better, Faster, Stronger PyCon 2017](https://www.youtube.com/watch?v=NdObDUbLjdg)
 * [Coding Tech / Learn CPython by Breaking It](https://www.youtube.com/watch?v=CRuXP2jvJ8U)
-* [PyCon US / SPONSOR WORKSHOP / Jérôme Vieilledent, Sümer Cip / Blackfire: Debugging Performance](https://www.youtube.com/watch?v=1EZ8oqjLun0)
+* [PyCon US 2021 / SPONSOR WORKSHOP / Jérôme Vieilledent, Sümer Cip / Blackfire: Debugging Performance](https://www.youtube.com/watch?v=1EZ8oqjLun0)
 ## Automated Code Quality
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
@@ -99,7 +100,7 @@
 * [PyCon Taiwan / What Is Async, How Does It Work, and When Should I Use It? (PyCon APAC 2014)](https://www.youtube.com/watch?v=kdzL3r-yJZY)
 * [Coding Tech / Asyncio: Understanding Async / Await in Python](https://www.youtube.com/watch?v=bs9tlDFWWdQ)
 * [Coding Tech / Trio: Structured Concurrency for Python (Alternative to Asyncio)](https://www.youtube.com/watch?v=DwSwYLn5ye4)
-* [PyCon US / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE)
+* [PyCon US 2021 / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE)
 
 # Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -119,21 +120,22 @@
 * [SF Python / The Mental Game of Python - Raymond Hettinger](https://www.youtube.com/watch?v=UANN2Eu6ZnM)
 * [EuroPython Conference / Yenny Cheung - Washing away code smells](https://www.youtube.com/watch?v=-8ljgLLlyZw)
 * [Coding Tech / Domain Driven Design Patterns in Python](https://www.youtube.com/watch?v=v0wBmQq8qcA)
+* [PyCon US 2021 / SPONSOR WORKSHOP / Charlie Engelke/ Google](https://www.youtube.com/watch?v=gdVf08sGwnM)
 
 # Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 * [Next Day Video / Monoids in Python](https://www.youtube.com/watch?v=50qhv8C3s9I)
-* [PyCon US / TUTORIAL / Mike Müller / Functional Python](https://www.youtube.com/watch?v=8w1mqprAPaI)
+* [PyCon US 2021 / TUTORIAL / Mike Müller / Functional Python](https://www.youtube.com/watch?v=8w1mqprAPaI)
 
 # Performance
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
-* [PyCon US / TALK / Emery Berger / Scalene: A high-performance, high-precision CPU+GPU+memory profiler for Python](https://www.youtube.com/watch?v=nrQPqy3YY5A)
+* [PyCon US 2021 / TALK / Emery Berger / Scalene: A high-performance, high-precision CPU+GPU+memory profiler for Python](https://www.youtube.com/watch?v=nrQPqy3YY5A)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
-* [PyCon US / TALK / Jeremy Paige / Packaging Python in 2021](https://www.youtube.com/watch?v=j8iXO5VErjw)
+* [PyCon US 2021 / TALK / Jeremy Paige / Packaging Python in 2021](https://www.youtube.com/watch?v=j8iXO5VErjw)
 * [PyCon 2018 / Dustin Ingram - Inside the Cheeseshop: How Python Packaging Works - PyCon 2018](https://www.youtube.com/watch?v=AQsZsgJ30AE)
 * [anthonywritescode / python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057](https://www.youtube.com/watch?v=GaWs-LenLYE)
 * [NeuralNine / Publish Your Own Python Package](https://www.youtube.com/watch?v=tEFkHEKypLI)
@@ -149,7 +151,7 @@
 * [Docker / Docker Build: Dockerizing a Python App with FastAPI](https://www.youtube.com/watch?v=qQNGw_m8t0Y)
 * [freeCodeCamp.org / FARM Stack Course - FastAPI, React, MongoDB](https://www.youtube.com/watch?v=OzUzrs8uJl8)
 * [freeCodeCamp.org / FastAPI Course for Beginners](https://www.youtube.com/watch?v=tLKKmouUams)
-* [PyCon US / TALK / Thomas Jewitt / An Introduction to FastAPI](https://www.youtube.com/watch?v=_jh4Wc3CE38)
+* [PyCon US 2021 / TALK / Thomas Jewitt / An Introduction to FastAPI](https://www.youtube.com/watch?v=_jh4Wc3CE38)
 
 # Selenium
 * [freeCodeCamp.org / Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)](https://www.youtube.com/watch?v=j7VZsCCnptM)
@@ -157,7 +159,7 @@
 # Django
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
 * [Dennis Ivy / Django Interview Questions (Junior Developer)](https://www.youtube.com/watch?v=9ai0b1LRMQM)
-* [PyCon US / SPONSOR WORKSHOP / Anthony Shaw / Microsoft](https://www.youtube.com/watch?v=wJNO6ZqlXkw)
+* [PyCon US 2021 / SPONSOR WORKSHOP / Anthony Shaw / Microsoft](https://www.youtube.com/watch?v=wJNO6ZqlXkw)
 * [Chuck Severance / DJ4E - Django for Everybody](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj5e-EH0t3kXrcdygrL9-u-Z)
 * [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
 * [freeCodeCamp.org / Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw)
@@ -177,17 +179,18 @@
 * [freeCodeCamp.org / Data Structures For Python Developers (w/ Flask) - Course](https://www.youtube.com/watch?v=74NW-84BqbA)
 
 # Celery
-* [PyCon US / TALK / Jenna Conn, Hannah Cline / Optimizing Data Retrieval with Python Celery](https://www.youtube.com/watch?v=8wgR4oroeR0)
+* [PyCon US 2021 / TALK / Jenna Conn, Hannah Cline / Optimizing Data Retrieval with Python Celery](https://www.youtube.com/watch?v=8wgR4oroeR0)
 
 # Misc
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
-* [PyCon US / TALK / Dustin Ingram / Secure Software Supply Chains for Python](https://www.youtube.com/watch?v=VWWgkF-0cDQ)
-* [PyCon US / TALK / Paul Everitt / Static Sites with Sphinx and Markdown](https://www.youtube.com/watch?v=YclYtM56qjo)
+* [PyCon US 2021 / TALK / Dustin Ingram / Secure Software Supply Chains for Python](https://www.youtube.com/watch?v=VWWgkF-0cDQ)
+* [PyCon US 2021 / TALK / Paul Everitt / Static Sites with Sphinx and Markdown](https://www.youtube.com/watch?v=YclYtM56qjo)
 * [Coding Tech / Programming Language Tourism: Leave Python and See the World!](https://www.youtube.com/watch?v=O2ArH_MoeKQ)
 * [Coding Tech / What is all the Fuss About Python?](https://www.youtube.com/watch?v=b7WxO4ipnh0)
 * [Coding Tech / How Thinking in Python Made Me a Better Software Engineer](https://www.youtube.com/watch?v=dGzc05Bz3l0)
 * [freeCodeCamp.org / Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U)
 * [Coding Tech / Thoughts on the Future of Python](https://www.youtube.com/watch?v=UfMAiS6ndbs)
+* [PyCon US 2021 / SPONSOR WORKSHOP / Shay DeWael and Alissa Renz /Slack](https://www.youtube.com/watch?v=Mlh8BD7xlgE)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
@@ -209,6 +212,7 @@
 
 ## Pandas
 * [Coding Tech / Effective Pandas](https://www.youtube.com/watch?v=UURvPeczxJI)
+* [Coding Tech / So You Wanna Be a Pandas Expert? || James Powell](https://www.youtube.com/watch?v=mWtfZaT7iSc)
 
 ## Matplotlib
 * [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
