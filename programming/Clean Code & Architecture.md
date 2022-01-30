@@ -21,6 +21,7 @@
 * [Coding Tech / Six Impossible Things in Programming](https://www.youtube.com/watch?v=syIZI2rFtX8)
 * [GOTO Conferences / Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020](https://www.youtube.com/watch?v=9Az0q2XHtH8)
 * [uidotdev / Imperative vs Declarative Programming](https://www.youtube.com/watch?v=E7Fbf7R3x6I)
+* [Hussein Nasser / Multi-tenancy architecture | The Backend Engineering Show](https://www.youtube.com/watch?v=IhrBgoVIoT4)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
