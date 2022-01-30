@@ -99,6 +99,7 @@
 # Games
 * [Code Explained / Code The Snake Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=9TcU2C1AACw)
 * [Code Explained / Flappy Bird Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=L07i4g-zhDA)
+* [freeCodeCamp.org / 2D Game Development with GDevelop - Crash Course](https://www.youtube.com/watch?v=iHF5fwsqu4I)
 
 # WebGL
 * [Coding Tech / WebGL In Action!](https://www.youtube.com/watch?v=l2z3UvzXTf4)
