@@ -1,4 +1,5 @@
 * [Coding Tech / Databases in the Microservices World](https://www.youtube.com/watch?v=-9Veoch50Bg)
+* [Coding Tech / Database Performance Secrets of the Stars!](https://www.youtube.com/watch?v=J9Z30ie5J6Q)
 
 # SQL
 * [freeCodeCamp.org / Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
