@@ -73,6 +73,7 @@
 # Node
 * [Programming with Mosh / Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [freeCodeCamp.org / Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+* [Chris Hay / Calling Rust code from Node.JS - Why and How | Rust Lang | JavaScript](https://www.youtube.com/watch?v=kkc2Z_PI8E8)
 
 # Deno
 * [freeCodeCamp.org / Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY)
