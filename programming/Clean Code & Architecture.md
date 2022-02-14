@@ -22,6 +22,9 @@
 * [GOTO Conferences / Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020](https://www.youtube.com/watch?v=9Az0q2XHtH8)
 * [uidotdev / Imperative vs Declarative Programming](https://www.youtube.com/watch?v=E7Fbf7R3x6I)
 * [Hussein Nasser / Multi-tenancy architecture | The Backend Engineering Show](https://www.youtube.com/watch?v=IhrBgoVIoT4)
+* [GOTO Conferences / “Good Enough” Architecture Part 1 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=RtRpL3Ndi0c)
+* [GOTO Conferences / “Good Enough” Architecture Part 2 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=nbqh1EK_FU8)
+* [GOTO Conferences / You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=t92iupKHo8M)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
