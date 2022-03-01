@@ -12,12 +12,15 @@
 * [node.js / The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
 * [Coding Tech / Answering Tricky JS Interview Questions](https://www.youtube.com/watch?v=MY0UBGX2FtA)
 * [Coding Tech / Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
+* [codedamn / 5 JavaScript Do's and Don'ts You HAVE TO KNOW 🔥](https://www.youtube.com/watch?v=5hazwqZWTNc)
 * [Coding Tech / The Reusable JavaScript REVOLUTION](https://www.youtube.com/watch?v=L-fx2xXSVso)
+* [swyx / The Third Age of JavaScript - presented at CityJS Conf 2021](https://www.youtube.com/watch?v=UKDjW0uRZGo)
 * [Coding Tech / The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
 * [Coding Tech / Fast By Default: Algorithmic Performance Optimization in Practice](https://www.youtube.com/watch?v=owcvg2YZ7Y8)
 * [Coding Tech / "We are paid to write programs that work well and are free of error." - Douglas Crockford](https://www.youtube.com/watch?v=DePE0ffiMf4)
 * [Coding Tech / Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o)
 * [Coding Tech / Quines in JavaScript: Self-replicating Code that Prints Itself](https://www.youtube.com/watch?v=eY8-55tmAMk)
+* [JSConf / Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018](https://www.youtube.com/watch?v=K8spO4hHMhg)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -25,6 +28,9 @@
 * [Coding Tech / Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs)
 * [Coding Tech / Functional Javascript: Reverse Engineering The Hype](https://www.youtube.com/watch?v=PKlojRYDQT0)
 * [Coding Tech / Reasonable JavaScript](https://www.youtube.com/watch?v=0cJqiO_Q0KA)
+
+# RxJS
+* [Fireship / RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 
 # Playlists
 * [Coding Tech / Modern JavaScript for Python Developers](https://www.youtube.com/watch?v=jAbDjt0pens)
