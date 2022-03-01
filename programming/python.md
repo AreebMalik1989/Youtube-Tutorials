@@ -146,6 +146,7 @@
 * [Coding Tech / Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 
 # Fastapi
+* [freeCodeCamp.org / Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 * [Conf42 / Intro to FastAPI | Sebastian Ramirez | Conf42: Open Source Showcase](https://www.youtube.com/watch?v=syf6ZSiRSbw)
 * [Bitfumes / FastAPI - A python framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I)
 * [PyCharm by JetBrains / Let's Build a Fast, Modern Python API with FastAPI](https://www.youtube.com/watch?v=sBVb4IB3O_U)
@@ -165,6 +166,8 @@
 * [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
 * [freeCodeCamp.org / Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw)
 * [Academind / Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!](https://www.youtube.com/watch?v=t7DrJqcUviA)
+## Django Rest Framework
+* [CodingEntrepreneurs / Build a Django REST API with the Django Rest Framework. Complete Tutorial.](https://www.youtube.com/watch?v=c708Nf0cHrs)
 
 # Sockets
 * [Tech With Tim / Python Socket Programming Tutorial](https://www.youtube.com/watch?v=3QiPPX-KeSc)
