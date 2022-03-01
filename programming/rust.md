@@ -12,8 +12,15 @@
 # Performance
 * [Coding Tech / Actix vs Rocket. Rust Lang Web Framework perf off. Is Actix Web that fast? Is Rocket fast enough?](https://www.youtube.com/watch?v=GAxxn_oGA0Y)
 
+# WASM
+* [Christopher Lindblom / Web developers should start learning Rust now (its not about webassembly)](https://www.youtube.com/watch?v=M6hzeWjL1Ic)
+* [Chris Hay / Getting Started with WebAssembly (WASM) with Rust Lang](https://www.youtube.com/watch?v=AlsIhnrQO9A)
+
 # Frontend
 * [Code to the Moon / Build A Rust Frontend (Really FAST Web Apps with Yew)](https://www.youtube.com/watch?v=MddGbXgIt2E)
 
 # Playlist
 * [YouCodeThings / Rust Videos](https://www.youtube.com/playlist?list=PLVT0QN6kDrbd3KZr4EkBNvjSDTaZyxwhM)
+
+# Embedded
+* [Coding Tech / Developing Embedded Apps In Rust](https://www.youtube.com/watch?v=7eRRrEGL4H4)
