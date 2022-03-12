@@ -144,6 +144,7 @@
 * [Sigma Coding / Distributing Python Packages: Setup.py File](https://www.youtube.com/watch?v=-hENwoex93g)
 * [Kiwi PyCon / Making sense of setup.py](https://www.youtube.com/watch?v=S-Le3PWHqZA)
 * [Coding Tech / Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
+* [PyCon US 2021 / TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://www.youtube.com/watch?v=ApDThpsr2Fw)
 
 # Fastapi
 * [freeCodeCamp.org / Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
@@ -217,6 +218,9 @@
 ## Pandas
 * [Coding Tech / Effective Pandas](https://www.youtube.com/watch?v=UURvPeczxJI)
 * [Coding Tech / So You Wanna Be a Pandas Expert? || James Powell](https://www.youtube.com/watch?v=mWtfZaT7iSc)
+
+## Dask
+* [Coding Tech / Introduction to Dask: Scaling EDA & ML Workloads](https://www.youtube.com/watch?v=yHnHOSdihKo)
 
 ## Matplotlib
 * [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
