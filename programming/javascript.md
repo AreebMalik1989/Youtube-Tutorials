@@ -29,6 +29,10 @@
 * [Coding Tech / Functional Javascript: Reverse Engineering The Hype](https://www.youtube.com/watch?v=PKlojRYDQT0)
 * [Coding Tech / Reasonable JavaScript](https://www.youtube.com/watch?v=0cJqiO_Q0KA)
 
+# Metaprogramming
+* [JSConf / Eirik Vullum: JavaScript Metaprogramming - ES6 Proxy Use and Abuse | JSConf Budapest 2017](https://www.youtube.com/watch?v=_5X2aB_mNp4)
+* [NDC Conferences / JavaScript Metaprogramming - ES6 Proxy Use and Abuse - Eirik Langholm Vullum](https://www.youtube.com/watch?v=opf7xX-whIw)
+
 # RxJS
 * [Fireship / RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 
@@ -91,6 +95,7 @@
 
 # Redux
 * [Programming with Mosh / Redux Tutorial - Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
+* [freeCodeCamp.org / Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw)
 
 # Angular
 * [freeCodeCamp.org / Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
