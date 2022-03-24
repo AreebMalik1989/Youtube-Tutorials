@@ -50,6 +50,7 @@
 * [Next Day Video / Speedily Practical Large-Scale Tests](https://www.youtube.com/watch?v=1VZfL9JVgFg)
 * [Coding Tech / Autonomous Testing and the Future of Software Development](https://www.youtube.com/watch?v=Q8s8ENQLWfA)
 * [Coding Tech / Stop Writing Tests (Next Generation Tools To Automate Testing)](https://www.youtube.com/watch?v=XkpDwl5n7pg)
+* [PyCon US 2021 / TUTORIAL / Zac Hatfield-Dodds / Introduction to Property-Based Testing](https://www.youtube.com/watch?v=uN6JjpzVsAo)
 ## Pytest
 * [Indian Pythonista / Unit Testing in Python with pytest](https://www.youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
@@ -127,6 +128,9 @@
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 * [Next Day Video / Monoids in Python](https://www.youtube.com/watch?v=50qhv8C3s9I)
 * [PyCon US 2021 / TUTORIAL / Mike Müller / Functional Python](https://www.youtube.com/watch?v=8w1mqprAPaI)
+
+# Documentation
+* [PyCon US 2021 / TUTORIAL / Mariatta / Writing Documentation with Sphinx and reStructuredText](https://www.youtube.com/watch?v=gWrc4xzm45Y)
 
 # Performance
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
@@ -221,6 +225,7 @@
 
 ## Dask
 * [Coding Tech / Introduction to Dask: Scaling EDA & ML Workloads](https://www.youtube.com/watch?v=yHnHOSdihKo)
+* [PyCon US 2021 / TUTORIAL / James Bourbeau, Julia Signell / Hacking Dask: Diving Into Dask;s Internals](https://www.youtube.com/watch?v=LQrgDhN-XOo)
 
 ## Matplotlib
 * [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
