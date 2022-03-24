@@ -6,6 +6,9 @@
 * [Jake Wright / Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
 * [Coding Tech / Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
 
+# Generics
+* [Golang Dojo / Golang Generics is Officially HERE!! (Full Tutorial)](https://www.youtube.com/watch?v=SJ9rvg5nT2c)
+
 # Functional Programming
 * [Forge Utah / Functional Programming with Go](https://www.youtube.com/watch?v=SSO78QkmMLs)
 
