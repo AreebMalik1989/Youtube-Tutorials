@@ -158,6 +158,7 @@
 * [Docker / Docker Build: Dockerizing a Python App with FastAPI](https://www.youtube.com/watch?v=qQNGw_m8t0Y)
 * [freeCodeCamp.org / FARM Stack Course - FastAPI, React, MongoDB](https://www.youtube.com/watch?v=OzUzrs8uJl8)
 * [freeCodeCamp.org / FastAPI Course for Beginners](https://www.youtube.com/watch?v=tLKKmouUams)
+* [freeCodeCamp.org / Microservices with FastAPI – Full Course](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
 * [PyCon US 2021 / TALK / Thomas Jewitt / An Introduction to FastAPI](https://www.youtube.com/watch?v=_jh4Wc3CE38)
 
 # Selenium
