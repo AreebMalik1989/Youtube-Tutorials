@@ -127,3 +127,4 @@
 # Purescript
 * [Coding Tech / JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
 * [Coding Tech / Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers](https://www.youtube.com/watch?v=SLHcfmZ6m14)
+* [Coding Tech / Monadic Parsers at the Input Boundary](https://www.youtube.com/watch?v=6Zv-0ElF0fM)
