@@ -77,6 +77,7 @@
 * [DevWeek Events / If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
 * [ChariotSolutions / Richard Feldman — The Next Paradigm Shift in Programming](https://www.youtube.com/watch?v=6YbK8o9rZfI)
 * [Coding Tech / How Functional Programming Can Make You A Better Developer](https://www.youtube.com/watch?v=EqO4TcNLjl0)
+* [Coding Tech / FP is the new OOP](https://www.youtube.com/watch?v=Z84Z1Fi-Hxs)
 * [Coding Tech / LAMBDA Functions: Powerful And Elegant Abstractions](https://www.youtube.com/watch?v=OLH3L285EiY)
 * [Coding Tech / Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
