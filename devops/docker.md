@@ -6,5 +6,6 @@
 * [Academind / Docker - Complete Tutorial [Docker For Everyone In 2 Hours]](https://www.youtube.com/watch?v=d-PPOS-VsC8)
 
 # Kubernetes
+* [freeCodeCamp.org / Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)](https://www.youtube.com/watch?v=d6WC5n9G_sM)
 * [TechWorld with Nana / Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 * [Coding Tech / Kubernetes Security 101 - Best Practices](https://www.youtube.com/watch?v=fsfEthTZgFw)
