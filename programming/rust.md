@@ -24,3 +24,6 @@
 
 # Embedded
 * [Coding Tech / Developing Embedded Apps In Rust](https://www.youtube.com/watch?v=7eRRrEGL4H4)
+
+# Cloud Native
+* [Coding Tech / Building Cloud-native Apps with Rust: the Good, the Bad and the Ugly](https://www.youtube.com/watch?v=ieXrNJXIi-o)
