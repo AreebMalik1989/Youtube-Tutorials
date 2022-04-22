@@ -25,6 +25,7 @@
 * [GOTO Conferences / “Good Enough” Architecture Part 1 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=RtRpL3Ndi0c)
 * [GOTO Conferences / “Good Enough” Architecture Part 2 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=nbqh1EK_FU8)
 * [GOTO Conferences / You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=t92iupKHo8M)
+* [Fireship / Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
