@@ -16,3 +16,5 @@
 * [freeCodeCamp.org / Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
 * [Coding Tech / The Science of Great UI](https://www.youtube.com/watch?v=nx1tOOc_3fU)
 * [Coding Tech / Hyper Lightweight Websites](https://www.youtube.com/watch?v=VUwyYhNO63I)
+* [Coding Tech / The Dark Side of the Web](https://www.youtube.com/watch?v=fhP-PNMxzDU)
+* [Coding Tech / Bringing Page Transitions to the Web](https://www.youtube.com/watch?v=85baheg2wmI)
