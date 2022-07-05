@@ -2,6 +2,10 @@
 * [Coding Tech / DevOps Principles - The C.A.M.S. Model](https://www.youtube.com/watch?v=VySUutlo91E)
 * [freeCodeCamp.org / DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 * [PowerCert Animated Videos / Port Forwarding Explained](https://www.youtube.com/watch?v=2G1ueMDgwxw)
+* [Coding Tech / Storage is Cheap (or Counting the Cost of the Not-So-Lean Enterprise)](https://www.youtube.com/watch?v=gGLQe_TA38g)
+* [Coding Tech / 100,000 Different Ways to Manage Secrets in GitOps](https://www.youtube.com/watch?v=QFO3SiqqUOM)
+* [Coding Tech / Effective CI/CD for Large Systems](https://www.youtube.com/watch?v=JWrSwXMho5k)
+* [Coding Tech / Delivering a "Serverless" Service](https://www.youtube.com/watch?v=J7AZu06WjgQ)
 
 # IAC
 * [freeCodeCamp.org / Infrastructure as Code - Crash Course](https://www.youtube.com/watch?v=EtEb40LE5zQ)
