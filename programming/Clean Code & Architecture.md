@@ -68,6 +68,7 @@
 * [Coding Tech / Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 
 # Functional Programming
+* [Coding Tech / The Essence of Functional Programming](https://www.youtube.com/watch?v=1_Eg8KYq2iQ)
 * [GOTO Conferences / Object Oriented Programming vs Functional Programming • Dave Farley • GOTO 2021](https://www.youtube.com/watch?v=-VADIcicpcg)
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [NDC Conferences / Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
@@ -86,9 +87,12 @@
 * [Coding Tech / Don’t Be Scared Of Functional Programming](https://www.youtube.com/watch?v=bThEbBcrfKE)
 * [Coding Tech / Monoids, Monads, and Applicative Functors: Repeated Software Patterns](https://www.youtube.com/watch?v=woXnRQR8dQ4)
 * [GOTO Conferences / Functional Programming for Pragmatists • Richard Feldman • GOTO 2021](https://www.youtube.com/watch?v=3n17wHe5wEw)
+* [Coding Tech / Functional Programming for Beginners: Pure Functions Explained](https://www.youtube.com/watch?v=UMcmJe1h6d4)
 
 ## SOLID
 * [Coding Tech / Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
+* [ArjanCodes / Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
+* [Amigoscode / Learn SOLID Principles with CLEAN CODE Examples](https://www.youtube.com/watch?v=_jDNAf3CzeY)
 
 ## Scott Wlaschin
 * [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
@@ -105,6 +109,7 @@
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [Paulovich DotNet / Clean Architecture Essentials - Stockholm Software Craftsmanship](https://www.youtube.com/watch?v=hZGF6RHrr8o)
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
+* [Dev Mastery / Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
 
 # Hexagonal architecture
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
