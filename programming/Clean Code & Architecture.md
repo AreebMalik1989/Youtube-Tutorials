@@ -110,6 +110,7 @@
 * [Paulovich DotNet / Clean Architecture Essentials - Stockholm Software Craftsmanship](https://www.youtube.com/watch?v=hZGF6RHrr8o)
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 * [Dev Mastery / Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
+* [Coding Tech / Clean Architecture: How to Structure Your ML Projects to Reduce Technical Debt || Laszlo Sragner](https://www.youtube.com/watch?v=zeubGVLH3Io)
 
 # Hexagonal architecture
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
