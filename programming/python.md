@@ -64,6 +64,7 @@
 * [SF Python / Josh Grant - PyTest: The Awesome Parts](https://www.youtube.com/watch?v=UIijZq8aZiY)
 * [PyGotham 2018 / Database Testing with pytest](https://www.youtube.com/watch?v=c9oeoN1AnUM)
 * [PyCon 2020 / Tutorial: Andrew Knight - Hands-On Web App Test Automation](https://www.youtube.com/watch?v=XMMHpv54xxM)
+* [Coding Tech / An Introduction to Selenium WebDriver with Python](https://www.youtube.com/watch?v=LAF_KiTnjlk)
 * [PyCon 2020 / Talk: Brian K Okken - Multiply your Testing Effectiveness with Parameterized Testing](https://www.youtube.com/watch?v=2R1HELARjUk)
 * [PyCon 2020 / Talk: Igor T. Ghisi - Write Less and Test More with Data Regression Testing](https://www.youtube.com/watch?v=YBuVGx3EYSY)
 ## mocking
