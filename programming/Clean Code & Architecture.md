@@ -88,6 +88,7 @@
 * [Coding Tech / Monoids, Monads, and Applicative Functors: Repeated Software Patterns](https://www.youtube.com/watch?v=woXnRQR8dQ4)
 * [GOTO Conferences / Functional Programming for Pragmatists • Richard Feldman • GOTO 2021](https://www.youtube.com/watch?v=3n17wHe5wEw)
 * [Coding Tech / Functional Programming for Beginners: Pure Functions Explained](https://www.youtube.com/watch?v=UMcmJe1h6d4)
+* [Coding Tech / Multiplayer Online Game in Clojure: Attack of the Clones](https://www.youtube.com/watch?v=PWro7ifA25Q)
 
 ## SOLID
 * [Coding Tech / Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
