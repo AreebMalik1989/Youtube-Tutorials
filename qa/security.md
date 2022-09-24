@@ -2,3 +2,5 @@
 * [Coding Tech / Hardware Hacking 101: Rogue Keyboards and Spy Cables](https://www.youtube.com/watch?v=5SS0D4XLhDs)
 * [Coding Tech / I used AppSec Skills to Hack IoT and So Can You](https://www.youtube.com/watch?v=-giIge7Z7l0)
 * [freeCodeCamp.org / Web App Vulnerabilities - DevSecOps Course for Beginners](https://www.youtube.com/watch?v=F5KJVuii0Yw)
+* [Coding Tech / Hacking for Developers](https://www.youtube.com/watch?v=vmnw0rVte0A)
+* [Coding Tech / 5 Security Tools All Developers Should Know About](https://www.youtube.com/watch?v=M-LSpxgNxsM)
