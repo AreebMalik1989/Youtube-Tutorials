@@ -1,4 +1,5 @@
 # Misc
+* [Coding Tech / The Path to Becoming a Software Architect](https://www.youtube.com/watch?v=TMCh1ZQG0iM)
 * [Coding Tech / How To Think Like A Programmer - Learn To Solve Problems!](https://www.youtube.com/watch?v=UiYXwUg23Yw)
 * [Coding Tech / What Happens in Your Brain When You Read Code](https://www.youtube.com/watch?v=lKXLKinoqKU)
 * [freeCodeCamp.org / UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
@@ -120,6 +121,9 @@
 * [DocPlanner Tech / Hexagonal Architecture: how, why and when](https://www.youtube.com/watch?v=22WUhddwkS8)
 * [Coding Tech / How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture)](https://www.youtube.com/watch?v=92ZJcxJgmmE)
 * [Coding Tech / Evolving a Pragmatic, Clean Architecture - A Craftsman's Guide](https://www.youtube.com/watch?v=47OdZ2gqPtU)
+
+# Event Driven Architecture
+* [freeCodeCamp.org / Event-Driven Architecture with React and FastAPI – Full Course](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
 
 # TDD
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
