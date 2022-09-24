@@ -196,6 +196,9 @@
 # Celery
 * [PyCon US 2021 / TALK / Jenna Conn, Hannah Cline / Optimizing Data Retrieval with Python Celery](https://www.youtube.com/watch?v=8wgR4oroeR0)
 
+# Games
+* [freeCodeCamp.org / Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
+
 # Misc
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
 * [PyCon US 2021 / TALK / Dustin Ingram / Secure Software Supply Chains for Python](https://www.youtube.com/watch?v=VWWgkF-0cDQ)
