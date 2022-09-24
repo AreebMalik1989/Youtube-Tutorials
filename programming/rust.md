@@ -18,6 +18,7 @@
 
 # Frontend
 * [Code to the Moon / Build A Rust Frontend (Really FAST Web Apps with Yew)](https://www.youtube.com/watch?v=MddGbXgIt2E)
+* [Coding Tech / Let's Build a RUST WebAssembly Frontend App With Yew](https://www.youtube.com/watch?v=lJllt5X6ELg)
 
 # Playlist
 * [YouCodeThings / Rust Videos](https://www.youtube.com/playlist?list=PLVT0QN6kDrbd3KZr4EkBNvjSDTaZyxwhM)
