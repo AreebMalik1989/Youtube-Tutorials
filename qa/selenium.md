@@ -1,3 +1,4 @@
+* [Coding Tech / Why Does Building a Robust Automation Framework Matter?](https://www.youtube.com/watch?v=nVdiT8Ty7t0)
 * [Coding Tech / Self-Healing Test Automation - The Next Big Thing?](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 
 # Selenium-Spring
