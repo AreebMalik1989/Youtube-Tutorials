@@ -11,6 +11,3 @@
 * [Selenium Conference / SeConf 2017 - Berlin](https://www.youtube.com/playlist?list=PLRdSclUtJDYV8I_B5rLkMI7jL_JMv7GRO)
 * [Selenium Conference / SeConf 2018 - Chicago](https://www.youtube.com/playlist?list=PLRdSclUtJDYUkhPwOhIrjA2BPbnw2Vrlm)
 * [Selenium Conference / SeConf 2019 - London](https://www.youtube.com/playlist?list=PLRdSclUtJDYXLzxGo9yjcLPDuoNGWkj6t)
-
-# Python
-* [Coding Tech / Solving Wordle with Python and Selenium](https://www.youtube.com/watch?v=2SUylRrt4jw)
