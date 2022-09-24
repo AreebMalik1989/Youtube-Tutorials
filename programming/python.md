@@ -41,6 +41,8 @@
 * [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
 * [Coding Tech / Pointers? In my Python? (It's More Likely Than You Think)](https://www.youtube.com/watch?v=xngMG5HDgUU)
 * [Coding Tech / Python Monorepos: What, Why and How](https://www.youtube.com/watch?v=1qurVKSYVqY)
+* [Coding Tech / Constraint Satisfaction Problems in Python](https://www.youtube.com/watch?v=_DAjDZXQfNE)
+* [Coding Tech / Introducing More of the Standard Library || Simon Ward Jones](https://www.youtube.com/watch?v=CjIVyQkThnA)
 
 # Testing
 ## Concepts
@@ -165,6 +167,7 @@
 
 # Selenium
 * [freeCodeCamp.org / Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)](https://www.youtube.com/watch?v=j7VZsCCnptM)
+* [Coding Tech / Solving Wordle with Python and Selenium](https://www.youtube.com/watch?v=2SUylRrt4jw)
 
 # Django
 * [Confreaks / DjangoCon US 2015 - Django Views: Functions, Classes, and Generics by Andrew Pinkham](https://www.youtube.com/watch?v=BJiOERA49ZQ)
