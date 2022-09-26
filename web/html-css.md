@@ -18,3 +18,4 @@
 * [Coding Tech / Hyper Lightweight Websites](https://www.youtube.com/watch?v=VUwyYhNO63I)
 * [Coding Tech / The Dark Side of the Web](https://www.youtube.com/watch?v=fhP-PNMxzDU)
 * [Coding Tech / Bringing Page Transitions to the Web](https://www.youtube.com/watch?v=85baheg2wmI)
+* [Coding Tech / Demystifyingish SVG paths](https://www.youtube.com/watch?v=46IkFKlHV2g)
