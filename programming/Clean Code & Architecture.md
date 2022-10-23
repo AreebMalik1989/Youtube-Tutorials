@@ -1,6 +1,9 @@
 # Misc
 * [Coding Tech / The Path to Becoming a Software Architect](https://www.youtube.com/watch?v=TMCh1ZQG0iM)
 * [Coding Tech / How To Think Like A Programmer - Learn To Solve Problems!](https://www.youtube.com/watch?v=UiYXwUg23Yw)
+* [Coding Tech / Deep vs Shallow Work: Tips to Optimize Productivity](https://www.youtube.com/watch?v=YzYh9RlB-JU)
+* [Coding Tech / Logical Reasoning: Become A Better Thinker](https://www.youtube.com/watch?v=OcCPaSEICTY)
+* [Coding Tech / Fixed vs Growth Mindset: Staying Ahead of the Game](https://www.youtube.com/watch?v=K3gcuBWXmtM)
 * [Coding Tech / What Happens in Your Brain When You Read Code](https://www.youtube.com/watch?v=lKXLKinoqKU)
 * [freeCodeCamp.org / UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 * [freeCodeCamp.org / Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
