@@ -12,5 +12,8 @@
 * [Coding Tech / What Infrastructure as Code is All About & How Terraform Helps you Work With It](https://www.youtube.com/watch?v=IRHqgXRLb0w)
 * [freeCodeCamp.org / Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners](https://www.youtube.com/watch?v=iRaai1IBlB0)
 
+# AIOps
+* [Coding Tech / The Robots Are Coming (But Not Yet), or, Don't Make Smart People Do Dumb Things](https://www.youtube.com/watch?v=ttq5LiWiukk)
+
 # CircleCI
 * [PyCon US / SPONSOR WORKSHOP / Angel Riviera / CircleCl - CICD 101](https://www.youtube.com/watch?v=WMQvbD0Rdv4)
