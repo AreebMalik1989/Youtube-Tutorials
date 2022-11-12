@@ -30,6 +30,8 @@
 * [GOTO Conferences / “Good Enough” Architecture Part 2 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=nbqh1EK_FU8)
 * [GOTO Conferences / You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=t92iupKHo8M)
 * [Fireship / Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
+* [JSConf / Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
+* [Coding Tech / 5 Uncomfortable Career Truths Developers Don't Want To Hear](https://www.youtube.com/watch?v=Y2gReDUv5xM)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
@@ -138,6 +140,9 @@
 
 # Reactive Programming
 * [Coding Tech / Reactive Programming: Why It Matters](https://www.youtube.com/watch?v=49dMGC1hM1o)
+
+# Platform Engineering
+* [Coding Tech / DevOps is dead. Embrace platform engineering.](https://www.youtube.com/watch?v=52ht63dMQ1g)
 
 # Microservice
 * [Coding Tech / Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
