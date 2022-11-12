@@ -1,5 +1,6 @@
 # Concepts Playlists
 * [Defog Tech / Java Concurrency](https://www.youtube.com/playlist?list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6)
+* [Coding Tech / Java is Very Fast, If You Don't Create Too Many Objects](https://www.youtube.com/watch?v=UhfUNqFDzog)
 
 # Tutorials
 * [freeCodeCamp.org / Learn Java 8 - Full Tutorial for Beginners](https://www.youtube.com/watch?v=grEKMHGYyns)
