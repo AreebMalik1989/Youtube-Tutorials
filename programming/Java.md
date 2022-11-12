@@ -16,3 +16,4 @@
 
 # Misc
 * [Coding Tech / To Java 17 and Beyond!](https://www.youtube.com/watch?v=U14IA5XiX1I)
+* [Coding Tech / To Java 19 and Beyond](https://www.youtube.com/watch?v=Hd0WESDRRJw)
