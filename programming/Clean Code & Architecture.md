@@ -111,6 +111,7 @@
 * [fwdays / Why Event Sourced Systems Fail [eng] / Greg Young](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 
 # Clean Architecture
+* [Coding Tech / Clean Architectures in Python](https://www.youtube.com/watch?v=KBxoQihhc-A)
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 * [Paulovich DotNet / Clean Architecture Essentials - Stockholm Software Craftsmanship](https://www.youtube.com/watch?v=hZGF6RHrr8o)
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
