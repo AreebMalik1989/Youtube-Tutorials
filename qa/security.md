@@ -4,3 +4,4 @@
 * [freeCodeCamp.org / Web App Vulnerabilities - DevSecOps Course for Beginners](https://www.youtube.com/watch?v=F5KJVuii0Yw)
 * [Coding Tech / Hacking for Developers](https://www.youtube.com/watch?v=vmnw0rVte0A)
 * [Coding Tech / 5 Security Tools All Developers Should Know About](https://www.youtube.com/watch?v=M-LSpxgNxsM)
+* [Coding Tech / Old Malware, New tools: Ghidra and Commodore 64](https://www.youtube.com/watch?v=4k9EKkCcWoc)
