@@ -21,6 +21,7 @@
 * [Coding Tech / Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o)
 * [Coding Tech / Quines in JavaScript: Self-replicating Code that Prints Itself](https://www.youtube.com/watch?v=eY8-55tmAMk)
 * [JSConf / Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018](https://www.youtube.com/watch?v=K8spO4hHMhg)
+* [Coding Tech / Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -114,6 +115,7 @@
 * [Code Explained / Flappy Bird Game Using JavaScript and HTML5](https://www.youtube.com/watch?v=L07i4g-zhDA)
 * [freeCodeCamp.org / Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=ec8vSKJuZTk)
 * [freeCodeCamp.org / 2D Game Development with GDevelop - Crash Course](https://www.youtube.com/watch?v=iHF5fwsqu4I)
+* [freeCodeCamp.org / JavaScript Tutorial - PuzzleCam Game](https://www.youtube.com/watch?v=HS6KHYIYdXc)
 
 # WebGL
 * [Coding Tech / WebGL In Action!](https://www.youtube.com/watch?v=l2z3UvzXTf4)
@@ -129,3 +131,6 @@
 * [Coding Tech / JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
 * [Coding Tech / Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers](https://www.youtube.com/watch?v=SLHcfmZ6m14)
 * [Coding Tech / Monadic Parsers at the Input Boundary](https://www.youtube.com/watch?v=6Zv-0ElF0fM)
+
+# IOT
+* [JSConf / Offline IoT - Building Resilient Connected Devices without the Internet - Nicholas Hehr](https://www.youtube.com/watch?v=0JROQGWCmds)
