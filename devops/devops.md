@@ -15,5 +15,8 @@
 # AIOps
 * [Coding Tech / The Robots Are Coming (But Not Yet), or, Don't Make Smart People Do Dumb Things](https://www.youtube.com/watch?v=ttq5LiWiukk)
 
+# Micro VMs
+* [Coding Tech / What Are MicroVMs? And Why Should I Care?](https://www.youtube.com/watch?v=KUEjQCYOkS8)
+
 # CircleCI
 * [PyCon US / SPONSOR WORKSHOP / Angel Riviera / CircleCl - CICD 101](https://www.youtube.com/watch?v=WMQvbD0Rdv4)
