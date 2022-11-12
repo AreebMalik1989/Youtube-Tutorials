@@ -193,6 +193,9 @@
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 * [freeCodeCamp.org / Data Structures For Python Developers (w/ Flask) - Course](https://www.youtube.com/watch?v=74NW-84BqbA)
 
+# Robyn
+* [Coding Tech / Robyn: An async Python Web Framework with a Rust Runtime](https://www.youtube.com/watch?v=QWzp6nFQxPQ)
+
 # Celery
 * [PyCon US 2021 / TALK / Jenna Conn, Hannah Cline / Optimizing Data Retrieval with Python Celery](https://www.youtube.com/watch?v=8wgR4oroeR0)
 
@@ -218,6 +221,7 @@
 * [Next Day Video / PyTexas 2019](https://www.youtube.com/playlist?list=PL5E-19VITtmT0foFkn2Yn25YSnREyZmeJ)
 
 # GIL
+* [Coding Tech / Multithreaded Python without the GIL](https://www.youtube.com/watch?v=W_e54RvADMU)
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
 
 # Data Science
