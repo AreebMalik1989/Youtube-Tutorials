@@ -5,3 +5,5 @@
 * [Coding Tech / Cloud Native Apps with Server-Side WebAssembly](https://www.youtube.com/watch?v=JtwHtfFe6AI)
 * [Coding Tech / Making JavaScript on WebAssembly Fast](https://www.youtube.com/watch?v=CRaMls9oVBw)
 * [Coding Tech / WebAssembly Landscape 2022](https://www.youtube.com/watch?v=Ndu9qU_vY9c)
+* [Coding Tech / WebAssembly: The Path to Components](https://www.youtube.com/watch?v=DkpNqcfuPOM)
+* [Coding Tech / Augmenting Node.js with WebAssembly](https://www.youtube.com/watch?v=a18YgJg41yQ)
