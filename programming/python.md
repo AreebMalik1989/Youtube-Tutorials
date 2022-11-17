@@ -153,6 +153,7 @@
 * [Kiwi PyCon / Making sense of setup.py](https://www.youtube.com/watch?v=S-Le3PWHqZA)
 * [Coding Tech / Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 * [PyCon US 2021 / TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://www.youtube.com/watch?v=ApDThpsr2Fw)
+* [Coding Tech / Packaging Python in 2022](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
 
 # Fastapi
 * [freeCodeCamp.org / Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
