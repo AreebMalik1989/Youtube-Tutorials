@@ -22,6 +22,7 @@
 * [Coding Tech / Quines in JavaScript: Self-replicating Code that Prints Itself](https://www.youtube.com/watch?v=eY8-55tmAMk)
 * [JSConf / Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018](https://www.youtube.com/watch?v=K8spO4hHMhg)
 * [Coding Tech / Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
+* [JSConf / Toolbox to navigate through a new code base, with confidence - Ramón Huidobro](https://www.youtube.com/watch?v=qUqtZpiiP48)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -55,6 +56,7 @@
 * [Coding Tech / Write Safer JavaScript Applications with TypeScript!](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
 * [Coding Tech / Why Program in Typescript](https://www.youtube.com/watch?v=x6Gtxb4PoUw)
 * [freeCodeCamp.org / React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
+* [JSConf / How would Typescript make your life easier? - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=nwDvGipW-JI)
 
 # Multithreading
 ## Worker Threads
