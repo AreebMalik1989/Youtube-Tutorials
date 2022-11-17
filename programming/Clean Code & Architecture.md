@@ -138,14 +138,17 @@
 * [DevTernity / DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [Continuous Delivery / Test Driven Development vs Behavior Driven Development](https://www.youtube.com/watch?v=Bq_oz7nCNUA)
 
+# Platform Engineering
+* [Coding Tech / DevOps is dead. Embrace platform engineering.](https://www.youtube.com/watch?v=52ht63dMQ1g)
+
+# Monorepo
+* [JSConf / Mom, they told me to make a Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=UGs_sVDSrxo)
+
 # Reactive Architecture
 * [Coding Tech / Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices](https://www.youtube.com/watch?v=YEOoJZ13JtI)
 
 # Reactive Programming
 * [Coding Tech / Reactive Programming: Why It Matters](https://www.youtube.com/watch?v=49dMGC1hM1o)
-
-# Platform Engineering
-* [Coding Tech / DevOps is dead. Embrace platform engineering.](https://www.youtube.com/watch?v=52ht63dMQ1g)
 
 # Microservice
 * [Coding Tech / Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
