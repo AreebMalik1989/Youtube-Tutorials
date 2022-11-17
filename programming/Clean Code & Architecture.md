@@ -14,8 +14,6 @@
 * [Coding Tech / What Makes Developers Unhappy](https://www.youtube.com/watch?v=1q7gKoNI9mY)
 * [Coding Tech / Why Software Engineers Disagree About Everything](https://www.youtube.com/watch?v=3ZI0QtP4OZo)
 * [Coding Tech / Things I Was Unprepared For As A Lead Developer](https://www.youtube.com/watch?v=AwuqJ1qORag)
-* [Coding Tech / The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
-* [Coding Tech / Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices)](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 * [Computerphile / Computing Limit - Computerphile](https://www.youtube.com/watch?v=jv2H9fp9dT8)
 * [Coding Tech / Why use GPU with Neural Networks and How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=ylFWBxf2XxA)
 * [Coding Tech / Structure and Interpretation of Computer Programs: SICP](https://www.youtube.com/watch?v=f7s8_PGpVT0)
@@ -32,6 +30,11 @@
 * [Fireship / Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
 * [JSConf / Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
 * [Coding Tech / 5 Uncomfortable Career Truths Developers Don't Want To Hear](https://www.youtube.com/watch?v=Y2gReDUv5xM)
+
+# Code Review
+* [Coding Tech / The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
+* [Coding Tech / Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices)](https://www.youtube.com/watch?v=8XsBX-V_fgI)
+* [ArjanCodes / How to Give Good Feedback to Junior Developers](https://www.youtube.com/watch?v=07ZBSxfsWuI)
 
 # Software Craftsmanship
 * [DevTernity / DevTernity 2015: Software Craftsmanship by Sandro Mancuso](https://www.youtube.com/watch?v=jMPEPwMltC4)
