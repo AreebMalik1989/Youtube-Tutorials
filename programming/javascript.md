@@ -80,6 +80,9 @@
 * [Academind / React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 * [Coding Tech / Intro to React Hooks](https://www.youtube.com/watch?v=rSiE2Bfj6T8)
 
+# NextJS
+* [JSConf / Incremental Static Regeneration: Static sites on steroids - Facundo Giuliani](https://www.youtube.com/watch?v=F7347Whnlmc)
+
 # SolidJS
 * [Coding Tech / ReactJS vs SolidJS](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
 
@@ -125,6 +128,9 @@
 
 # Svelte
 * [freeCodeCamp.org / Full Stack Web Development in the Cloud Course - Svelte, Postgres, Vercel, Gitpod](https://www.youtube.com/watch?v=OUzaUJ3gEug)
+
+# Devops
+* [JSConf / JavaScript DevOps or WebOps: Should I build or should I not? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=Nb07xl-wj2M)
 
 # ThreeJS
 * [Coding Tech / Build a 3D World in React with ThreeJS and React Three Fiber](https://www.youtube.com/watch?v=9ZEjSxDRIik)
