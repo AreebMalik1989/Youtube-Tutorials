@@ -213,6 +213,7 @@
 * [freeCodeCamp.org / Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U)
 * [Coding Tech / Thoughts on the Future of Python](https://www.youtube.com/watch?v=UfMAiS6ndbs)
 * [PyCon US 2021 / SPONSOR WORKSHOP / Shay DeWael and Alissa Renz /Slack](https://www.youtube.com/watch?v=Mlh8BD7xlgE)
+* [Coding Tech / Demystifying Python’s Internals](https://www.youtube.com/watch?v=2_TmUOCr1nw)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
@@ -228,6 +229,7 @@
 # Data Science
 ## Deep Learning
 * [Coding Tech / A Friendly Introduction To Deep Reinforcement Learning](https://www.youtube.com/watch?v=t73mEivrkAI)
+* [PyCon US / TUTORIAL / Andrea and Josh / Practical Deep Learning for Data Scientists](https://www.youtube.com/watch?v=wIJf95rxoEs)
 
 ## Numpy
 * [freeCodeCamp.org / Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
