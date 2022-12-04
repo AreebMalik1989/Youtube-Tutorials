@@ -7,3 +7,4 @@
 * [Coding Tech / WebAssembly Landscape 2022](https://www.youtube.com/watch?v=Ndu9qU_vY9c)
 * [Coding Tech / WebAssembly: The Path to Components](https://www.youtube.com/watch?v=DkpNqcfuPOM)
 * [Coding Tech / Augmenting Node.js with WebAssembly](https://www.youtube.com/watch?v=a18YgJg41yQ)
+* [Coding Tech / WASM Components: The Interchangeable Parts of Software](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
