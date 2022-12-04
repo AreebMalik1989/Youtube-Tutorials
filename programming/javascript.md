@@ -23,6 +23,8 @@
 * [JSConf / Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018](https://www.youtube.com/watch?v=K8spO4hHMhg)
 * [Coding Tech / Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
 * [JSConf / Toolbox to navigate through a new code base, with confidence - Ramón Huidobro](https://www.youtube.com/watch?v=qUqtZpiiP48)
+* [Fireship / 100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
+* [Fireship / JavaScript for the Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ)
 
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -79,6 +81,7 @@
 * [Codevolution / ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 * [Academind / React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 * [Coding Tech / Intro to React Hooks](https://www.youtube.com/watch?v=rSiE2Bfj6T8)
+* [Coding Tech / The weird things about React](https://www.youtube.com/watch?v=-NPUjrjusPA)
 
 # NextJS
 * [JSConf / Incremental Static Regeneration: Static sites on steroids - Facundo Giuliani](https://www.youtube.com/watch?v=F7347Whnlmc)
@@ -99,17 +102,26 @@
 * [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
 * [freeCodeCamp.org / Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)
 
+# NestJS
+* [JSConf / NestJS the best framework for your API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=Vr-83N8J-9c)
+
 # Redux
 * [Programming with Mosh / Redux Tutorial - Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
 * [freeCodeCamp.org / Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw)
+* [freeCodeCamp.org / Redux Toolkit Tutorial – JavaScript State Management Library](https://www.youtube.com/watch?v=bbkBuqC1rU4)
 
 # Angular
 * [freeCodeCamp.org / Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 * [freeCodeCamp.org / Learn Angular Material - Full Tutorial](https://www.youtube.com/watch?v=jUfEn032IL8)
 
+# ViteJS
+* [JSConf / The future is here: What is ViteJS? - Oscar Barajas Tavares](https://www.youtube.com/watch?v=plAsq3EWi_c)
+
 # Testing
+* [Fireship / Test-Driven Development // Fun TDD Introduction with JavaScript](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
 * [freeCodeCamp.org / Web App Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so)
 * [Coding Tech / How To Test Your React App (unit / functional testing and CI pipeline tutorial)](https://www.youtube.com/watch?v=13HIqdtfxrM)
+* [JSConf / JavaScript Tests in Node, the Browser, and CI - Rob Richardson](https://www.youtube.com/watch?v=fJBeD95_s4A)
 
 # BDD
 * [Traversy Media / Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
@@ -142,3 +154,9 @@
 
 # IOT
 * [JSConf / Offline IoT - Building Resilient Connected Devices without the Internet - Nicholas Hehr](https://www.youtube.com/watch?v=0JROQGWCmds)
+
+# Text Search
+* [Coding Tech / Lyra: Disrupting full Text Search industry with JavaScript](https://www.youtube.com/watch?v=B0MfK-rBK90)
+
+# Code Generators
+* [JSConf / Have a better developer experience using code generators - Eder Octavio Díaz Razón](https://www.youtube.com/watch?v=SPll1Rxl_Es)
