@@ -21,6 +21,7 @@
 * [Daily Code Buffer / How to Master Spring Boot - Complete Spring Boot Roadmap](https://www.youtube.com/watch?v=gQHs8pnlagM)
 * [Amigoscode / Java Lombok Tutorial [2021]](https://www.youtube.com/watch?v=z7bsNF2Dtf0)
 * [Amigoscode / Spring Boot Tutorial | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U)
+* [Coding Tech / Let's Build a Java Web Project](https://www.youtube.com/watch?v=WStksLI_D3M)
 
 # Misc
 * [Coding Tech / To Java 17 and Beyond!](https://www.youtube.com/watch?v=U14IA5XiX1I)
