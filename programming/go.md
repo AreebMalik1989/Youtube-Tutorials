@@ -8,6 +8,7 @@
 * [Coding Tech / Clear is Better Than Clever](https://www.youtube.com/watch?v=WkzGQ-Sm_50)
 * [Coding Tech / Go As a Scripting Language in Linux](https://www.youtube.com/watch?v=k7oosn5HrKk)
 * [Google Developers Space / Golang Worst Practices - Oliver Powell](https://www.youtube.com/watch?v=Jns0QgJtAYY)
+* [Golang Dojo / So...you THINK you know Go?](https://www.youtube.com/watch?v=nZ4C6iXF4vo)
 
 # Concurrent Programming
 * [Jake Wright / Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
