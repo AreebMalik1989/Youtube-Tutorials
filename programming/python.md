@@ -27,7 +27,7 @@
 * [Coding Tech / What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 * [PyCon US 2021 / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
-* [Coding Tech / `typing.Protocol`: Type Hints in Python](https://www.youtube.com/watch?v=aD9lEfUB9xk)
+* [Coding Tech / \`typing.Protocol\`: Type Hints in Python](https://www.youtube.com/watch?v=aD9lEfUB9xk)
 * [ArjanCodes / Protocol Or ABC In Python - When to use which one?](https://www.youtube.com/watch?v=xvb5hGLoK0A)
 * [PyCon US 2021 / TALK / Luciano Ramalho / Protocol: the keystone of type hints](https://www.youtube.com/watch?v=kDDCKwP7QgQ)
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
