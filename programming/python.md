@@ -143,6 +143,7 @@
 * [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 * [PyCon US 2021 / TALK / Emery Berger / Scalene: A high-performance, high-precision CPU+GPU+memory profiler for Python](https://www.youtube.com/watch?v=nrQPqy3YY5A)
+* [Coding Tech / How we are making Python 3.11 faster (CPython project)](https://www.youtube.com/watch?v=MipEJ3XzZjU)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
@@ -227,6 +228,9 @@
 # GIL
 * [Coding Tech / Multithreaded Python without the GIL](https://www.youtube.com/watch?v=W_e54RvADMU)
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
+
+# Audio
+* [Coding Tech / Working with Audio in Python](https://www.youtube.com/watch?v=Grg3Klnw5i8)
 
 # Data Science
 ## Deep Learning
