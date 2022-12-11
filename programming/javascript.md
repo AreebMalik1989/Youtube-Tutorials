@@ -22,6 +22,7 @@
 * [Coding Tech / Quines in JavaScript: Self-replicating Code that Prints Itself](https://www.youtube.com/watch?v=eY8-55tmAMk)
 * [JSConf / Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018](https://www.youtube.com/watch?v=K8spO4hHMhg)
 * [Coding Tech / Typed JavaScript? For real? The type annotations proposal and what it’s all about](https://www.youtube.com/watch?v=8EXuuLtYFY0)
+* [JSConf / Typed JavaScript? For real? The “type annotations” proposal and what it’s all about by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
 * [JSConf / Toolbox to navigate through a new code base, with confidence - Ramón Huidobro](https://www.youtube.com/watch?v=qUqtZpiiP48)
 * [Fireship / 100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
 * [Fireship / JavaScript for the Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ)
