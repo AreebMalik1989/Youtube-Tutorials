@@ -2,6 +2,7 @@
 * [freeCodeCamp.org / Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
 * [freeCodeCamp.org / Solve Coding Interview Backtracking Problems - Crash Course](https://www.youtube.com/watch?v=A80YzvNwqXA)
 * [freeCodeCamp.org / Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+* [freeCodeCamp.org / Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
 * [freeCodeCamp.org / Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 * [freeCodeCamp.org / Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 * [Coding Tech / A Beginner's Guide to Recursion](https://www.youtube.com/watch?v=TO4-Px3T9Zs)
