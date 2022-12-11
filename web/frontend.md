@@ -1,3 +1,5 @@
+* [JSConf / History of Art vs. Web Design vs. Frontend Development by Nils Binder](https://www.youtube.com/watch?v=SvD85zmWO0A)
+
 # HTML
 * [Programming with Mosh / HTML Tutorial for Beginners: Learn HTML5 in 1 Hour](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 * [freeCodeCamp.org / HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
