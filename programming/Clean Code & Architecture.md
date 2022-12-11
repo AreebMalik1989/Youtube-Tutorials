@@ -30,6 +30,7 @@
 * [Fireship / Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
 * [JSConf / Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
 * [Coding Tech / 5 Uncomfortable Career Truths Developers Don't Want To Hear](https://www.youtube.com/watch?v=Y2gReDUv5xM)
+* [Coding Tech / Coding Complex App Logic, Visually](https://www.youtube.com/watch?v=wgWwJSnhgDU&list=PLVZAVZvYYrhzq-yl_TSnpi89cMvGpJroL&index=9)
 
 # Code Review
 * [Coding Tech / The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
@@ -122,6 +123,9 @@
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 * [Dev Mastery / Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
 * [Coding Tech / Clean Architecture: How to Structure Your ML Projects to Reduce Technical Debt || Laszlo Sragner](https://www.youtube.com/watch?v=zeubGVLH3Io)
+
+# Plugin Architecture
+* [ArjanCodes / The Power Of The Plugin Architecture In Python](https://www.youtube.com/watch?v=iCE1bDoit9Q)
 
 # Hexagonal architecture
 * [Marcus Biel / Hexagonal Architecture](https://www.youtube.com/watch?v=fGaJHEgonKg)
