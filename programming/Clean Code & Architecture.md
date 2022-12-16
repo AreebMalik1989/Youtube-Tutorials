@@ -78,6 +78,7 @@
 * [Coding Tech / Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 
 # Functional Programming
+* [Coding Tech / An Introduction to Functional Programming](https://www.youtube.com/watch?v=1BbASVEUndQ)
 * [Coding Tech / The Essence of Functional Programming](https://www.youtube.com/watch?v=1_Eg8KYq2iQ)
 * [GOTO Conferences / Object Oriented Programming vs Functional Programming • Dave Farley • GOTO 2021](https://www.youtube.com/watch?v=-VADIcicpcg)
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
