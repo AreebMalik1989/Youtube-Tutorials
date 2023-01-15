@@ -27,6 +27,9 @@
 * [Fireship / 100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
 * [Fireship / JavaScript for the Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ)
 
+# Tutorial
+* [freeCodeCamp.org / JavaScript Programming - Full Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
+
 # Functional
 * [JSConf / Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Coding Tech / A Skeptics Guide To Functional STYLE JavaScript](https://www.youtube.com/watch?v=oF9XTJoScOE)
@@ -101,6 +104,8 @@
 
 # Express
 * [Traversy Media / Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+* [freeCodeCamp.org / Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+* [freeCodeCamp.org / User Authentication in Web Apps (Passport.js, Node, Express)](https://www.youtube.com/watch?v=F-sFp_AvHc8)
 * [freeCodeCamp.org / Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)
 
 # NestJS
