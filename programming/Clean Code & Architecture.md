@@ -32,6 +32,9 @@
 * [Coding Tech / 5 Uncomfortable Career Truths Developers Don't Want To Hear](https://www.youtube.com/watch?v=Y2gReDUv5xM)
 * [Coding Tech / Coding Complex App Logic, Visually](https://www.youtube.com/watch?v=wgWwJSnhgDU&list=PLVZAVZvYYrhzq-yl_TSnpi89cMvGpJroL&index=9)
 
+# MVC, MVP, MVVM
+* [ArjanCodes / Which Software Architecture Should You Use: MVC, MVP, or MVVM?](https://www.youtube.com/watch?v=eHhXoCNCI1c)
+
 # Code Review
 * [Coding Tech / The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 * [Coding Tech / Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices)](https://www.youtube.com/watch?v=8XsBX-V_fgI)
