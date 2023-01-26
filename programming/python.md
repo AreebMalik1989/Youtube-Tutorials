@@ -245,6 +245,9 @@
 * [Coding Tech / Effective Pandas](https://www.youtube.com/watch?v=UURvPeczxJI)
 * [Coding Tech / So You Wanna Be a Pandas Expert? || James Powell](https://www.youtube.com/watch?v=mWtfZaT7iSc)
 
+## Polars
+* [Coding Tech / Expressive and Fast Dataframes in Python with Polars || Juan Luis](https://www.youtube.com/watch?v=R0Y3LtZuUy8)
+
 ## Dask
 * [Coding Tech / Introduction to Dask: Scaling EDA & ML Workloads](https://www.youtube.com/watch?v=yHnHOSdihKo)
 * [PyCon US 2021 / TUTORIAL / James Bourbeau, Julia Signell / Hacking Dask: Diving Into Dask;s Internals](https://www.youtube.com/watch?v=LQrgDhN-XOo)
