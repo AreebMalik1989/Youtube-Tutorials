@@ -141,8 +141,9 @@
 # Performance
 * [EuroPython Conference / Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [PyCon 2018 / Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=zQeYx87mfyw)
-* [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
+* [Coding Tech / Why is it Slow? Strategies for Solving Performance Issues](https://www.youtube.com/watch?v=RRCGywYTsxI)
 * [PyCon US 2021 / TALK / Emery Berger / Scalene: A high-performance, high-precision CPU+GPU+memory profiler for Python](https://www.youtube.com/watch?v=nrQPqy3YY5A)
+* [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 * [Coding Tech / How we are making Python 3.11 faster (CPython project)](https://www.youtube.com/watch?v=MipEJ3XzZjU)
 
 # Distribution
