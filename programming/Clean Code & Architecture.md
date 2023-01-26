@@ -133,6 +133,7 @@
 * [DevTernity / DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 * [Dev Mastery / Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
 * [Coding Tech / Clean Architecture: How to Structure Your ML Projects to Reduce Technical Debt || Laszlo Sragner](https://www.youtube.com/watch?v=zeubGVLH3Io)
+* [Philipp Lackner / The Top 3 Clean Architecture Mistakes in Android](https://www.youtube.com/watch?v=O7rPeWnCvhc)
 
 # Plugin Architecture
 * [ArjanCodes / The Power Of The Plugin Architecture In Python](https://www.youtube.com/watch?v=iCE1bDoit9Q)
