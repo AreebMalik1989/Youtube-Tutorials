@@ -6,6 +6,7 @@
 * [freeCodeCamp.org / Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 * [freeCodeCamp.org / Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 * [Coding Tech / A Beginner's Guide to Recursion](https://www.youtube.com/watch?v=TO4-Px3T9Zs)
+* [Coding Tech / An Introduction to Modern Hashing](https://www.youtube.com/watch?v=O9N8Hy3unfw)
 * [MIT OpenCourseWare / 6.0001 Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 * [MIT OpenCourseWare / MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
