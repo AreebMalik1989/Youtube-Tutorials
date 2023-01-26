@@ -110,6 +110,7 @@
 
 # NestJS
 * [JSConf / NestJS the best framework for your API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=Vr-83N8J-9c)
+* [freeCodeCamp.org / NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s)
 
 # Redux
 * [Programming with Mosh / Redux Tutorial - Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4)
