@@ -56,6 +56,7 @@
 * [Coding Tech / Autonomous Testing and the Future of Software Development](https://www.youtube.com/watch?v=Q8s8ENQLWfA)
 * [Coding Tech / Stop Writing Tests (Next Generation Tools To Automate Testing)](https://www.youtube.com/watch?v=XkpDwl5n7pg)
 * [PyCon US 2021 / TUTORIAL / Zac Hatfield-Dodds / Introduction to Property-Based Testing](https://www.youtube.com/watch?v=uN6JjpzVsAo)
+* [ArjanCodes / How to Use Hypothesis for Model-based Testing (Step by Step)](https://www.youtube.com/watch?v=-S3BFkNn0rQ)
 ## Pytest
 * [Indian Pythonista / Unit Testing in Python with pytest](https://www.youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
