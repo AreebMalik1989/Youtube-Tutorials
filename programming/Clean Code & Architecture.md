@@ -36,6 +36,7 @@
 * [Coding Tech / 5 Uncomfortable Career Truths Developers Don't Want To Hear](https://www.youtube.com/watch?v=Y2gReDUv5xM)
 * [Coding Tech / Coding Complex App Logic, Visually](https://www.youtube.com/watch?v=wgWwJSnhgDU&list=PLVZAVZvYYrhzq-yl_TSnpi89cMvGpJroL&index=9)
 * [NDC Conferences / The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U)
+* [Brian Will / Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 
 # MVC, MVP, MVVM
 * [ArjanCodes / Which Software Architecture Should You Use: MVC, MVP, or MVVM?](https://www.youtube.com/watch?v=eHhXoCNCI1c)
@@ -85,6 +86,7 @@
 * [GOTO Conferences / Old Is the New New • Kevlin Henney • GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 * [Coding Tech / Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 * [NDC Conferences / Structure and Interpretation of Test Cases - Kevlin Henney](https://www.youtube.com/watch?v=tWn8RA_DEic)
+* [DevWeek Events / Test Smells and Fragrances - Kevlin Henney](https://www.youtube.com/watch?v=wCx_6kOo99M)
 
 # Functional Programming
 * [Coding Tech / An Introduction to Functional Programming](https://www.youtube.com/watch?v=1BbASVEUndQ)
