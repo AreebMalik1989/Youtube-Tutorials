@@ -2,7 +2,7 @@
 * [David Bombal / Python keylogger](https://www.youtube.com/watch?v=XKoTwepEzPI)
 
 # Tutorials
-* [Programming with Mosh / Python Tutorial - Python for Beginners [2020]](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+* [Programming with Mosh / Python Full Course for Beginners [2025]](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
 * [Tech With Tim / Python As Fast as Possible - Learn Python in ~75 Minutes](https://www.youtube.com/watch?v=VchuKL44s6E)
 * [freeCodeCamp.org / Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI)
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
