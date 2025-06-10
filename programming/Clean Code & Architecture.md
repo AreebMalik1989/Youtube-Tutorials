@@ -1,5 +1,4 @@
 # Misc
-* [Coding Tech / The Path to Becoming a Software Architect](https://www.youtube.com/watch?v=TMCh1ZQG0iM)
 * [Coding Tech / How To Think Like A Programmer - Learn To Solve Problems!](https://www.youtube.com/watch?v=UiYXwUg23Yw)
 * [Coding Tech / Deep vs Shallow Work: Tips to Optimize Productivity](https://www.youtube.com/watch?v=YzYh9RlB-JU)
 * [Coding Tech / Logical Reasoning: Become A Better Thinker](https://www.youtube.com/watch?v=OcCPaSEICTY)
@@ -12,7 +11,6 @@
 * [freeCodeCamp.org / UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 * [freeCodeCamp.org / Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
 * [Coding Tech / Why Code with Code Smells is Harder to Understand](https://www.youtube.com/watch?v=gkjbWKp4VgM)
-* [Coding Tech / 10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
 * [Coding Tech / Clear is Better Than Clever](https://www.youtube.com/watch?v=WkzGQ-Sm_50)
 * [PyCon US / TALK / Shemra Rizzo / Learning python during lockdown: a surprising bonding experience with my child](https://www.youtube.com/watch?v=Q58kwvICDwQ)
 * [Coding Tech / What Makes Developers Unhappy](https://www.youtube.com/watch?v=1q7gKoNI9mY)
@@ -25,11 +23,7 @@
 * [Coding Tech / After CI/CD, there's now Continuous Configuration](https://www.youtube.com/watch?v=S50OFBgG0GM)
 * [GOTO Conferences / Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 * [Coding Tech / Six Impossible Things in Programming](https://www.youtube.com/watch?v=syIZI2rFtX8)
-* [GOTO Conferences / Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020](https://www.youtube.com/watch?v=9Az0q2XHtH8)
 * [uidotdev / Imperative vs Declarative Programming](https://www.youtube.com/watch?v=E7Fbf7R3x6I)
-* [Hussein Nasser / Multi-tenancy architecture | The Backend Engineering Show](https://www.youtube.com/watch?v=IhrBgoVIoT4)
-* [GOTO Conferences / “Good Enough” Architecture Part 1 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=RtRpL3Ndi0c)
-* [GOTO Conferences / “Good Enough” Architecture Part 2 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=nbqh1EK_FU8)
 * [GOTO Conferences / You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=t92iupKHo8M)
 * [Fireship / Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
 * [JSConf / Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
@@ -37,6 +31,17 @@
 * [Coding Tech / Coding Complex App Logic, Visually](https://www.youtube.com/watch?v=wgWwJSnhgDU&list=PLVZAVZvYYrhzq-yl_TSnpi89cMvGpJroL&index=9)
 * [NDC Conferences / The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U)
 * [Brian Will / Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
+* [DevTernity Conference / 🚀 DevTernity 2021: Adam Tornhill – Prioritizing Technical Debt as if Time and Money Matters](https://www.youtube.com/watch?v=b9I3aOnXepA)
+
+# Software Architecture
+* [Coding Tech / The Path to Becoming a Software Architect](https://www.youtube.com/watch?v=TMCh1ZQG0iM)
+* [Coding Tech / 10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+* [GOTO Conferences / Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020](https://www.youtube.com/watch?v=9Az0q2XHtH8)
+* [Hussein Nasser / Multi-tenancy architecture | The Backend Engineering Show](https://www.youtube.com/watch?v=IhrBgoVIoT4)
+* [GOTO Conferences / “Good Enough” Architecture Part 1 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=RtRpL3Ndi0c)
+* [GOTO Conferences / “Good Enough” Architecture Part 2 • Stefan Tilkov • GOTO 2020](https://www.youtube.com/watch?v=nbqh1EK_FU8)
+* [DevTernity Conference / 🚀 "Good Enough" Architecture (Stefan Tilkov)](https://www.youtube.com/watch?v=nb0Ru40548U)
+* [DevTernity Conference / Qualities of a Highly Effective Architect (Venkat Subramaniam)](https://www.youtube.com/watch?v=uUfitHl4ygU)
 
 # MVC, MVP, MVVM
 * [ArjanCodes / Which Software Architecture Should You Use: MVC, MVP, or MVVM?](https://www.youtube.com/watch?v=eHhXoCNCI1c)
@@ -87,6 +92,7 @@
 * [Coding Tech / Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
 * [NDC Conferences / Structure and Interpretation of Test Cases - Kevlin Henney](https://www.youtube.com/watch?v=tWn8RA_DEic)
 * [DevWeek Events / Test Smells and Fragrances - Kevlin Henney](https://www.youtube.com/watch?v=wCx_6kOo99M)
+* [DevTernity Conference / Decremental Development (Kevlin Henney)](https://www.youtube.com/watch?v=Wv4NBpB53Bg)
 
 # Functional Programming
 * [Coding Tech / An Introduction to Functional Programming](https://www.youtube.com/watch?v=1BbASVEUndQ)
@@ -167,6 +173,8 @@
 # Reactive Programming
 * [Coding Tech / Reactive Programming: Why It Matters](https://www.youtube.com/watch?v=49dMGC1hM1o)
 
+# Scrum / Agile
+* 
 # Microservice
 * [Coding Tech / Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * [Coding Tech / The Case Against Microservices](https://www.youtube.com/watch?v=r_vuXb9bIOM)
