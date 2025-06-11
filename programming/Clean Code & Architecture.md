@@ -32,6 +32,8 @@
 * [NDC Conferences / The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U)
 * [Brian Will / Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 * [DevTernity Conference / 🚀 DevTernity 2021: Adam Tornhill – Prioritizing Technical Debt as if Time and Money Matters](https://www.youtube.com/watch?v=b9I3aOnXepA)
+* [DevTernity Conference / War Is Peace, Freedom Is Slavery, Ignorance Is Strength, Scrum Is Agile (Allen Holub)](https://www.youtube.com/watch?v=41CES2sNPxs)
+* [DevTernity Conference / Right and Responsibilities of a Delivery Team (Sandro Mancuso)](https://www.youtube.com/watch?v=pX284uiCNqw)
 
 # Software Architecture
 * [Coding Tech / The Path to Becoming a Software Architect](https://www.youtube.com/watch?v=TMCh1ZQG0iM)
@@ -122,6 +124,7 @@
 * [Coding Tech / Breaking Dependencies: The SOLID Principles](https://www.youtube.com/watch?v=RT-npV1JRKE)
 * [ArjanCodes / Uncle Bob's SOLID principles made easy 🍀 - in Python!](https://www.youtube.com/watch?v=pTB30aXS77U)
 * [Amigoscode / Learn SOLID Principles with CLEAN CODE Examples](https://www.youtube.com/watch?v=_jDNAf3CzeY)
+* [DevTernity Conference / From Legacy to Solid Code (Bartłomiej Słota)](https://www.youtube.com/watch?v=JXQhAcm63aY)
 
 ## Scott Wlaschin
 * [NDC Conferences / Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
