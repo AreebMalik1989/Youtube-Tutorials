@@ -8,6 +8,7 @@
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 * [Amigoscode / Python Tutorial | Python for Absolute Beginners [2021]](https://www.youtube.com/watch?v=LzYNWme1W6Q)
 * [PyCon US / TUTORIAL / Trey Hunner / Hands-On Regular Expressions in Python](https://www.youtube.com/watch?v=aTZalKdYB44)
+* [PyCon US 2025 / Or Else! An Exploration of Obscure Control Flow - Amethyst Reese 🌸](https://www.youtube.com/watch?v=zFzEIIl3dEs&list=PLVZAVZvYYrhzq-yl_TSnpi89cMvGpJroL&index=45&pp=iAQBsAgC)
 
 # Pythonic code
 * [Caleb Curry / 50 Python Tips and Tricks for Beginners](https://www.youtube.com/watch?v=F3T8tg2tVKM)
