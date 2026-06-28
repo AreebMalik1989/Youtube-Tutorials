@@ -8,7 +8,7 @@
 * [freeCodeCamp.org / Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 * [Amigoscode / Python Tutorial | Python for Absolute Beginners [2021]](https://www.youtube.com/watch?v=LzYNWme1W6Q)
 * [PyCon US / TUTORIAL / Trey Hunner / Hands-On Regular Expressions in Python](https://www.youtube.com/watch?v=aTZalKdYB44)
-* [PyCon US 2025 / Or Else! An Exploration of Obscure Control Flow - Amethyst Reese 🌸](https://www.youtube.com/watch?v=zFzEIIl3dEs&list=PLVZAVZvYYrhzq-yl_TSnpi89cMvGpJroL&index=45&pp=iAQBsAgC)
+* [PyCon US 2025 / Or Else! An Exploration of Obscure Control Flow - Amethyst Reese 🌸](https://www.youtube.com/watch?v=zFzEIIl3dEs)
 
 # Pythonic code
 * [Caleb Curry / 50 Python Tips and Tricks for Beginners](https://www.youtube.com/watch?v=F3T8tg2tVKM)
@@ -26,6 +26,7 @@
 * [PyCon 2018 / Carl Meyer - Type-checked Python in the real world](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 * [PyCon US 2021 / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
 * [Coding Tech / \`typing.Protocol\`: Type Hints in Python](https://www.youtube.com/watch?v=aD9lEfUB9xk)
+* [PyCon US 2025 / Elastic Generics: Flexible Static Typing with TypeVarTuple and Unpack - Christopher Ariza](https://www.youtube.com/watch?v=fmczXlnQ3cs)
 * [ArjanCodes / Protocol Or ABC In Python - When to use which one?](https://www.youtube.com/watch?v=xvb5hGLoK0A)
 * [PyCon US 2021 / TALK / Luciano Ramalho / Protocol: the keystone of type hints](https://www.youtube.com/watch?v=kDDCKwP7QgQ)
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
