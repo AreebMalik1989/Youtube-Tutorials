@@ -146,6 +146,7 @@
 * [PyCon US 2021 / TALK / Emery Berger / Scalene: A high-performance, high-precision CPU+GPU+memory profiler for Python](https://www.youtube.com/watch?v=nrQPqy3YY5A)
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 * [Coding Tech / How we are making Python 3.11 faster (CPython project)](https://www.youtube.com/watch?v=MipEJ3XzZjU)
+* [PyCon US 2025 / Intuition vs. Reality: Surprising Truths in Python Performance - Arthur Pastel & Adrien Cacciaguerra](https://www.youtube.com/watch?v=TEF6yhdOwEA)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
