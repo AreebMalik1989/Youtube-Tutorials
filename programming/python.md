@@ -36,15 +36,18 @@
 * [PyCon US 2021 / TALK / Sebastiaan Zeeff / The magic of "self": How Python inserts "self" into methods.](https://www.youtube.com/watch?v=ANLjBsWHshc)
 * [PyCon US 2021 / TALK / Alexander Hultnér / Intro to Pydantic, run-time type checking for your dataclasses](https://www.youtube.com/watch?v=W7f52FhfYqQ)
 * [PyCon US 2021 / TALK / Reuven M. Lerner / When is an exception not an exception? Using warnings in Python](https://www.youtube.com/watch?v=X0AjcpicNOM)
+* [PyCon US 2025 / Notes, Groups and Stars: exceptional new features of Python 3.11! - Zac Hatfield-Dodds](https://www.youtube.com/watch?v=x5WdMYfsxnQ)
 * [PyCon US 2021 / TALK / Tobias Kohn / The Road to Pattern Matching in Python](https://www.youtube.com/watch?v=NYUXNRswe6k)
 * [Coding Tech / Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo)
 * [PyCon US / TUTORIAL / Geir Arne Hjelle / Introduction to Decorators: Power UP Your Python Code](https://www.youtube.com/watch?v=VWZAh1QrqRE)
+* [PyCon US 2025 / Metaprogramming with Decorators, Metaclasses, and Dynamic Code Generation - Aditya Mehra](https://www.youtube.com/watch?v=kKJR-aYew2o)
 * [PyCon US 2021 / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
 * [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
 * [Coding Tech / Pointers? In my Python? (It's More Likely Than You Think)](https://www.youtube.com/watch?v=xngMG5HDgUU)
 * [Coding Tech / Python Monorepos: What, Why and How](https://www.youtube.com/watch?v=1qurVKSYVqY)
 * [Coding Tech / Constraint Satisfaction Problems in Python](https://www.youtube.com/watch?v=_DAjDZXQfNE)
 * [Coding Tech / Introducing More of the Standard Library || Simon Ward Jones](https://www.youtube.com/watch?v=CjIVyQkThnA)
+* [PyCon US 2025 / The Zen of Polymorphism: Choosing between isinstance(), methods, and @singledispatch - Brett Slatkin](https://www.youtube.com/watch?v=hidy15rK2a4)
 
 # Testing
 ## Concepts
@@ -147,6 +150,7 @@
 * [PyGotham 2019 / 1000x faster data manipulation: vectorizing with Pandas and Numpy](https://www.youtube.com/watch?v=nxWginnBklU)
 * [Coding Tech / How we are making Python 3.11 faster (CPython project)](https://www.youtube.com/watch?v=MipEJ3XzZjU)
 * [PyCon US 2025 / Intuition vs. Reality: Surprising Truths in Python Performance - Arthur Pastel & Adrien Cacciaguerra](https://www.youtube.com/watch?v=TEF6yhdOwEA)
+* [PyCon US 2025 / When GPUs Make Python Slower: Patterns and Pitfalls - Kaashif Hymabaccus](https://www.youtube.com/watch?v=WfXfj29KhLo)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
