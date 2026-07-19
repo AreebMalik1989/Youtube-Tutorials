@@ -3,6 +3,9 @@
 * [Coding Tech / Self-Healing Test Automation - The Next Big Thing?](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [Coding Tech / How to Speed up Your Workflow with Console Shortcuts || DevTools Tips](https://www.youtube.com/watch?v=HVNAVLAAL_c)
 
+# Mocking
+* [Selenium Conference 2026 / Mocking client-side and server-side API calls with Selenium BiDi | Vitalii Potapov](https://www.youtube.com/watch?v=HgGz5TVyAn0)
+
 # Selenium-Spring
 * [Execute Automation / Spring Boot for Automation testing](https://www.youtube.com/playlist?list=PL6tu16kXT9PrDr6kMGQ-CgnvCsFxrq1eS)
 
