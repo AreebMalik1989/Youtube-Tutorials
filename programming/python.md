@@ -48,6 +48,7 @@
 * [Coding Tech / Constraint Satisfaction Problems in Python](https://www.youtube.com/watch?v=_DAjDZXQfNE)
 * [Coding Tech / Introducing More of the Standard Library || Simon Ward Jones](https://www.youtube.com/watch?v=CjIVyQkThnA)
 * [PyCon US 2025 / The Zen of Polymorphism: Choosing between isinstance(), methods, and @singledispatch - Brett Slatkin](https://www.youtube.com/watch?v=hidy15rK2a4)
+* [ArjanCodes / This Is Why Python Data Classes Are Awesome](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
 
 # Testing
 ## Concepts
@@ -97,6 +98,7 @@
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
 * [SF Python / Flavio Juvenal, "Preventing headaches with linters and automated checks", PyBay2017](https://www.youtube.com/watch?v=mXqKaM8Ddac)
+* [PyCon US 2025 / Who Tests the Testers? Making and Testing Pipelines - Evan Kohilas](https://www.youtube.com/watch?v=DhognqFaRow)
 
 # Concurrent
 * [PyCon 2017 / Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
@@ -113,6 +115,7 @@
 * [Coding Tech / Asyncio: Understanding Async / Await in Python](https://www.youtube.com/watch?v=bs9tlDFWWdQ)
 * [Coding Tech / Trio: Structured Concurrency for Python (Alternative to Asyncio)](https://www.youtube.com/watch?v=DwSwYLn5ye4)
 * [PyCon US 2021 / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE)
+* [PyCon US 2025 / Zoom, Enhance: Asyncio's New Introspection Powers - Pablo Galindo Salgado & Yury Selivanov](https://www.youtube.com/watch?v=RrsVi1P6n0w)
 
 # Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -133,6 +136,7 @@
 * [EuroPython Conference / Yenny Cheung - Washing away code smells](https://www.youtube.com/watch?v=-8ljgLLlyZw)
 * [Coding Tech / Domain Driven Design Patterns in Python](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 * [PyCon US 2021 / SPONSOR WORKSHOP / Charlie Engelke/ Google](https://www.youtube.com/watch?v=gdVf08sGwnM)
+* [PyCon US 2025 / Design Pressure: The Invisible Hand That Shapes Your Code - Hynek Schlawack](https://www.youtube.com/watch?v=IhNSINolcSM)
 
 # Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
@@ -164,6 +168,7 @@
 * [Coding Tech / Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 * [PyCon US 2021 / TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://www.youtube.com/watch?v=ApDThpsr2Fw)
 * [Coding Tech / Packaging Python in 2022](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
+* [PyCon US 2025 / Reinventing the Wheel: A Community-Driven Roadmap for Python Packaging](https://www.youtube.com/watch?v=1Oki8vAWb1Q)
 
 # Fastapi
 * [freeCodeCamp.org / Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
@@ -199,6 +204,7 @@
 * [Six Feet Up Corp / "Introduction to SQLAlchemy 2020 (Tutorial)" by: Mike Bayer](https://www.youtube.com/watch?v=sO7FFPNvX2s)
 * [freeCodeCamp.org / SQLite Databases With Python - Full Course](https://www.youtube.com/watch?v=byHcYRpMgI4)
 * [Next Day Video / SQL for Python Developers](https://www.youtube.com/watch?v=Thd8yoBou7k)
+* [PyCon US 2025 / Unlearning SQL - Steven Lott](https://www.youtube.com/watch?v=sFAxHLaVKxk)
 
 # Flask
 * [freeCodeCamp.org / Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
@@ -224,6 +230,7 @@
 * [Coding Tech / Thoughts on the Future of Python](https://www.youtube.com/watch?v=UfMAiS6ndbs)
 * [PyCon US 2021 / SPONSOR WORKSHOP / Shay DeWael and Alissa Renz /Slack](https://www.youtube.com/watch?v=Mlh8BD7xlgE)
 * [Coding Tech / Demystifying Python’s Internals](https://www.youtube.com/watch?v=2_TmUOCr1nw)
+* [PyCon US 2025 / What they don't tell you about building a JIT compiler for CPython - Brandt Bucher](https://www.youtube.com/watch?v=NE-Oq8I3X_w)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
@@ -238,6 +245,7 @@
 
 # Audio
 * [Coding Tech / Working with Audio in Python](https://www.youtube.com/watch?v=Grg3Klnw5i8)
+* [PyCon US 2025 / Make Python Talk, Make Python Listen - Al Sweigart](https://www.youtube.com/watch?v=bHUvzkuf3Qk)
 
 # Data Science
 ## Deep Learning
@@ -251,6 +259,7 @@
 ## Pandas
 * [Coding Tech / Effective Pandas](https://www.youtube.com/watch?v=UURvPeczxJI)
 * [Coding Tech / So You Wanna Be a Pandas Expert? || James Powell](https://www.youtube.com/watch?v=mWtfZaT7iSc)
+* [PyCon US 2025 / The PyArrow revolution in Pandas - Reuven M. Lerner](https://www.youtube.com/watch?v=Cpr0wbopYvU)
 
 ## Polars
 * [Coding Tech / Expressive and Fast Dataframes in Python with Polars || Juan Luis](https://www.youtube.com/watch?v=R0Y3LtZuUy8)
