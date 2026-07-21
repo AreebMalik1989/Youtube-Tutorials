@@ -177,8 +177,11 @@
 * [Coding Tech / Reactive Programming: Why It Matters](https://www.youtube.com/watch?v=49dMGC1hM1o)
 
 # Scrum / Agile
-* 
+
 # Microservice
 * [Coding Tech / Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * [Coding Tech / The Case Against Microservices](https://www.youtube.com/watch?v=r_vuXb9bIOM)
 * [Coding Tech / Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
+
+# Accessibility
+* [PyCon US 2025 / This Talk Has Been Disabled - Dawn Cooper](https://www.youtube.com/watch?v=JcwpExu6LWI)
