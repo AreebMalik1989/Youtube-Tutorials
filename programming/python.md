@@ -155,6 +155,7 @@
 * [Coding Tech / How we are making Python 3.11 faster (CPython project)](https://www.youtube.com/watch?v=MipEJ3XzZjU)
 * [PyCon US 2025 / Intuition vs. Reality: Surprising Truths in Python Performance - Arthur Pastel & Adrien Cacciaguerra](https://www.youtube.com/watch?v=TEF6yhdOwEA)
 * [PyCon US 2025 / When GPUs Make Python Slower: Patterns and Pitfalls - Kaashif Hymabaccus](https://www.youtube.com/watch?v=WfXfj29KhLo)
+* [PyCon US 2025 / GPU Programming in Pure Python - Bryce Adelstein Lelbach](https://www.youtube.com/watch?v=8utSRblGEB0)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
@@ -231,6 +232,7 @@
 * [PyCon US 2021 / SPONSOR WORKSHOP / Shay DeWael and Alissa Renz /Slack](https://www.youtube.com/watch?v=Mlh8BD7xlgE)
 * [Coding Tech / Demystifying Python’s Internals](https://www.youtube.com/watch?v=2_TmUOCr1nw)
 * [PyCon US 2025 / What they don't tell you about building a JIT compiler for CPython - Brandt Bucher](https://www.youtube.com/watch?v=NE-Oq8I3X_w)
+* [PyCon US 2025 / Scaling the Mountain: A Framework for Tackling Large-Scale Tech Debt - Jimmy Lai](https://www.youtube.com/watch?v=0mZ0AkLimDg)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
@@ -267,6 +269,7 @@
 ## Dask
 * [Coding Tech / Introduction to Dask: Scaling EDA & ML Workloads](https://www.youtube.com/watch?v=yHnHOSdihKo)
 * [PyCon US 2021 / TUTORIAL / James Bourbeau, Julia Signell / Hacking Dask: Diving Into Dask;s Internals](https://www.youtube.com/watch?v=LQrgDhN-XOo)
+* [PyCon US 2025 / Processing Large Geospatial Datasets with Dask & Xarray - Patrick Hoefler](https://www.youtube.com/watch?v=2ZToLEa9lW8)
 
 ## Matplotlib
 * [freeCodeCamp.org / Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
