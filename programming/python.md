@@ -116,6 +116,7 @@
 * [Coding Tech / Trio: Structured Concurrency for Python (Alternative to Asyncio)](https://www.youtube.com/watch?v=DwSwYLn5ye4)
 * [PyCon US 2021 / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE)
 * [PyCon US 2025 / Zoom, Enhance: Asyncio's New Introspection Powers - Pablo Galindo Salgado & Yury Selivanov](https://www.youtube.com/watch?v=RrsVi1P6n0w)
+* [PyCon US / Building a NoGIL Load Balancer in 30 minutes - Alvaro Duran](https://www.youtube.com/watch?v=AYSlsCz8gKM)
 
 # Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -138,6 +139,9 @@
 * [PyCon US 2021 / SPONSOR WORKSHOP / Charlie Engelke/ Google](https://www.youtube.com/watch?v=gdVf08sGwnM)
 * [PyCon US 2025 / Design Pressure: The Invisible Hand That Shapes Your Code - Hynek Schlawack](https://www.youtube.com/watch?v=IhNSINolcSM)
 
+# AI
+* [PyCon US 2025 / Building AI Applications the Pydantic Way (Sponsor: Pydantic)](https://www.youtube.com/watch?v=zJm5ou6tSxk)
+
 # Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
 * [Next Day Video / Monoids in Python](https://www.youtube.com/watch?v=50qhv8C3s9I)
@@ -156,6 +160,8 @@
 * [PyCon US 2025 / Intuition vs. Reality: Surprising Truths in Python Performance - Arthur Pastel & Adrien Cacciaguerra](https://www.youtube.com/watch?v=TEF6yhdOwEA)
 * [PyCon US 2025 / When GPUs Make Python Slower: Patterns and Pitfalls - Kaashif Hymabaccus](https://www.youtube.com/watch?v=WfXfj29KhLo)
 * [PyCon US 2025 / GPU Programming in Pure Python - Bryce Adelstein Lelbach](https://www.youtube.com/watch?v=8utSRblGEB0)
+* [PyCon US 2025 / Accelerated Python: The Community and Ecosystem (Sponsor: NVIDIA)](https://www.youtube.com/watch?v=6IcvKPfNXUw)
+* [PyCon US 2025 / 🐍 Python meets the crab 🦀 - Friendship at first sight? (Sponsor: Bloomberg)](https://www.youtube.com/watch?v=CqOZdTFb4io)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
@@ -194,6 +200,7 @@
 * [Coding Tech / Django Structure For Scale and Longevity](https://www.youtube.com/watch?v=Z5WQMSdcYv8)
 * [freeCodeCamp.org / Python Django and Google APIs - Project Tutorial](https://www.youtube.com/watch?v=_vCT42vDfgw)
 * [Academind / Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!](https://www.youtube.com/watch?v=t7DrJqcUviA)
+* [PyCon US / Evolving Django: What We Learned by Integrating MongoDB (Sponsor: MongoDB)](https://www.youtube.com/watch?v=AfmfJhgSlnk)
 ## Django Rest Framework
 * [CodingEntrepreneurs / Build a Django REST API with the Django Rest Framework. Complete Tutorial.](https://www.youtube.com/watch?v=c708Nf0cHrs)
 
@@ -233,6 +240,7 @@
 * [Coding Tech / Demystifying Python’s Internals](https://www.youtube.com/watch?v=2_TmUOCr1nw)
 * [PyCon US 2025 / What they don't tell you about building a JIT compiler for CPython - Brandt Bucher](https://www.youtube.com/watch?v=NE-Oq8I3X_w)
 * [PyCon US 2025 / Scaling the Mountain: A Framework for Tackling Large-Scale Tech Debt - Jimmy Lai](https://www.youtube.com/watch?v=0mZ0AkLimDg)
+* [PyCon US / Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)](https://www.youtube.com/watch?v=k5ITsaUGRj4)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
