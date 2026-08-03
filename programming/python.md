@@ -226,6 +226,7 @@
 
 # Games
 * [freeCodeCamp.org / Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
+* [PyCon US 2025 / From Desktop to Browser: Crafting Browser-Native Game Engine with Webassembly - Neeraj Pandey](https://www.youtube.com/watch?v=-BAEnYpsWKc)
 
 # Misc
 * [Next Day Video / When Booleans Are Not Enough... State Machines?](https://www.youtube.com/watch?v=I1Mzx_tSpew)
