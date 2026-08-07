@@ -61,6 +61,7 @@
 * [Coding Tech / Stop Writing Tests (Next Generation Tools To Automate Testing)](https://www.youtube.com/watch?v=XkpDwl5n7pg)
 * [PyCon US 2021 / TUTORIAL / Zac Hatfield-Dodds / Introduction to Property-Based Testing](https://www.youtube.com/watch?v=uN6JjpzVsAo)
 * [ArjanCodes / How to Use Hypothesis for Model-based Testing (Step by Step)](https://www.youtube.com/watch?v=-S3BFkNn0rQ)
+* [PyCon US 2025 / Schemas: The Key To Data Happiness - Sev Leonard](https://www.youtube.com/watch?v=fCkEo-1MG1A)
 ## Pytest
 * [Indian Pythonista / Unit Testing in Python with pytest](https://www.youtube.com/playlist?list=PLyb_C2HpOQSBWGekd7PfhHnb9GnqDgrxS)
 * [Mark Vousden / Python testing with pytest! Part 1: Introductions and motivating testing.](https://www.youtube.com/watch?v=KV5Mz5WJhY8)
@@ -187,6 +188,7 @@
 * [freeCodeCamp.org / FastAPI Course for Beginners](https://www.youtube.com/watch?v=tLKKmouUams)
 * [freeCodeCamp.org / Microservices with FastAPI – Full Course](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
 * [PyCon US 2021 / TALK / Thomas Jewitt / An Introduction to FastAPI](https://www.youtube.com/watch?v=_jh4Wc3CE38)
+* [PyCon US 2025 / Safeguard your precious API endpoints built on FastAPI using OAuth 2.0 - Semona Igama](https://www.youtube.com/watch?v=XxWWTwmaQJs)
 
 # Selenium
 * [freeCodeCamp.org / Selenium Course for Beginners - Web Scraping Bots, Browser Automation, Testing (Tutorial)](https://www.youtube.com/watch?v=j7VZsCCnptM)
