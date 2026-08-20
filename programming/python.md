@@ -95,6 +95,7 @@
 * [PyCon 2017 / Elizaveta Shashkova Debugging in Python 3 6 Better, Faster, Stronger PyCon 2017](https://www.youtube.com/watch?v=NdObDUbLjdg)
 * [Coding Tech / Learn CPython by Breaking It](https://www.youtube.com/watch?v=CRuXP2jvJ8U)
 * [PyCon US 2021 / SPONSOR WORKSHOP / Jérôme Vieilledent, Sümer Cip / Blackfire: Debugging Performance](https://www.youtube.com/watch?v=1EZ8oqjLun0)
+* [PyCon US 2025 / A new safe external debugger interface for CPython - Pablo Galindo Salgado & Ivona Stojanovic](https://www.youtube.com/watch?v=1N5BgXdO6SI)
 ## Automated Code Quality
 * [Real Python / Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * [PyGotham 2018 / Automating Code Quality: Next Level](https://www.youtube.com/watch?v=iKAaNaVpJFM)
@@ -243,7 +244,8 @@
 * [Coding Tech / Demystifying Python’s Internals](https://www.youtube.com/watch?v=2_TmUOCr1nw)
 * [PyCon US 2025 / What they don't tell you about building a JIT compiler for CPython - Brandt Bucher](https://www.youtube.com/watch?v=NE-Oq8I3X_w)
 * [PyCon US 2025 / Scaling the Mountain: A Framework for Tackling Large-Scale Tech Debt - Jimmy Lai](https://www.youtube.com/watch?v=0mZ0AkLimDg)
-* [PyCon US / Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)](https://www.youtube.com/watch?v=k5ITsaUGRj4)
+* [PyCon US 2025 / Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)](https://www.youtube.com/watch?v=k5ITsaUGRj4)
+* [PyCon US 2025 / Processing large JSON files without running out of memory - Itamar Turner-Trauring](https://www.youtube.com/watch?v=th3vsCDhujo)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
