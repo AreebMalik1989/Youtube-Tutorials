@@ -40,7 +40,6 @@
 * [PyCon US 2021 / TALK / Tobias Kohn / The Road to Pattern Matching in Python](https://www.youtube.com/watch?v=NYUXNRswe6k)
 * [Coding Tech / Python: How Decorators Function](https://www.youtube.com/watch?v=vtoXyxcfmUo)
 * [PyCon US / TUTORIAL / Geir Arne Hjelle / Introduction to Decorators: Power UP Your Python Code](https://www.youtube.com/watch?v=VWZAh1QrqRE)
-* [PyCon US 2025 / Metaprogramming with Decorators, Metaclasses, and Dynamic Code Generation - Aditya Mehra](https://www.youtube.com/watch?v=kKJR-aYew2o)
 * [PyCon US 2021 / TALK / Graham Bleaney, the_storm/ Unexpected Execution: Wild Ways Code Execution can Occur in Python](https://www.youtube.com/watch?v=R1KrPc1IOeE)
 * [Coding Tech / Objectionable Content (Python Object Model) || James Powell](https://www.youtube.com/watch?v=AmHE0kZhLIQ)
 * [Coding Tech / Pointers? In my Python? (It's More Likely Than You Think)](https://www.youtube.com/watch?v=xngMG5HDgUU)
@@ -249,6 +248,8 @@
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
+* [PyCon US 2025 / Metaprogramming with Decorators, Metaclasses, and Dynamic Code Generation - Aditya Mehra](https://www.youtube.com/watch?v=kKJR-aYew2o)
+* [PyCon US 2025 / Metaclasses Demystified - Jason C. McDonald](https://www.youtube.com/watch?v=fEm0vi8SpkI)
 
 # Playlists
 * [Sebastiaan Mathôt / Python lectures](https://www.youtube.com/playlist?list=PLR-r0edywujd8D-R2Kue1C_wYEK_4Ii71)
