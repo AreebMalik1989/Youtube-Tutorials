@@ -130,6 +130,7 @@
 * [LucidProgramming / Multiprocessing in Python: Logging](https://www.youtube.com/watch?v=KpDKpgzvmrY)
 * [LucidProgramming / Multiprocessing in Python: Pool](https://www.youtube.com/watch?v=u2jTn-Gj2Xw)
 * [LucidProgramming / Multiprocessing in Python: Process Communication](https://www.youtube.com/watch?v=TQx3IfCVvQ0)
+* [PyCon US 2025 / How two teams are working together to make Python better for all - Michael Droettboom, Dino Viehland](https://www.youtube.com/watch?v=-MVih3km4G4)
 
 # Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
@@ -245,6 +246,7 @@
 * [PyCon US 2025 / Scaling the Mountain: A Framework for Tackling Large-Scale Tech Debt - Jimmy Lai](https://www.youtube.com/watch?v=0mZ0AkLimDg)
 * [PyCon US 2025 / Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)](https://www.youtube.com/watch?v=k5ITsaUGRj4)
 * [PyCon US 2025 / Processing large JSON files without running out of memory - Itamar Turner-Trauring](https://www.youtube.com/watch?v=th3vsCDhujo)
+* [PyCon US 2025 / Keeping up with Python: what makes upgrades hard, and what can we do about it - Jason Fried](https://www.youtube.com/watch?v=2b-SeACd3tM)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
