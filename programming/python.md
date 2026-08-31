@@ -261,6 +261,9 @@
 * [Coding Tech / Multithreaded Python without the GIL](https://www.youtube.com/watch?v=W_e54RvADMU)
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
 
+# GUI
+* [PyCon US 2025 / How to build a cross-platform graphical user interface with Python - Russell Keith-Magee](https://www.youtube.com/watch?v=-HlWDVuZbYU)
+
 # Audio
 * [Coding Tech / Working with Audio in Python](https://www.youtube.com/watch?v=Grg3Klnw5i8)
 * [PyCon US 2025 / Make Python Talk, Make Python Listen - Al Sweigart](https://www.youtube.com/watch?v=bHUvzkuf3Qk)
