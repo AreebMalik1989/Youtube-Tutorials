@@ -118,6 +118,7 @@
 * [PyCon US 2021 / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE)
 * [PyCon US 2025 / Zoom, Enhance: Asyncio's New Introspection Powers - Pablo Galindo Salgado & Yury Selivanov](https://www.youtube.com/watch?v=RrsVi1P6n0w)
 * [PyCon US / Building a NoGIL Load Balancer in 30 minutes - Alvaro Duran](https://www.youtube.com/watch?v=AYSlsCz8gKM)
+* [PyCon US 2026 / Lock Free Multi Core Performance with Behavior Oriented Concurrency - Mathew Johnson](https://www.youtube.com/watch?v=LytoGIXLYkY)
 
 # Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -247,6 +248,7 @@
 * [PyCon US 2025 / Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)](https://www.youtube.com/watch?v=k5ITsaUGRj4)
 * [PyCon US 2025 / Processing large JSON files without running out of memory - Itamar Turner-Trauring](https://www.youtube.com/watch?v=th3vsCDhujo)
 * [PyCon US 2025 / Keeping up with Python: what makes upgrades hard, and what can we do about it - Jason Fried](https://www.youtube.com/watch?v=2b-SeACd3tM)
+* [PyCon US 2026 / Demystifying Python’s Generational Garbage Collector - Puneet Khushwani](https://www.youtube.com/watch?v=w9RNuPb0DBQ)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
