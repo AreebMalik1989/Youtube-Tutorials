@@ -48,6 +48,7 @@
 * [Coding Tech / Introducing More of the Standard Library || Simon Ward Jones](https://www.youtube.com/watch?v=CjIVyQkThnA)
 * [PyCon US 2025 / The Zen of Polymorphism: Choosing between isinstance(), methods, and @singledispatch - Brett Slatkin](https://www.youtube.com/watch?v=hidy15rK2a4)
 * [ArjanCodes / This Is Why Python Data Classes Are Awesome](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
+* [PyCon US 2026 / Python for Humans - Designing Python Code Like a User Interface - Justin Lee](https://www.youtube.com/watch?v=gDFlW_dMwZ4)
 
 # Testing
 ## Concepts
@@ -117,8 +118,6 @@
 * [Coding Tech / Trio: Structured Concurrency for Python (Alternative to Asyncio)](https://www.youtube.com/watch?v=DwSwYLn5ye4)
 * [PyCon US 2021 / TALK / John Belmonte / Your app is async so take advantage of it for development!](https://www.youtube.com/watch?v=olT7ejlv0uE)
 * [PyCon US 2025 / Zoom, Enhance: Asyncio's New Introspection Powers - Pablo Galindo Salgado & Yury Selivanov](https://www.youtube.com/watch?v=RrsVi1P6n0w)
-* [PyCon US / Building a NoGIL Load Balancer in 30 minutes - Alvaro Duran](https://www.youtube.com/watch?v=AYSlsCz8gKM)
-* [PyCon US 2026 / Lock Free Multi Core Performance with Behavior Oriented Concurrency - Mathew Johnson](https://www.youtube.com/watch?v=LytoGIXLYkY)
 
 # Multithreading / Multiprocessing
 * [Василий Айтипиплов / Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
@@ -132,6 +131,10 @@
 * [LucidProgramming / Multiprocessing in Python: Pool](https://www.youtube.com/watch?v=u2jTn-Gj2Xw)
 * [LucidProgramming / Multiprocessing in Python: Process Communication](https://www.youtube.com/watch?v=TQx3IfCVvQ0)
 * [PyCon US 2025 / How two teams are working together to make Python better for all - Michael Droettboom, Dino Viehland](https://www.youtube.com/watch?v=-MVih3km4G4)
+* [PyCon US / Building a NoGIL Load Balancer in 30 minutes - Alvaro Duran](https://www.youtube.com/watch?v=AYSlsCz8gKM)
+* [PyCon US 2026 / Lock Free Multi Core Performance with Behavior Oriented Concurrency - Mathew Johnson](https://www.youtube.com/watch?v=LytoGIXLYkY)
+* [PyCon US 2026 / Free threaded Python past, present and future - Thomas Wouters](https://www.youtube.com/watch?v=PZu6LyiZVbM)
+* [PyCon US 2026 / Making Python Faster with Free Threading and Mypyc - Jukka Lehtosalo](https://www.youtube.com/watch?v=Y-ri74ZfGdo)
 
 # Clean Code and Architecture
 * [Next Day Video / The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
@@ -144,6 +147,9 @@
 
 # AI
 * [PyCon US 2025 / Building AI Applications the Pydantic Way (Sponsor: Pydantic)](https://www.youtube.com/watch?v=zJm5ou6tSxk)
+* [PyCon US 2026 / Container-enabled Asyncio is All You Need (to Build Pythonic AI Workflows at Scale) - Niels Bantlin](https://www.youtube.com/watch?v=YF1Dgp0jZrM)
+* [PyCon US 2026 / AI-Assisted Contributions and Maintainer Load - Paolo Melchiorre](https://www.youtube.com/watch?v=EKayPgbD6J0)
+* [PyCon US 2026 / Distributing AI with Python in the Browser: Edge Inference and Flexibility... - Fabio Pliger](https://www.youtube.com/watch?v=xncJoSGWZpg)
 
 # Functional programming
 * [Next Day Video / Functional Programming with Python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
@@ -165,6 +171,7 @@
 * [PyCon US 2025 / GPU Programming in Pure Python - Bryce Adelstein Lelbach](https://www.youtube.com/watch?v=8utSRblGEB0)
 * [PyCon US 2025 / Accelerated Python: The Community and Ecosystem (Sponsor: NVIDIA)](https://www.youtube.com/watch?v=6IcvKPfNXUw)
 * [PyCon US 2025 / 🐍 Python meets the crab 🦀 - Friendship at first sight? (Sponsor: Bloomberg)](https://www.youtube.com/watch?v=CqOZdTFb4io)
+* [PyCon US 2026 / Tachyon: Python 3.15's sampling profiler is faster...- Pablo Galindo Salgado, Laszlo Kiss Kollar](https://www.youtube.com/watch?v=f1x4X83CDSA)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
@@ -179,6 +186,7 @@
 * [PyCon US 2021 / TUTORIAL / Bernát Gabor / Python Packaging Demystified](https://www.youtube.com/watch?v=ApDThpsr2Fw)
 * [Coding Tech / Packaging Python in 2022](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
 * [PyCon US 2025 / Reinventing the Wheel: A Community-Driven Roadmap for Python Packaging](https://www.youtube.com/watch?v=1Oki8vAWb1Q)
+* [PyCon US 2026 / Create a Python Package From Zero to Hero - Mario Munoz](https://www.youtube.com/watch?v=oM_3N2ocExc)
 
 # Fastapi
 * [freeCodeCamp.org / Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
@@ -249,6 +257,7 @@
 * [PyCon US 2025 / Processing large JSON files without running out of memory - Itamar Turner-Trauring](https://www.youtube.com/watch?v=th3vsCDhujo)
 * [PyCon US 2025 / Keeping up with Python: what makes upgrades hard, and what can we do about it - Jason Fried](https://www.youtube.com/watch?v=2b-SeACd3tM)
 * [PyCon US 2026 / Demystifying Python’s Generational Garbage Collector - Puneet Khushwani](https://www.youtube.com/watch?v=w9RNuPb0DBQ)
+* [PyCon US 2026 / What Python Developers Need to Know About Hardware: A Practical Guide...- Vyas Ramasubramani](https://www.youtube.com/watch?v=P8P4lHzlUMU)
 
 # Metaprogramming
 * [Next Day Video / Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI)
@@ -262,6 +271,7 @@
 # GIL
 * [Coding Tech / Multithreaded Python without the GIL](https://www.youtube.com/watch?v=W_e54RvADMU)
 * [AlphaVideoIreland / PyCon 2015 - Python's Infamous GIL by Larry Hastings](https://www.youtube.com/watch?v=KVKufdTphKs)
+* [PyCon US 2026 / Demystifying the GIL - Bruce Eckel](https://www.youtube.com/watch?v=MC1PQ7ZgUeU)
 
 # GUI
 * [PyCon US 2025 / How to build a cross-platform graphical user interface with Python - Russell Keith-Magee](https://www.youtube.com/watch?v=-HlWDVuZbYU)
