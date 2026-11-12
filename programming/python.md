@@ -28,6 +28,7 @@
 * [PyCon US 2021 / TALK / Maggie Moss / Gradual Typing in Practice](https://www.youtube.com/watch?v=Lj_9TyT3V98)
 * [Coding Tech / \`typing.Protocol\`: Type Hints in Python](https://www.youtube.com/watch?v=aD9lEfUB9xk)
 * [PyCon US 2025 / Elastic Generics: Flexible Static Typing with TypeVarTuple and Unpack - Christopher Ariza](https://www.youtube.com/watch?v=fmczXlnQ3cs)
+* [PyCon US 2026 / Mind the gap! Why static typing requires more than just adding annotations -Jia Chen, Steven Troxler](https://www.youtube.com/watch?v=zIUGND4Ubmo)
 * [ArjanCodes / Protocol Or ABC In Python - When to use which one?](https://www.youtube.com/watch?v=xvb5hGLoK0A)
 * [PyCon US 2021 / TALK / Luciano Ramalho / Protocol: the keystone of type hints](https://www.youtube.com/watch?v=kDDCKwP7QgQ)
 * [Coding Tech / When Python Practices Go Wrong](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
@@ -49,6 +50,11 @@
 * [PyCon US 2025 / The Zen of Polymorphism: Choosing between isinstance(), methods, and @singledispatch - Brett Slatkin](https://www.youtube.com/watch?v=hidy15rK2a4)
 * [ArjanCodes / This Is Why Python Data Classes Are Awesome](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
 * [PyCon US 2026 / Python for Humans - Designing Python Code Like a User Interface - Justin Lee](https://www.youtube.com/watch?v=gDFlW_dMwZ4)
+* [PyCon US 2026 / Lazy imports and the art of interpreter procrastination - Brittany Reynoso](https://www.youtube.com/watch?v=6C1dPOeXOfU)
+* [PyCon US 2026 / The Bakery: How Lazy imports sped up my bread operations business - Jacob Coffee](https://www.youtube.com/watch?v=BdSne37enK4)
+* [PyCon US 2026 / PEP 750 - T-strings: safer and smarter string processing - Vinícius Gubiani Ferreira](https://www.youtube.com/watch?v=3OvmsETa7f8)
+* [PyCon US 2026 / pathlib: why and how to use it - Trey Hunner](https://www.youtube.com/watch?v=qU6mN3XENEY)
+* [PyCon US 2026 / Text is not text: a history of strings in Python - Daniel Hervás](https://www.youtube.com/watch?v=m5ZboJD84CY)
 
 # Testing
 ## Concepts
@@ -172,6 +178,8 @@
 * [PyCon US 2025 / Accelerated Python: The Community and Ecosystem (Sponsor: NVIDIA)](https://www.youtube.com/watch?v=6IcvKPfNXUw)
 * [PyCon US 2025 / 🐍 Python meets the crab 🦀 - Friendship at first sight? (Sponsor: Bloomberg)](https://www.youtube.com/watch?v=CqOZdTFb4io)
 * [PyCon US 2026 / Tachyon: Python 3.15's sampling profiler is faster...- Pablo Galindo Salgado, Laszlo Kiss Kollar](https://www.youtube.com/watch?v=f1x4X83CDSA)
+* [PyCon US 2026 / Memory management in CPython, fast or slow? - Mark Shannon](https://www.youtube.com/watch?v=Cxv1ujO3izo)
+* [PyCon US 2026 / Live process manipulation with Python 3.14's zero overhead debugging interface - Savannah Ostrowski](https://www.youtube.com/watch?v=CnDFc4azdbU)
 
 # Distribution
 * [Eric O Meehan / Intermediate Python Tutorial: How to Use the __init__.py File](https://www.youtube.com/watch?v=cONc0NcKE7s)
@@ -187,6 +195,7 @@
 * [Coding Tech / Packaging Python in 2022](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
 * [PyCon US 2025 / Reinventing the Wheel: A Community-Driven Roadmap for Python Packaging](https://www.youtube.com/watch?v=1Oki8vAWb1Q)
 * [PyCon US 2026 / Create a Python Package From Zero to Hero - Mario Munoz](https://www.youtube.com/watch?v=oM_3N2ocExc)
+* [PyCon US 2026 / How to give your Python code to someone else - Russell Keith-Magee](https://www.youtube.com/watch?v=A2-pcMOVu0c)
 
 # Fastapi
 * [freeCodeCamp.org / Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
@@ -275,6 +284,12 @@
 
 # GUI
 * [PyCon US 2025 / How to build a cross-platform graphical user interface with Python - Russell Keith-Magee](https://www.youtube.com/watch?v=-HlWDVuZbYU)
+* [PyCon US 2026 / Build Interactive Web Apps with Python: Streamlit and Supabase - Nicolas Emir Mejia Agreda](https://www.youtube.com/watch?v=9NICc1uuveA)
+
+# CLI / TUI
+* [PyCon US 2026 / How to Write a Great Command Line Application - Dan Craig](https://www.youtube.com/watch?v=sflWQAxZV0U)
+* [PyCon US 2026 / The Terminal is the New Browser: Building Rich TUIs with Textual - Andres Pineda](https://www.youtube.com/watch?v=xYRDhr8zv4I)
+* [PyCon US 2026 / Upgrading Python CLIs From Scripts to Interactive Tools - Avik Basu](https://www.youtube.com/watch?v=lVIPEjDVTME)
 
 # Audio
 * [Coding Tech / Working with Audio in Python](https://www.youtube.com/watch?v=Grg3Klnw5i8)
